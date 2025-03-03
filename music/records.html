@@ -14,6 +14,7 @@ description: "Just a list of all the records in my collection."
         <p class="pt-4 text-sm font-semibold">{{ item.Title }}</p>
         <p class="text-sm">{{ item.Artist }}</p>
         <p class="text-sm">({{ item.Label }}, {{ item.Released }})</p>
+        <p class="text-sm">Format: {{ item.Format }}</p>
       </article>
     {% endfor %}
   </div>
