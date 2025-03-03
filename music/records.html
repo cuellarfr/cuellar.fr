@@ -6,7 +6,6 @@ description: "Just a list of all the records in my collection."
 ---
 <main id="main">
   {% include heading.html heading=page.heading %}
-
   <div class="grid grid-cols-2 gap-x-6 gap-y-10 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 xl:gap-x-8 mb-3">
     {% assign sorted_items = site.data.records.main | sort: 'Artist' %}
     {% for item in sorted_items %}
@@ -18,4 +17,8 @@ description: "Just a list of all the records in my collection."
       </article>
     {% endfor %}
   </div>
+  <div class="collection-stats">
+      <p>Albums in Vinyl Format: {{ site.data.records.main | where: "Format", "Vinyl" | size }}</p>
+      <p>Albums in CD Format: {{ site.data.records.main | where: "Format", "CD" | size }}</p>
+      <p><strong>Total Albums: {{ site.data.records.main | size }}</strong></p>
 </main>
