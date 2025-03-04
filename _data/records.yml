@@ -4,7 +4,7 @@ main:
     Title: "This Is Hardcore"
     Label: "Island"
     Released: "1998"
-    Thumbnail: "hardcore.jpg"
+    Thumbnail: "hardcore.webp"
     Format:
       - Vinyl
       - CD
@@ -13,21 +13,21 @@ main:
     Title: Mr. Luck & Ms. Doom
     Label: El Cortez
     Released: 2025
-    Thumbnail: delines_luck.jpg
+    Thumbnail: delines_luck.webp
     Format: Vinyl
 -
     Artist: Delines, The
     Title: The Sea Drift
     Label: El Cortez
     Released: 2022
-    Thumbnail: delines_sea.jpg
+    Thumbnail: delines_sea.webp
     Format: Vinyl
 -
     Artist: Jayhawks, The
     Title: Tomorrow the Green Grass
     Label: American
     Released: 1995
-    Thumbnail: jayhawks_tomorrow.jpg
+    Thumbnail: jayhawks_tomorrow.webp
     Format:
       - Vinyl
       - CD
@@ -36,21 +36,21 @@ main:
     Title: Music for the Age of Miracles
     Label: Merge
     Released: 2017
-    Thumbnail: clientele_miracle.jpg
+    Thumbnail: clientele_miracle.webp
     Format: Vinyl
 -
     Artist: Beach Boys, The
     Title: Pet Sounds
     Label: Capitol
     Released: 1966
-    Thumbnail: petsounds.jpg
+    Thumbnail: petsounds.webp
     Format: Vinyl
 -
     Artist: "!!!"
     Title: "Louden Up Now"
     Label: "Touch and Go"
     Released: "2004"
-    Thumbnail: "loudenup.jpg"
+    Thumbnail: "loudenup.webp"
     Format: "CD"
 -
     Artist: "1990s"
@@ -64,1232 +64,1232 @@ main:
     Title: "A Girl Called Eddy"
     Label: "Anti"
     Released: "2004"
-    Thumbnail: "agirl.jpg"
+    Thumbnail: "agirl.webp"
     Format: "CD"
 -
     Artist: "Afghan Whigs, The"
     Title: "Gentlemen"
     Label: "Elektra"
     Released: "1993"
-    Thumbnail: "gentlemen.jpg"
+    Thumbnail: "gentlemen.webp"
     Format: "CD"
 -
     Artist: "Aidan Bartley"
     Title: "Listen To The Sound Waves"
     Label: "Phonector"
     Released: "2003"
-    Thumbnail: "aidan.jpg"
+    Thumbnail: "aidan.webp"
     Format: "CD"
 -
     Artist: "Air"
     Title: "Pocket Symphony"
     Label: "Astralwerks"
     Released: "2007"
-    Thumbnail: "air_pocket.jpg"
+    Thumbnail: "air_pocket.webp"
     Format: "CD"
 -
     Artist: "Air"
     Title: "Moon Safari"
     Label: "Astralwerks"
     Released: "1998"
-    Thumbnail: "air_moon.jpg"
+    Thumbnail: "air_moon.webp"
     Format: "CD"
 -
     Artist: "American Music Club"
     Title: "San Francisco"
     Label: "Reprise"
     Released: "1994"
-    Thumbnail: "sf.jpg"
+    Thumbnail: "sf.webp"
     Format: "CD"
 -
     Artist: "American Music Club"
     Title: "The Golden Age"
     Label: "Merge"
     Released: "2008"
-    Thumbnail: "golden.jpg"
+    Thumbnail: "golden.webp"
     Format: "CD"
 -
     Artist: "American Music Club"
     Title: "Everclear"
     Label: "Alias"
     Released: "1991"
-    Thumbnail: "everclear.jpg"
+    Thumbnail: "everclear.webp"
     Format: "CD"
 -
     Artist: "Ana D"
     Title: "Satélite 99"
     Label: "Elefant"
     Released: "1997"
-    Thumbnail: "anad.jpg"
+    Thumbnail: "anad.webp"
     Format: "CD"
 -
     Artist: "Andrew Bird"
     Title: "Break It Yourself"
     Label: "MOM & POP MUSIC"
     Released: "2012"
-    Thumbnail: "breakit.jpg"
+    Thumbnail: "breakit.webp"
     Format: "CD"
 -
     Artist: "Andrew Bird"
     Title: "Noble Beast"
     Label: "Fat Possum"
     Released: "2009"
-    Thumbnail: "noblebeast.jpg"
+    Thumbnail: "noblebeast.webp"
     Format: "CD"
 -
     Artist: "Anthony and The Johnsons"
     Title: "I Am A Bird Now"
     Label: "Rough Trade"
     Released: "2004"
-    Thumbnail: "bird.jpg"
+    Thumbnail: "bird.webp"
     Format: "CD"
 -
     Artist: "Apples in Stereo, The"
     Title: "Tone Soul Evolution"
     Label: "Yep Roc"
     Released: "1997"
-    Thumbnail: "apples_tonesoul.jpg"
+    Thumbnail: "apples_tonesoul.webp"
     Format: "CD"
 -
     Artist: "Apples in Stereo, The"
     Title: "The Discovery of a World Inside the Moone"
     Label: "Yep Rock"
     Released: "2000"
-    Thumbnail: "apples_moone.jpg"
+    Thumbnail: "apples_moone.webp"
     Format: "CD"
 -
     Artist: "Arab Strap"
     Title: "The Red Thread"
     Label: "Chemikal Underground"
     Released: "2001"
-    Thumbnail: "arabthread.jpg"
+    Thumbnail: "arabthread.webp"
     Format: "CD"
 -
     Artist: "Arab Strap"
     Title: "Elephant Shoe"
     Label: "Go! Beat"
     Released: "1999"
-    Thumbnail: "arabelephant.jpg"
+    Thumbnail: "arabelephant.webp"
     Format: "CD"
 -
     Artist: "Arab Strap"
     Title: "Monday at the Hug & Pint"
     Label: "Matador"
     Released: "2003"
-    Thumbnail: "arabmonday.jpg"
+    Thumbnail: "arabmonday.webp"
     Format: "CD"
 -
     Artist: "Arcade Fire"
     Title: "Funeral"
     Label: "Merge"
     Released: "2004"
-    Thumbnail: "funeral.jpg"
+    Thumbnail: "funeral.webp"
     Format: "CD"
 -
     Artist: "Aretha Franklin"
     Title: "Aretha Sings The Blues"
     Label: "Columbia"
     Released: "1985"
-    Thumbnail: "arethablues.jpg"
+    Thumbnail: "arethablues.webp"
     Format: "CD"
 -
     Artist: "Aretha Franklin"
     Title: "Lady Soul"
     Label: "Atlantic"
     Released: "1967"
-    Thumbnail: "arethasoul.jpg"
+    Thumbnail: "arethasoul.webp"
     Format: "CD"
 -
     Artist: "Auteurs, The"
     Title: "Now I'm a Cowboy"
     Label: "Hut"
     Released: "1994"
-    Thumbnail: "auteurscowboy.jpg"
+    Thumbnail: "auteurscowboy.webp"
     Format: "CD"
 -
     Artist: "Auteurs, The"
     Title: "New Wave"
     Label: "3 Loop Music"
     Released: "1993"
-    Thumbnail: "auteurswave.jpg"
+    Thumbnail: "auteurswave.webp"
     Format: "CD"
 -
     Artist: "Bad Plus, The"
     Title: "Give"
     Label: "Columbia"
     Released: "2004"
-    Thumbnail: "badplus.jpg"
+    Thumbnail: "badplus.webp"
     Format: "CD"
 -
     Artist: "Bart Davenport"
     Title: "Searching for Bart Davenport"
     Label: "Tapete"
     Released: "2011"
-    Thumbnail: "searchingbart.jpg"
+    Thumbnail: "searchingbart.webp"
     Format: "CD"
 -
     Artist: "Beach Boys, The"
     Title: "Icon"
     Label: "Capitol"
     Released: "2013"
-    Thumbnail: "bbicon.jpg"
+    Thumbnail: "bbicon.webp"
     Format: "CD"
 -
     Artist: "Beach Boys, The"
     Title: "The Pet Sounds Sessions"
     Label: "Capitol"
     Released: "1997"
-    Thumbnail: "bbpetsounds.jpg"
+    Thumbnail: "bbpetsounds.webp"
     Format: "CD"
 -
     Artist: "Beachwood Sparks"
     Title: "Once We Were Trees"
     Label: "Sub Pop"
     Released: "2002"
-    Thumbnail: "sparkstrees.jpg"
+    Thumbnail: "sparkstrees.webp"
     Format: "CD"
 -
     Artist: "Beastie Boys"
     Title: "Hello Nasty"
     Label: "Capitol"
     Released: "1998"
-    Thumbnail: "hellonasty.jpg"
+    Thumbnail: "hellonasty.webp"
     Format: "CD"
 -
     Artist: "Beastie Boys"
     Title: "Ill Communication"
     Label: "Capitol"
     Released: "1994"
-    Thumbnail: "illcommunication.jpg"
+    Thumbnail: "illcommunication.webp"
     Format: "CD"
 -
     Artist: "Beatles, The"
     Title: "The Early Tapes"
     Label: "Polydor"
     Released: "1990"
-    Thumbnail: "beatlestapes.jpg"
+    Thumbnail: "beatlestapes.webp"
     Format: "CD"
 -
     Artist: "Beck"
     Title: "Devil´s Haircut"
     Label: "Geffen"
     Released: "1996"
-    Thumbnail: "devilshaircut.jpg"
+    Thumbnail: "devilshaircut.webp"
     Format: "CD"
 -
     Artist: "Beck"
     Title: "Guero"
     Label: "Interscope"
     Released: "2005"
-    Thumbnail: "guero.jpg"
+    Thumbnail: "guero.webp"
     Format: "CD"
 -
     Artist: "Beck"
     Title: "Jack-Ass"
     Label: "Geffen"
     Released: "1997"
-    Thumbnail: "jackass.jpg"
+    Thumbnail: "jackass.webp"
     Format: "CD"
 -
     Artist: "Beck"
     Title: "Loser"
     Label: "Geffen"
     Released: "1994"
-    Thumbnail: "loser.jpg"
+    Thumbnail: "loser.webp"
     Format: "CD"
 -
     Artist: "Beck"
     Title: "Mellow Gold"
     Label: "Geffen"
     Released: "1994"
-    Thumbnail: "mellowgold.jpg"
+    Thumbnail: "mellowgold.webp"
     Format: "CD"
 -
     Artist: "Beck"
     Title: "Odelay"
     Label: "Geffen"
     Released: "1996"
-    Thumbnail: "odelay.jpg"
+    Thumbnail: "odelay.webp"
     Format: "CD"
 -
     Artist: "Beck"
     Title: "One Foot In The Grave"
     Label: "K"
     Released: "1994"
-    Thumbnail: "onefoot.jpg"
+    Thumbnail: "onefoot.webp"
     Format: "CD"
 -
     Artist: "Beck"
     Title: "Sterepathetic Soulmanure"
     Label: "Flipside"
     Released: "1994"
-    Thumbnail: "stereopathetic.jpg"
+    Thumbnail: "stereopathetic.webp"
     Format: "CD"
 -
     Artist: "Beck"
     Title: "Where It´s At"
     Label: "Geffen"
     Released: "1996"
-    Thumbnail: "where.jpg"
+    Thumbnail: "where.webp"
     Format: "CD"
 -
     Artist: "Beck"
     Title: "Midnite Vultures"
     Label: "Geffen"
     Released: "1999"
-    Thumbnail: "midnite.jpg"
+    Thumbnail: "midnite.webp"
     Format: "CD"
 -
     Artist: "Belle and Sebastian"
     Title: "3, 6, 9 Seconds of Light"
     Label: "Jeepster"
     Released: "1997"
-    Thumbnail: "369.jpg"
+    Thumbnail: "369.webp"
     Format: "CD"
 -
     Artist: "Belle and Sebastian"
     Title: "Dog On Wheels"
     Label: "Jeepster"
     Released: "1997"
-    Thumbnail: "dogwheels.jpg"
+    Thumbnail: "dogwheels.webp"
     Format: "CD"
 -
     Artist: "Belle and Sebastian"
     Title: "Lazy Line Painter Jane"
     Label: "Jeepster"
     Released: "1997"
-    Thumbnail: "lazyline.jpg"
+    Thumbnail: "lazyline.webp"
     Format: "CD"
 -
     Artist: "Belle and Sebastian"
     Title: "The BBC Sessions"
     Label: "Jeepster"
     Released: "2008"
-    Thumbnail: "bsbbc.png"
+    Thumbnail: "bsbbc.webp"
     Format: "CD"
 -
     Artist: "Belle and Sebastian"
     Title: "The Boy With The Arab Strap"
     Label: "Jeepster"
     Released: "1998"
-    Thumbnail: "bsarab.jpg"
+    Thumbnail: "bsarab.webp"
     Format: "CD"
 -
     Artist: "Belle and Sebastian"
     Title: "Legal Man"
     Label: "Jeepster"
     Released: "2000"
-    Thumbnail: "legalman.jpg"
+    Thumbnail: "legalman.webp"
     Format: "CD"
 -
     Artist: "Beta Band, The"
     Title: "The Three EPs"
     Label: "Astralwerks"
     Released: "1999"
-    Thumbnail: "betaband.jpg"
+    Thumbnail: "betaband.webp"
     Format: "CD"
 -
     Artist: "Beth Orton"
     Title: "Central Reservation"
     Label: "Heavenly"
     Released: "1999"
-    Thumbnail: "bethcentral.jpg"
+    Thumbnail: "bethcentral.webp"
     Format: "CD"
 -
     Artist: "Beulah"
     Title: "The Coast Is Never Clear"
     Label: "Velocette"
     Released: "2001"
-    Thumbnail: "beulahcoast.jpg"
+    Thumbnail: "beulahcoast.webp"
     Format: "CD"
 -
     Artist: "Beulah"
     Title: "Yoko"
     Label: "Velocette"
     Released: "2003"
-    Thumbnail: "beulahyoko.jpg"
+    Thumbnail: "beulahyoko.webp"
     Format: "CD"
 -
     Artist: "Billy Bragg"
     Title: "Back To Basics"
     Label: "Elektra"
     Released: "1987"
-    Thumbnail: "bragg.jpg"
+    Thumbnail: "bragg.webp"
     Format: "CD"
 -
     Artist: "Billy Bragg & Wilco"
     Title: "Mermaid Avenue"
     Label: "Elektra"
     Released: "1998"
-    Thumbnail: "mermaid.jpg"
+    Thumbnail: "mermaid.webp"
     Format: "CD"
 -
     Artist: "Billy Bragg & Wilco"
     Title: "Mermaid Avenue Vol. II"
     Label: "Elektra"
     Released: "2000"
-    Thumbnail: "mermaid2.jpg"
+    Thumbnail: "mermaid2.webp"
     Format: "CD"
 -
     Artist: "Björk"
     Title: "Debut"
     Label: "One Little Indian"
     Released: "1993"
-    Thumbnail: "debut.jpg"
+    Thumbnail: "debut.webp"
     Format: "CD"
 -
     Artist: "Björk"
     Title: "Telegram"
     Label: "One Little Indian"
     Released: "1996"
-    Thumbnail: "telegram.jpg"
+    Thumbnail: "telegram.webp"
     Format: "CD"
 -
     Artist: "Björk"
     Title: "Vespertine"
     Label: "One Little Indian"
     Released: "2001"
-    Thumbnail: "vespertine.png"
+    Thumbnail: "vespertine.webp"
     Format: "CD"
 -
     Artist: "Björk"
     Title: "Homogenic"
     Label: "One Little Indian"
     Released: "1997"
-    Thumbnail: "homogenic.jpg"
+    Thumbnail: "homogenic.webp"
     Format: "CD"
 -
     Artist: "Björk"
     Title: "Post"
     Label: "Elektra"
     Released: "1995"
-    Thumbnail: "post.jpg"
+    Thumbnail: "post.webp"
     Format: "CD"
 -
     Artist: "Black Box Recorder"
     Title: "The Facts Of Life"
     Label: "Jetset"
     Released: "2000"
-    Thumbnail: "blackbox.jpg"
+    Thumbnail: "blackbox.webp"
     Format: "CD"
 -
     Artist: "Black Keys, The"
     Title: "El Camino"
     Label: "Nonesuch"
     Released: "2011"
-    Thumbnail: "camino.jpg"
+    Thumbnail: "camino.webp"
     Format: "CD"
 -
     Artist: "Bob Dylan"
     Title: "Blood On The Tracks"
     Label: "Columbia"
     Released: "1974"
-    Thumbnail: "dylanblood.jpg"
+    Thumbnail: "dylanblood.webp"
     Format: "CD"
 -
     Artist: "Bob Dylan"
     Title: "Tempest"
     Label: "Columbia"
     Released: "2012"
-    Thumbnail: "tempest.jpg"
+    Thumbnail: "tempest.webp"
     Format: "CD"
 -
     Artist: "Bob Dylan"
     Title: "Love And Theft"
     Label: "Columbia"
     Released: "2001"
-    Thumbnail: "dylanlove.jpg"
+    Thumbnail: "dylanlove.webp"
     Format: "CD"
 -
     Artist: "Bob Dylan"
     Title: "Modern Times"
     Label: "Columbia"
     Released: "2005"
-    Thumbnail: "dylanmodern.jpg"
+    Thumbnail: "dylanmodern.webp"
     Format: "CD"
 -
     Artist: "Bob Dylan"
     Title: "Under The Red Sky"
     Label: "Columbia"
     Released: "1990"
-    Thumbnail: "dylansky.jpg"
+    Thumbnail: "dylansky.webp"
     Format: "CD"
 -
     Artist: "Bob Dylan"
     Title: "John Wesley Harding"
     Label: "Columbia"
     Released: "1967"
-    Thumbnail: "jwh.jpg"
+    Thumbnail: "jwh.webp"
     Format: "CD"
 -
     Artist: "Bon Iver"
     Title: "For Emma, Forever Ago"
     Label: "Jagjaguwar"
     Released: "2008"
-    Thumbnail: "boniveremma.jpg"
+    Thumbnail: "boniveremma.webp"
     Format: "CD"
 -
     Artist: "Bonnie 'Prince' Billy"
     Title: "Beware"
     Label: "Drag City"
     Released: "2009"
-    Thumbnail: "beware.jpg"
+    Thumbnail: "beware.webp"
     Format: "CD"
 -
     Artist: "Boo Radleys, The"
     Title: "C'Mon Kids"
     Label: "Creation"
     Released: "1996"
-    Thumbnail: "boo.jpg"
+    Thumbnail: "boo.webp"
     Format: "CD"
 -
     Artist: "Breeders, The"
     Title: "Last Splash"
     Label: "4AD"
     Released: "1993"
-    Thumbnail: "breeders.jpg"
+    Thumbnail: "breeders.webp"
     Format: "CD"
 -
     Artist: "Bright Eyes"
     Title: "Digital Ash In A Digital Urn"
     Label: "Saddle Creek"
     Released: "2005"
-    Thumbnail: "brightdigital.jpg"
+    Thumbnail: "brightdigital.webp"
     Format: "CD"
 -
     Artist: "Bright Eyes"
     Title: "I'm Wide Awake, It's Morning"
     Label: "Saddle Creek"
     Released: "2005"
-    Thumbnail: "brightwide.jpg"
+    Thumbnail: "brightwide.webp"
     Format: "CD"
 -
     Artist: "Bruce Springsteen"
     Title: "Tracks"
     Label: "Columbia"
     Released: "1998"
-    Thumbnail: "bosstracks.jpg"
+    Thumbnail: "bosstracks.webp"
     Format: "CD"
 -
     Artist: "Built to Spill"
     Title: "Keep It Like a Secret"
     Label: "City Slang"
     Released: "1999"
-    Thumbnail: "secret.jpg"
+    Thumbnail: "secret.webp"
     Format: "CD"
 -
     Artist: "Built to Spill"
     Title: "Live"
     Label: "Warner"
     Released: "2000"
-    Thumbnail: "builtlive.jpg"
+    Thumbnail: "builtlive.webp"
     Format: "CD"
 -
     Artist: "Byrds, The"
     Title: "Sweetheart of The Rodeo"
     Label: "Columbia"
     Released: "1968"
-    Thumbnail: "sweetheart.jpg"
+    Thumbnail: "sweetheart.webp"
     Format: "CD"
 -
     Artist: "Calexico"
     Title: "Feast of Wire"
     Label: "Quarterstick"
     Released: "2003"
-    Thumbnail: "calexicofeast.jpg"
+    Thumbnail: "calexicofeast.webp"
     Format: "CD"
 -
     Artist: "Calexico"
     Title: "Garden Ruin"
     Label: "Quarterstick"
     Released: "2006"
-    Thumbnail: "calexicogarden.jpg"
+    Thumbnail: "calexicogarden.webp"
     Format: "CD"
 -
     Artist: "Camarón"
     Title: "La Leyenda Del Tiempo"
     Label: "Universal"
     Released: "1979"
-    Thumbnail: "camaron.jpg"
+    Thumbnail: "camaron.webp"
     Format: "CD"
 -
     Artist: "Cat Power"
     Title: "You Are Free"
     Label: "Matador"
     Released: "2003"
-    Thumbnail: "catpowerfree.jpg"
+    Thumbnail: "catpowerfree.webp"
     Format: "CD"
 -
     Artist: "Cat Power"
     Title: "The Greatest"
     Label: "Matador"
     Released: "2006"
-    Thumbnail: "greatest.jpg"
+    Thumbnail: "greatest.webp"
     Format: "CD"
 -
     Artist: "Chemical Brothers, The"
     Title: "Dig Your Own Hole"
     Label: "Virgin"
     Released: "1997"
-    Thumbnail: "chemicalhole.jpg"
+    Thumbnail: "chemicalhole.webp"
     Format: "CD"
 -
     Artist: "Chemical Brothers, The"
     Title: "Surrender"
     Label: "Astralwerks"
     Released: "1999"
-    Thumbnail: "surrender.jpg"
+    Thumbnail: "surrender.webp"
     Format: "CD"
 -
     Artist: "Chucho"
     Title: "Tejido de Felicidad"
     Label: "Virgin"
     Released: "1999"
-    Thumbnail: "chucho.jpg"
+    Thumbnail: "chucho.webp"
     Format: "CD"
 -
     Artist: "Cinerama"
     Title: "Disco Volante"
     Label: "Manifesto"
     Released: "2000"
-    Thumbnail: "cineramadisco.jpg"
+    Thumbnail: "cineramadisco.webp"
     Format: "CD"
 -
     Artist: "Cinerama"
     Title: "This Is Cinerama"
     Label: "spinART"
     Released: "2000"
-    Thumbnail: "thiscinerama.jpg"
+    Thumbnail: "thiscinerama.webp"
     Format: "CD"
 -
     Artist: "Clap Your Hands Say Yeah"
     Title: "Clap Your Hands Say Yeah"
     Label: "Wichita"
     Released: "2005"
-    Thumbnail: "clap.jpg"
+    Thumbnail: "clap.webp"
     Format: "CD"
 -
     Artist: "Clash, The"
     Title: "London Calling"
     Label: "Sony"
     Released: "1979"
-    Thumbnail: "londoncalling.png"
+    Thumbnail: "londoncalling.webp"
     Format: "CD"
 -
     Artist: "Clash, The"
     Title: "Combat Rock"
     Label: "CBS"
     Released: "1982"
-    Thumbnail: "combatrock.jpg"
+    Thumbnail: "combatrock.webp"
     Format: "CD"
 -
     Artist: "Clem Snide"
     Title: "The Ghost Of Fashion"
     Label: "spinART"
     Released: "2001"
-    Thumbnail: "clemsnide.jpg"
+    Thumbnail: "clemsnide.webp"
     Format: "CD"
 -
     Artist: "Clinic"
     Title: "Winchester Cathedral"
     Label: "Domino"
     Released: "2004"
-    Thumbnail: "clinicwin.jpg"
+    Thumbnail: "clinicwin.webp"
     Format: "CD"
 -
     Artist: "Clinic"
     Title: "Walking With Thee"
     Label: "Domino"
     Released: "2002"
-    Thumbnail: "clinicthee.jpg"
+    Thumbnail: "clinicthee.webp"
     Format: "CD"
 -
     Artist: "Come"
     Title: "String"
     Label: "Beggars Banquet"
     Released: "1994"
-    Thumbnail: "comestring.jpg"
+    Thumbnail: "comestring.webp"
     Format: "CD"
 -
     Artist: "Cornelius"
     Title: "Fantasma"
     Label: "Matador"
     Released: "1998"
-    Thumbnail: "fantasma.jpg"
+    Thumbnail: "fantasma.webp"
     Format: "CD"
 -
     Artist: "Cornershop"
     Title: "When I Was Born for the 7th Time"
     Label: "Warner"
     Released: "1997"
-    Thumbnail: "cornershop.jpg"
+    Thumbnail: "cornershop.webp"
     Format: "CD"
 -
     Artist: "Counting Crows"
     Title: "Recovering the Satellites"
     Label: "Geffen"
     Released: "1996"
-    Thumbnail: "crowsrecovering.jpg"
+    Thumbnail: "crowsrecovering.webp"
     Format: "CD"
 -
     Artist: "Cowboy Junkies"
     Title: "Studio"
     Label: "RCA"
     Released: "1996"
-    Thumbnail: "cowboystudio.jpg"
+    Thumbnail: "cowboystudio.webp"
     Format: "CD"
 -
     Artist: "Cut Copy"
     Title: "In Ghost Colors"
     Label: "Universal"
     Released: "2008"
-    Thumbnail: "cutcopy.jpg"
+    Thumbnail: "cutcopy.webp"
     Format: "CD"
 -
     Artist: "Daft Punk"
     Title: "Random Access Memories"
     Label: "Columbia"
     Released: "2013"
-    Thumbnail: "daftram.jpg"
+    Thumbnail: "daftram.webp"
     Format: "CD"
 -
     Artist: "Damien Jurado"
     Title: "Rehearsals for Departure"
     Label: "Sub Pop"
     Released: "2006"
-    Thumbnail: "jurado.jpg"
+    Thumbnail: "jurado.webp"
     Format: "CD"
 -
     Artist: "Damien Rice"
     Title: "9"
     Label: "Heffa"
     Released: "2006"
-    Thumbnail: "damien9.jpg"
+    Thumbnail: "damien9.webp"
     Format: "CD"
 -
     Artist: "David Byrne"
     Title: "Rei Momo"
     Label: "Sire"
     Released: "1989"
-    Thumbnail: "momo.jpg"
+    Thumbnail: "momo.webp"
     Format: "CD"
 -
     Artist: "David Gray"
     Title: "White Ladder"
     Label: "RCA"
     Released: "2000"
-    Thumbnail: "davidgray.jpg"
+    Thumbnail: "davidgray.webp"
     Format: "CD"
 -
     Artist: "David Holmes"
     Title: "Let's Get Killed"
     Label: "Go!"
     Released: "1997"
-    Thumbnail: "davidholmes.jpg"
+    Thumbnail: "davidholmes.webp"
     Format: "CD"
 -
     Artist: "Dayna Kurtz"
     Title: "Beautiful Yesterday"
     Label: "Munich"
     Released: "2004"
-    Thumbnail: "kurtz.jpg"
+    Thumbnail: "kurtz.webp"
     Format: "CD"
 -
     Artist: "Death Cab for Cutie"
     Title: "Plans"
     Label: "Atlantic"
     Released: "2005"
-    Thumbnail: "plans.jpg"
+    Thumbnail: "plans.webp"
     Format: "CD"
 -
     Artist: "Death Cab for Cutie"
     Title: "Transatlanticism"
     Label: "Barsuk"
     Released: "2003"
-    Thumbnail: "transatlanticism.jpg"
+    Thumbnail: "transatlanticism.webp"
     Format: "CD"
 -
     Artist: "Death Cab for Cutie"
     Title: "We Have The Facts and We're Voting Yes"
     Label: "Barsuk"
     Released: "2000"
-    Thumbnail: "deathfacts.jpg"
+    Thumbnail: "deathfacts.webp"
     Format: "CD"
 -
     Artist: "Decemberists, The"
     Title: "What A Terrible World, What A Beautiful World"
     Label: "Capitol"
     Released: "2015"
-    Thumbnail: "terribleworld.jpg"
+    Thumbnail: "terribleworld.webp"
     Format: "CD"
 -
     Artist: "Decemberists, The"
     Title: "Her Majesty"
     Label: "Kill Rock Stars"
     Released: "2003"
-    Thumbnail: "hermajesty.jpg"
+    Thumbnail: "hermajesty.webp"
     Format: "CD"
 -
     Artist: "Decemberists, The"
     Title: "The Crane Wife"
     Label: "Capitol"
     Released: "2006"
-    Thumbnail: "cranewife.jpg"
+    Thumbnail: "cranewife.webp"
     Format: "CD"
 -
     Artist: "Decemberists, The"
     Title: "Picaresque"
     Label: "Kill Rock Stars"
     Released: "2005"
-    Thumbnail: "picaresque.jpg"
+    Thumbnail: "picaresque.webp"
     Format: "CD"
 -
     Artist: "Del Amitri"
     Title: "Some Other Sucker's Parade"
     Label: "A&M"
     Released: "1997"
-    Thumbnail: "delamitri.jpg"
+    Thumbnail: "delamitri.webp"
     Format: "CD"
 -
     Artist: "Delgados, The"
     Title: "Hate"
     Label: "Mantra"
     Released: "2002"
-    Thumbnail: "hate.jpg"
+    Thumbnail: "hate.webp"
     Format: "CD"
 -
     Artist: "Destroyer"
     Title: "Destroyer's Rubies"
     Label: "Merge"
     Released: "2006"
-    Thumbnail: "rubies.jpg"
+    Thumbnail: "rubies.webp"
     Format: "CD"
 -
     Artist: "Devendra Banhart"
     Title: "Rejoicing the Hands"
     Label: "Young God"
     Released: "2004"
-    Thumbnail: "rejoicing.jpg"
+    Thumbnail: "rejoicing.webp"
     Format: "CD"
 -
     Artist: "Devendra Banhart"
     Title: "Niño Rojo"
     Label: "Young God"
     Released: "2004"
-    Thumbnail: "ninorojo.jpg"
+    Thumbnail: "ninorojo.webp"
     Format: "CD"
 -
     Artist: "Devendra Banhart"
     Title: "Cripple Crow"
     Label: "XL"
     Released: "2005"
-    Thumbnail: "cripplecrow.jpg"
+    Thumbnail: "cripplecrow.webp"
     Format: "CD"
 -
     Artist: "Dinosaur Jr"
     Title: "Whatever's Cool With Me"
     Label: "WEA"
     Released: "1991"
-    Thumbnail: "dinojr.jpg"
+    Thumbnail: "dinojr.webp"
     Format: "CD"
 -
     Artist: "Dire Straits"
     Title: "Brothers In Arms"
     Label: "Warner"
     Released: "1985"
-    Thumbnail: "brothers.jpg"
+    Thumbnail: "brothers.webp"
     Format: "CD"
 -
     Artist: "Divine Comedy, The"
     Title: "Regeneration"
     Label: "EMI"
     Released: "2001"
-    Thumbnail: "regeneration.jpg"
+    Thumbnail: "regeneration.webp"
     Format: "CD"
 -
     Artist: "DJ Shadow"
     Title: "Endtroducing"
     Label: "Mo Wax"
     Released: "1996"
-    Thumbnail: "endtroducing.jpg"
+    Thumbnail: "endtroducing.webp"
     Format: "CD"
 -
     Artist: "Dominique A"
     Title: "Remué"
     Label: "Lithium"
     Released: "1999"
-    Thumbnail: "remue.jpg"
+    Thumbnail: "remue.webp"
     Format: "CD"
 -
     Artist: "Doves"
     Title: "The Last Broadcast"
     Label: "Capitol"
     Released: "2002"
-    Thumbnail: "doves.jpg"
+    Thumbnail: "doves.webp"
     Format: "CD"
 -
     Artist: "Duffy"
     Title: "Rockferry"
     Label: "Polydor"
     Released: "2008"
-    Thumbnail: "duffy.jpg"
+    Thumbnail: "duffy.webp"
     Format: "CD"
 -
     Artist: "Echo and The Bunnymen"
     Title: "Ocean Rain"
     Label: "Korova"
     Released: "1984"
-    Thumbnail: "echo.jpg"
+    Thumbnail: "echo.webp"
     Format: "CD"
 -
     Artist: "Editors"
     Title: "The Back Room"
     Label: "Kitchenware"
     Released: "2006"
-    Thumbnail: "editors.jpg"
+    Thumbnail: "editors.webp"
     Format: "CD"
 -
     Artist: "Edwyn Collins"
     Title: "Gorgeous George"
     Label: "Bar/None"
     Released: "1995"
-    Thumbnail: "edwyn.jpg"
+    Thumbnail: "edwyn.webp"
     Format: "CD"
 -
     Artist: "Eels"
     Title: "Susan's House"
     Label: "Dreamworks"
     Released: "1997"
-    Thumbnail: "eels.jpg"
+    Thumbnail: "eels.webp"
     Format: "CD"
 -
     Artist: "El Niño Gusano"
     Title: "Circo Luso"
     Label: "Grabaciones En El Mar"
     Released: "1995"
-    Thumbnail: "ninoluso.jpg"
+    Thumbnail: "ninoluso.webp"
     Format: "CD"
 -
     Artist: "El Niño Gusano"
     Title: "El Efecto Lupa"
     Label: "Grabaciones En El Mar"
     Released: "1996"
-    Thumbnail: "ninolupa.jpg"
+    Thumbnail: "ninolupa.webp"
     Format: "CD"
 -
     Artist: "El Niño Gusano"
     Title: "Mr. Camping"
     Label: "Grabaciones En El Mar"
     Released: "1997"
-    Thumbnail: "ninocamping.jpg"
+    Thumbnail: "ninocamping.webp"
     Format: "CD"
 -
     Artist: "Elastica"
     Title: "Elastica"
     Label: "Geffen"
     Released: "1995"
-    Thumbnail: "elastica.jpg"
+    Thumbnail: "elastica.webp"
     Format: "CD"
 -
     Artist: "Electronic"
     Title: "Electronic"
     Label: "Warner"
     Released: "1991"
-    Thumbnail: "electronic.jpg"
+    Thumbnail: "electronic.webp"
     Format: "CD"
 -
     Artist: "Ella Fitzgerald"
     Title: "The Best of the Song Books"
     Label: "Verve"
     Released: "1993"
-    Thumbnail: "ella.jpg"
+    Thumbnail: "ella.webp"
     Format: "CD"
 -
     Artist: "Elvis Costello"
     Title: "Spike"
     Label: "Warner"
     Released: "1989"
-    Thumbnail: "spike.jpg"
+    Thumbnail: "spike.webp"
     Format: "CD"
 -
     Artist: "Elvis Perkins"
     Title: "Ash Wednesday"
     Label: "XL"
     Released: "2007"
-    Thumbnail: "elvisash.jpg"
+    Thumbnail: "elvisash.webp"
     Format: "CD"
 -
     Artist: "Emmylou Harris"
     Title: "Wrecking Ball"
     Label: "Elektra"
     Released: "1995"
-    Thumbnail: "emmylou.jpg"
+    Thumbnail: "emmylou.webp"
     Format: "CD"
 -
     Artist: "Eva Cassidy"
     Title: "Songbird"
     Label: "Blix Street"
     Released: "1992"
-    Thumbnail: "songbird.jpg"
+    Thumbnail: "songbird.webp"
     Format: "CD"
 -
     Artist: "Everything But The Girl"
     Title: "Walking Wounded"
     Label: "Atlantic"
     Released: "1996"
-    Thumbnail: "ebtg.jpg"
+    Thumbnail: "ebtg.webp"
     Format: "CD"
 -
     Artist: "Fang"
     Title: "My Weakpoint"
     Label: "Moby Disk"
     Released: "1997"
-    Thumbnail: "fang.jpg"
+    Thumbnail: "fang.webp"
     Format: "CD"
 -
     Artist: "Feist"
     Title: "The Reminder"
     Label: "Polydor"
     Released: "2007"
-    Thumbnail: "feist.jpg"
+    Thumbnail: "feist.webp"
     Format: "CD"
 -
     Artist: "Fiona Apple"
     Title: "When The Pawn"
     Label: "Epic"
     Released: "1999"
-    Thumbnail: "fionna.jpg"
+    Thumbnail: "fionna.webp"
     Format: "CD"
 -
     Artist: "Flaming Lips, The"
     Title: "Yoshimi Battles The Pink Robots"
     Label: "Warner"
     Released: "2002"
-    Thumbnail: "yoshimi.jpg"
+    Thumbnail: "yoshimi.webp"
     Format: "CD"
 -
     Artist: "Flaming Lips, The"
     Title: "At War With The Mystics"
     Label: "Warner"
     Released: "2006"
-    Thumbnail: "mystics.jpg"
+    Thumbnail: "mystics.webp"
     Format: "CD"
 -
     Artist: "Flechazos, Los"
     Title: "Alta Fidelidad"
     Label: "Elefant"
     Released: "1994"
-    Thumbnail: "flechazos.jpg"
+    Thumbnail: "flechazos.webp"
     Format: "CD"
 -
     Artist: "Folk Implosion, The"
     Title: "One Part Lullaby"
     Label: "Interscope"
     Released: "1999"
-    Thumbnail: "lullaby.jpg"
+    Thumbnail: "lullaby.webp"
     Format: "CD"
 -
     Artist: "For Stars"
     Title: "For Stars"
     Label: "Future Farmer"
     Released: "1998"
-    Thumbnail: "forstars.jpg"
+    Thumbnail: "forstars.webp"
     Format: "CD"
 -
     Artist: "Fountains of Wayne"
     Title: "Utopia Parkway"
     Label: "Atlantic"
     Released: "1999"
-    Thumbnail: "utopia.jpg"
+    Thumbnail: "utopia.webp"
     Format: "CD"
 -
     Artist: "Fountains Of Wayne"
     Title: "Fountains Of Wayne"
     Label: "Atlantic"
     Released: "1996"
-    Thumbnail: "fountains.jpg"
+    Thumbnail: "fountains.webp"
     Format: "CD"
 -
     Artist: "François Breut"
     Title: "Une Saison Volée"
     Label: "Green UFOs"
     Released: "2005"
-    Thumbnail: "breut.jpg"
+    Thumbnail: "breut.webp"
     Format: "CD"
 -
     Artist: "Franz Ferdinand"
     Title: "Franz Ferdinand"
     Label: "Domino"
     Released: "2004"
-    Thumbnail: "franz.jpg"
+    Thumbnail: "franz.webp"
     Format: "CD"
 -
     Artist: "Franz Ferdinand"
     Title: "You Could Have It So Much Better"
     Label: "Domino"
     Released: "2005"
-    Thumbnail: "franz2.jpg"
+    Thumbnail: "franz2.webp"
     Format: "CD"
 -
     Artist: "Freestylers"
     Title: "We Rock Hard"
     Label: "PIAS"
     Released: "1998"
-    Thumbnail: "freestylers.jpg"
+    Thumbnail: "freestylers.webp"
     Format: "CD"
 -
     Artist: "Fresones Rebeldes, Los"
     Title: "Éxitos 99"
     Label: "Subterfuge"
     Released: "1999"
-    Thumbnail: "exitos99.jpg"
+    Thumbnail: "exitos99.webp"
     Format: "CD"
 -
     Artist: "Fresones Rebeldes, Los"
     Title: "Medio Drogados"
     Label: "Subterfuge"
     Released: "1999"
-    Thumbnail: "drogados.jpg"
+    Thumbnail: "drogados.webp"
     Format: "CD"
 -
     Artist: "Future Bible Heroes"
     Title: "Eternal Youth"
     Label: "Circus"
     Released: "2002"
-    Thumbnail: "eternal.jpg"
+    Thumbnail: "eternal.webp"
     Format: "CD"
 -
     Artist: "Garbage"
     Title: "Garbage"
     Label: "Mushroom"
     Released: "1995"
-    Thumbnail: "garbage.jpg"
+    Thumbnail: "garbage.webp"
     Format: "CD"
 -
     Artist: "Giant Sand"
     Title: "Chore Of Enchantment"
     Label: "Thrill Jockey"
     Released: "2000"
-    Thumbnail: "chore.jpg"
+    Thumbnail: "chore.webp"
     Format: "CD"
 -
     Artist: "Gnarls Barkley"
     Title: "St. Elsewhere"
     Label: "Downtown"
     Released: "2006"
-    Thumbnail: "gnarls.jpg"
+    Thumbnail: "gnarls.webp"
     Format: "CD"
 -
     Artist: "Go-Betweens, The"
     Title: "Spring Hill Fair"
     Label: "Circus"
     Released: "2002"
-    Thumbnail: "springhill.jpg"
+    Thumbnail: "springhill.webp"
     Format: "CD"
 -
     Artist: "Golden Smog"
     Title: "Down By The Old Mainstream"
     Label: "Ryko"
     Released: "1996"
-    Thumbnail: "mainstream.jpg"
+    Thumbnail: "mainstream.webp"
     Format: "CD"
 -
     Artist: "Golden Smog"
     Title: "Weird Tales"
     Label: "Ryko"
     Released: "1998"
-    Thumbnail: "weirdtales.jpg"
+    Thumbnail: "weirdtales.webp"
     Format: "CD"
 -
     Artist: "Goldfrapp"
     Title: "Felt Mountain"
     Label: "Mute"
     Released: "2000"
-    Thumbnail: "goldfrapp.jpg"
+    Thumbnail: "goldfrapp.webp"
     Format: "CD"
 -
     Artist: "Gomez"
     Title: "Bring It On"
     Label: "Virgin"
     Released: "1998"
-    Thumbnail: "gomez.jpg"
+    Thumbnail: "gomez.webp"
     Format: "CD"
 -
     Artist: "Gorky's Zygotic Mynci"
     Title: "Spanish Dance Troupe"
     Label: "Mantra"
     Released: "1999"
-    Thumbnail: "spanishdance.jpg"
+    Thumbnail: "spanishdance.webp"
     Format: "CD"
 -
     Artist: "Grandaddy"
     Title: "Under The Western Freeway"
     Label: "V2"
     Released: "1997"
-    Thumbnail: "grandaddywestern.jpg"
+    Thumbnail: "grandaddywestern.webp"
     Format: "CD"
 -
     Artist: "Grizzly Bear"
     Title: "Veckatimest"
     Label: "Warp"
     Released: "2009"
-    Thumbnail: "grizzly.jpg"
+    Thumbnail: "grizzly.webp"
     Format: "CD"
 -
     Artist: "Guided By Voices"
     Title: "Mag Earwhig!"
     Label: "Matador"
     Released: "1997"
-    Thumbnail: "guided.jpg"
+    Thumbnail: "guided.webp"
     Format: "CD"
 -
     Artist: "Halo Benders, The"
     Title: "God Don't Make No Junk"
     Label: "K"
     Released: "2014"
-    Thumbnail: "halobenders.jpg"
+    Thumbnail: "halobenders.webp"
     Format: "CD"
 -
     Artist: "Happy Mondays"
     Title: "Pills 'N Thrills and Bellyaches"
     Label: "Elektra"
     Released: "1990"
-    Thumbnail: "happymondays.jpg"
+    Thumbnail: "happymondays.webp"
     Format: "CD"
 -
     Artist: "Hefner"
     Title: "Boxing Hefner"
     Label: "Too Pure"
     Released: "2000"
-    Thumbnail: "boxing.jpg"
+    Thumbnail: "boxing.webp"
     Format: "CD"
 -
     Artist: "Hefner"
     Title: "Breaking God's Heart"
     Label: "Too Pure"
     Released: "1998"
-    Thumbnail: "hefnergod.jpg"
+    Thumbnail: "hefnergod.webp"
     Format: "CD"
 -
     Artist: "Hefner"
     Title: "We Love The City"
     Label: "Too Pure"
     Released: "2000"
-    Thumbnail: "hefnercity.jpg"
+    Thumbnail: "hefnercity.webp"
     Format: "CD"
 -
     Artist: "Herbert"
     Title: "Bodily Functions"
     Label: "!K7"
     Released: "2001"
-    Thumbnail: "herbert.png"
+    Thumbnail: "herbert.webp"
     Format: "CD"
 -
     Artist: "Hot Chip"
     Title: "Made In The Dark"
     Label: "Astralwerks"
     Released: "2008"
-    Thumbnail: "hotchip.jpg"
+    Thumbnail: "hotchip.webp"
     Format: "CD"
 -
     Artist: "Housemartins, The"
@@ -1303,805 +1303,805 @@ main:
     Title: "Candy Apple Grey"
     Label: "Warner"
     Released: "1986"
-    Thumbnail: "husker.jpg"
+    Thumbnail: "husker.webp"
     Format: "CD"
 -
     Artist: "Ibon Errazkin"
     Title: "Escuela de Arte"
     Label: "Elefant"
     Released: "2003"
-    Thumbnail: "ibonarte.jpg"
+    Thumbnail: "ibonarte.webp"
     Format: "CD"
 -
     Artist: "Interpol"
     Title: "Antics"
     Label: "Matador"
     Released: "2004"
-    Thumbnail: "antics.jpg"
+    Thumbnail: "antics.webp"
     Format: "CD"
 -
     Artist: "Interpol"
     Title: "Turn on the Bright Lights"
     Label: "Matador"
     Released: "2002"
-    Thumbnail: "interpol.jpg"
+    Thumbnail: "interpol.webp"
     Format: "CD"
 -
     Artist: "Iron and Wine"
     Title: "Boy With A Coin"
     Label: "Sub Pop"
     Released: "2007"
-    Thumbnail: "boycoin.jpg"
+    Thumbnail: "boycoin.webp"
     Format: "CD"
 -
     Artist: "Iron And Wine"
     Title: "Around The Well"
     Label: "Sub Pop"
     Released: "2009"
-    Thumbnail: "aroundwell.jpg"
+    Thumbnail: "aroundwell.webp"
     Format: "CD"
 -
     Artist: "Ivy"
     Title: "Apartment Life"
     Label: "Atlantic"
     Released: "1997"
-    Thumbnail: "apartment.jpg"
+    Thumbnail: "apartment.webp"
     Format: "CD"
 -
     Artist: "Ivy"
     Title: "Guestroom"
     Label: "Minty Fresh"
     Released: "2002"
-    Thumbnail: "guestroom.jpg"
+    Thumbnail: "guestroom.webp"
     Format: "CD"
 -
     Artist: "Jam, The"
     Title: "Setting Sons"
     Label: "Polydor"
     Released: "1979"
-    Thumbnail: "jamsons.jpg"
+    Thumbnail: "jamsons.webp"
     Format: "CD"
 -
     Artist: "James Brown"
     Title: "Live at The Apollo Theater"
     Label: "Polydor"
     Released: "1962"
-    Thumbnail: "brownapollo.jpg"
+    Thumbnail: "brownapollo.webp"
     Format: "CD"
 -
     Artist: "Jayhawks, The"
     Title: "Mockingbird Time"
     Label: "Rounder"
     Released: "2011"
-    Thumbnail: "mockingbird.jpg"
+    Thumbnail: "mockingbird.webp"
     Format: "CD"
 -
     Artist: "Jayhawks, The"
     Title: "Hollywood Town Hall"
     Label: "American"
     Released: "1992"
-    Thumbnail: "hollywood.jpg"
+    Thumbnail: "hollywood.webp"
     Format: "CD"
 -
     Artist: "Jayhawks, The"
     Title: "Blue Earth"
     Label: "Twin/Tone"
     Released: "1989"
-    Thumbnail: "blueearth.jpg"
+    Thumbnail: "blueearth.webp"
     Format: "CD"
 -
     Artist: "Jayhawks, The"
     Title: "Smile"
     Label: "American"
     Released: "2000"
-    Thumbnail: "jayhawkssmile.jpg"
+    Thumbnail: "jayhawkssmile.webp"
     Format: "CD"
 -
     Artist: "Jayhawks, The"
     Title: "Sound Of Lies"
     Label: "American"
     Released: "1997"
-    Thumbnail: "soundoflies.jpg"
+    Thumbnail: "soundoflies.webp"
     Format: "CD"
 -
     Artist: "Jayhawks, The"
     Title: "Rainy Day Music"
     Label: "Lost Highway"
     Released: "2003"
-    Thumbnail: "rainyday.jpg"
+    Thumbnail: "rainyday.webp"
     Format: "CD"
 -
     Artist: "Jeff Buckley"
     Title: "Sketches for My Sweetheart The Drunk"
     Label: "Columbia"
     Released: "1998"
-    Thumbnail: "sketches.jpg"
+    Thumbnail: "sketches.webp"
     Format: "CD"
 -
     Artist: "Jeff Buckley"
     Title: "Live at Sin-é (Legacy Ed.)"
     Label: "Columbia"
     Released: "2003"
-    Thumbnail: "sine.jpg"
+    Thumbnail: "sine.webp"
     Format: "CD"
 -
     Artist: "John Lennon"
     Title: "Imagine"
     Label: "Apple"
     Released: "1971"
-    Thumbnail: "imagine.jpg"
+    Thumbnail: "imagine.webp"
     Format: "CD"
 -
     Artist: "John Parish & PJ Harvey"
     Title: "Dance Hall at Louse Point"
     Label: "Island"
     Released: "1996"
-    Thumbnail: "dancehall.jpg"
+    Thumbnail: "dancehall.webp"
     Format: "CD"
 -
     Artist: "Johnny Cash"
     Title: "American Recordings IV: The Man Comes Around"
     Label: "American"
     Released: "2002"
-    Thumbnail: "cash4.jpg"
+    Thumbnail: "cash4.webp"
     Format: "CD"
 -
     Artist: "Jon Spencer Blues Explosion, The"
     Title: "Now I Got Worry"
     Label: "Matador"
     Released: "1996"
-    Thumbnail: "worry.jpg"
+    Thumbnail: "worry.webp"
     Format: "CD"
 -
     Artist: "Jon Spencer Blues Explosion, The"
     Title: "ACME"
     Label: "Matador"
     Released: "1998"
-    Thumbnail: "acme.jpg"
+    Thumbnail: "acme.webp"
     Format: "CD"
 -
     Artist: "Josh Rouse"
     Title: "Nashville"
     Label: "Ryko"
     Released: "2004"
-    Thumbnail: "nashville.jpg"
+    Thumbnail: "nashville.webp"
     Format: "CD"
 -
     Artist: "Josh Rouse"
     Title: "1972"
     Label: "Ryko"
     Released: "2003"
-    Thumbnail: "1972.jpg"
+    Thumbnail: "1972.webp"
     Format: "CD"
 -
     Artist: "Josh Rouse"
     Title: "Home"
     Label: "Slow River"
     Released: "2000"
-    Thumbnail: "joshhome.jpg"
+    Thumbnail: "joshhome.webp"
     Format: "CD"
 -
     Artist: "Joy Division"
     Title: "Closer"
     Label: "Factory"
     Released: "1980"
-    Thumbnail: "closer.jpg"
+    Thumbnail: "closer.webp"
     Format: "CD"
 -
     Artist: "Keane"
     Title: "Is It Any Wonder?"
     Label: "Universal"
     Released: "2006"
-    Thumbnail: "keane.jpg"
+    Thumbnail: "keane.webp"
     Format: "CD"
 -
     Artist: "Khaled"
     Title: "Sahra"
     Label: "Island"
     Released: "1996"
-    Thumbnail: "sahra.jpg"
+    Thumbnail: "sahra.webp"
     Format: "CD"
 -
     Artist: "Kings Of Convenience"
     Title: "Quiet Is The New Loud"
     Label: "Astralwerks"
     Released: "2001"
-    Thumbnail: "kingsquiet.jpg"
+    Thumbnail: "kingsquiet.webp"
     Format: "CD"
 -
     Artist: "La Buena Vida"
     Title: "Eureka"
     Label: "Siesta"
     Released: "1999"
-    Thumbnail: "eureka.jpg"
+    Thumbnail: "eureka.webp"
     Format: "CD"
 -
     Artist: "La Buena Vida"
     Title: "Hallelujah"
     Label: "Siesta"
     Released: "2001"
-    Thumbnail: "hallelujah.jpg"
+    Thumbnail: "hallelujah.webp"
     Format: "CD"
 -
     Artist: "La's, The"
     Title: "The La's"
     Label: "Go! Discs"
     Released: "1988"
-    Thumbnail: "las.jpg"
+    Thumbnail: "las.webp"
     Format: "CD"
 -
     Artist: "Lambchop"
     Title: "Damaged"
     Label: "Merge"
     Released: "2006"
-    Thumbnail: "damaged.jpg"
+    Thumbnail: "damaged.webp"
     Format: "CD"
 -
     Artist: "Lambchop"
     Title: "Nixon"
     Label: "Merge"
     Released: "2000"
-    Thumbnail: "nixon.jpg"
+    Thumbnail: "nixon.webp"
     Format: "CD"
 -
     Artist: "Lambchop"
     Title: "Thriller"
     Label: "Merge"
     Released: "1997"
-    Thumbnail: "thriller.jpg"
+    Thumbnail: "thriller.webp"
     Format: "CD"
 -
     Artist: "Lambchop"
     Title: "Aw Cmon"
     Label: "Merge"
     Released: "2004"
-    Thumbnail: "awcmon.jpg"
+    Thumbnail: "awcmon.webp"
     Format: "CD"
 -
     Artist: "Lambchop"
     Title: "Is A Woman"
     Label: "Merge"
     Released: "2001"
-    Thumbnail: "isawoman.jpg"
+    Thumbnail: "isawoman.webp"
     Format: "CD"
 -
     Artist: "Lambchop"
     Title: "No You Cmon"
     Label: "Merge"
     Released: "2004"
-    Thumbnail: "noyoucmon.jpg"
+    Thumbnail: "noyoucmon.webp"
     Format: "CD"
 -
     Artist: "Le Mans"
     Title: "Aquí Vivía Yo"
     Label: "Elefant"
     Released: "1997"
-    Thumbnail: "aquiviviayo.jpg"
+    Thumbnail: "aquiviviayo.webp"
     Format: "CD"
 -
     Artist: "Le Mans"
     Title: "Jonathan Jeremiah"
     Label: "Elefant"
     Released: "1996"
-    Thumbnail: "jeremiah.jpg"
+    Thumbnail: "jeremiah.webp"
     Format: "CD"
 -
     Artist: "Le Mans"
     Title: "Le Mans + Entre Semana"
     Label: "Elefant"
     Released: "1994"
-    Thumbnail: "entresemana.jpg"
+    Thumbnail: "entresemana.webp"
     Format: "CD"
 -
     Artist: "Le Mans"
     Title: "Mi Novela Autobiográfica"
     Label: "Elefant"
     Released: "1997"
-    Thumbnail: "novela.jpg"
+    Thumbnail: "novela.webp"
     Format: "CD"
 -
     Artist: "Le Mans"
     Title: "Yin Yang"
     Label: "Elefant"
     Released: "1997"
-    Thumbnail: "yinyang.jpg"
+    Thumbnail: "yinyang.webp"
     Format: "CD"
 -
     Artist: "Led Zeppelin"
     Title: "Mothership"
     Label: "Atlantic"
     Released: "2007"
-    Thumbnail: "mothership.jpg"
+    Thumbnail: "mothership.webp"
     Format: "CD"
 -
     Artist: "Leila"
     Title: "Courtesy of Choice"
     Label: "XL"
     Released: "2000"
-    Thumbnail: "leila.jpg"
+    Thumbnail: "leila.webp"
     Format: "CD"
 -
     Artist: "Lemonheads"
     Title: "It's a Shame About Ray"
     Label: "Atlantic"
     Released: "1992"
-    Thumbnail: "lemonheads.jpg"
+    Thumbnail: "lemonheads.webp"
     Format: "CD"
 -
     Artist: "Leonard Cohen"
     Title: "I'm Your Man"
     Label: "Columbia"
     Released: "1988"
-    Thumbnail: "cohenman.jpg"
+    Thumbnail: "cohenman.webp"
     Format: "CD"
 -
     Artist: "Libertines, The"
     Title: "The Libertines"
     Label: "Rough Trade"
     Released: "2004"
-    Thumbnail: "libertines.jpg"
+    Thumbnail: "libertines.webp"
     Format: "CD"
 -
     Artist: "Liz Phair"
     Title: "Exile In Guyville"
     Label: "Capitol"
     Released: "1993"
-    Thumbnail: "exile.jpg"
+    Thumbnail: "exile.webp"
     Format: "CD"
 -
     Artist: "Lois"
     Title: "Shy Town"
     Label: "K"
     Released: "1995"
-    Thumbnail: "lois.jpg"
+    Thumbnail: "lois.webp"
     Format: "CD"
 -
     Artist: "Long Winters, The"
     Title: "When I Pretend To Fall"
     Label: "Barsuk"
     Released: "2003"
-    Thumbnail: "longwinters.jpg"
+    Thumbnail: "longwinters.webp"
     Format: "CD"
 -
     Artist: "Long Winters, The"
     Title: "Putting the days to bed"
     Label: "Barsuk"
     Released: "2005"
-    Thumbnail: "daysbed.jpg"
+    Thumbnail: "daysbed.webp"
     Format: "CD"
 -
     Artist: "Looper"
     Title: "The Geometrid"
     Label: "Sub Pop"
     Released: "2000"
-    Thumbnail: "geometrid.jpg"
+    Thumbnail: "geometrid.webp"
     Format: "CD"
 -
     Artist: "Lou Reed"
     Title: "NYC Man"
     Label: "BMG"
     Released: "2003"
-    Thumbnail: "nycman.jpg"
+    Thumbnail: "nycman.webp"
     Format: "CD"
 -
     Artist: "Lou Reed"
     Title: "Coney Island Baby"
     Label: "RCA"
     Released: "1976"
-    Thumbnail: "coneyisland.jpg"
+    Thumbnail: "coneyisland.webp"
     Format: "CD"
 -
     Artist: "Lou Reed"
     Title: "The Raven"
     Label: "Warner"
     Released: "2003"
-    Thumbnail: "raven.jpg"
+    Thumbnail: "raven.webp"
     Format: "CD"
 -
     Artist: "Lou Reed"
     Title: "New York"
     Label: "Sire"
     Released: "1989"
-    Thumbnail: "newyork.jpg"
+    Thumbnail: "newyork.webp"
     Format: "CD"
 -
     Artist: "Lucksmiths, The"
     Title: "Warmer Corners"
     Label: "Candle"
     Released: "2005"
-    Thumbnail: "warmer.gif"
+    Thumbnail: "warmer.webp"
     Format: "CD"
 -
     Artist: "Luna"
     Title: "Lunapark"
     Label: "Elektra"
     Released: "1992"
-    Thumbnail: "lunapark.jpg"
+    Thumbnail: "lunapark.webp"
     Format: "CD"
 -
     Artist: "Luna"
     Title: "Penthouse"
     Label: "Elektra"
     Released: "1995"
-    Thumbnail: "penthouse.jpg"
+    Thumbnail: "penthouse.webp"
     Format: "CD"
 -
     Artist: "Lush"
     Title: "Lovelife"
     Label: "AAD"
     Released: "1996"
-    Thumbnail: "lush.jpg"
+    Thumbnail: "lush.webp"
     Format: "CD"
 -
     Artist: "M. Ward"
     Title: "Transistor Radio"
     Label: "Merge"
     Released: "2005"
-    Thumbnail: "transistor.jpg"
+    Thumbnail: "transistor.webp"
     Format: "CD"
 -
     Artist: "M. Ward"
     Title: "Hold Time"
     Label: "Merge"
     Released: "2009"
-    Thumbnail: "holdtime.jpg"
+    Thumbnail: "holdtime.webp"
     Format: "CD"
 -
     Artist: "Magic Numbers, The"
     Title: "The Magic Numbers"
     Label: "Heavenly"
     Released: "2005"
-    Thumbnail: "magic.jpg"
+    Thumbnail: "magic.webp"
     Format: "CD"
 -
     Artist: "Magnetic Fields, The"
     Title: "Holiday"
     Label: "Merge"
     Released: "1994"
-    Thumbnail: "holiday.jpg"
+    Thumbnail: "holiday.webp"
     Format: "CD"
 -
     Artist: "Magnetic Fields, The"
     Title: "The Charm of The Highway Strip"
     Label: "Merge"
     Released: "1994"
-    Thumbnail: "highwaystrip.jpg"
+    Thumbnail: "highwaystrip.webp"
     Format: "CD"
 -
     Artist: "Magnetic Fields, The"
     Title: "The House of Tomorrow"
     Label: "Merge"
     Released: "1994"
-    Thumbnail: "housetomorrow.jpg"
+    Thumbnail: "housetomorrow.webp"
     Format: "CD"
 -
     Artist: "Magnetic Fields, The"
     Title: "I"
     Label: "Nonesuch"
     Released: "2004"
-    Thumbnail: "i.png"
+    Thumbnail: "i.webp"
     Format: "CD"
 -
     Artist: "Magnetic Fields, The"
     Title: "Distortion"
     Label: "Nonesuch"
     Released: "2008"
-    Thumbnail: "distortion.jpg"
+    Thumbnail: "distortion.webp"
     Format: "CD"
 -
     Artist: "Manta Ray"
     Title: "Manta Ray"
     Label: "Subterfuge"
     Released: "1995"
-    Thumbnail: "mantaray.jpg"
+    Thumbnail: "mantaray.webp"
     Format: "CD"
 -
     Artist: "Manta Ray"
     Title: "Rita"
     Label: "Astro"
     Released: "2000"
-    Thumbnail: "rita.jpg"
+    Thumbnail: "rita.webp"
     Format: "CD"
 -
     Artist: "Manta Ray"
     Title: "Score"
     Label: "Astro"
     Released: "1999"
-    Thumbnail: "score.jpg"
+    Thumbnail: "score.webp"
     Format: "CD"
 -
     Artist: "Manta Ray & Diabologum"
     Title: "La Última Historia de Seducción"
     Label: "Astro"
     Released: "1997"
-    Thumbnail: "mrdia.jpg"
+    Thumbnail: "mrdia.webp"
     Format: "CD"
 -
     Artist: "Marisa Monte"
     Title: "Rose and Charcoal"
     Label: "Capitol"
     Released: "1994"
-    Thumbnail: "marisa.jpg"
+    Thumbnail: "marisa.webp"
     Format: "CD"
 -
     Artist: "Marvin Gaye"
     Title: "Live"
     Label: "Motown"
     Released: "1998"
-    Thumbnail: "gayelive.jpg"
+    Thumbnail: "gayelive.webp"
     Format: "CD"
 -
     Artist: "Mary Margaret O'Hara"
     Title: "Miss America"
     Label: "Virgin"
     Released: "1988"
-    Thumbnail: "missamerica.jpg"
+    Thumbnail: "missamerica.webp"
     Format: "CD"
 -
     Artist: "Massive Attack"
     Title: "100th Window"
     Label: "Virgin"
     Released: "2003"
-    Thumbnail: "100th.jpg"
+    Thumbnail: "100th.webp"
     Format: "CD"
 -
     Artist: "Massive Attack"
     Title: "Mezzanine"
     Label: "Circa"
     Released: "1999"
-    Thumbnail: "mezza.png"
+    Thumbnail: "mezza.webp"
     Format: "CD"
 -
     Artist: "Matt Elliott"
     Title: "The Mess We Made"
     Label: "Merge"
     Released: "2003"
-    Thumbnail: "mess.jpg"
+    Thumbnail: "mess.webp"
     Format: "CD"
 -
     Artist: "Matthew Sweet"
     Title: "100% Fun"
     Label: "BMG"
     Released: "1995"
-    Thumbnail: "100fun.jpg"
+    Thumbnail: "100fun.webp"
     Format: "CD"
 -
     Artist: "Mercury Rev"
     Title: "Deserter's Songs"
     Label: "V2"
     Released: "1998"
-    Thumbnail: "deserters.png"
+    Thumbnail: "deserters.webp"
     Format: "CD"
 -
     Artist: "Mercury Rev"
     Title: "Yerself Is Steam"
     Label: "Rough Trade"
     Released: "1991"
-    Thumbnail: "yerself.jpg"
+    Thumbnail: "yerself.webp"
     Format: "CD"
 -
     Artist: "Mercury Rev"
     Title: "All Is Dream"
     Label: "V2"
     Released: "2001"
-    Thumbnail: "alldream.jpg"
+    Thumbnail: "alldream.webp"
     Format: "CD"
 -
     Artist: "MGMT"
     Title: "Oracular Spectacular"
     Label: "Columbia"
     Released: "2008"
-    Thumbnail: "mgmt.jpg"
+    Thumbnail: "mgmt.webp"
     Format: "CD"
 -
     Artist: "Micah P. Hinson"
     Title: "Micah P. HInson and the Opera Circuit"
     Label: "Houston Party"
     Released: "2006"
-    Thumbnail: "micah.jpg"
+    Thumbnail: "micah.webp"
     Format: "CD"
 -
     Artist: "Midlake"
     Title: "The Trials of Van Occupanther"
     Label: "Bella"
     Released: "2006"
-    Thumbnail: "midlake.jpg"
+    Thumbnail: "midlake.webp"
     Format: "CD"
 -
     Artist: "Miles Davis"
     Title: "Poetics of Sound"
     Label: "Hear"
     Released: "2005"
-    Thumbnail: "miles.jpg"
+    Thumbnail: "miles.webp"
     Format: "CD"
 -
     Artist: "Moby"
     Title: "Play"
     Label: "V2"
     Released: "1999"
-    Thumbnail: "play.jpg"
+    Thumbnail: "play.webp"
     Format: "CD"
 -
     Artist: "Modest Mouse"
     Title: "Good News For People Who Love Bad News"
     Label: "Epic"
     Released: "2004"
-    Thumbnail: "mouse.jpg"
+    Thumbnail: "mouse.webp"
     Format: "CD"
 -
     Artist: "Mogwai"
     Title: "Come On Die Young"
     Label: "Chemikal Underground"
     Released: "1999"
-    Thumbnail: "mogwai.jpg"
+    Thumbnail: "mogwai.webp"
     Format: "CD"
 -
     Artist: "Mojave 3"
     Title: "Out of Tune"
     Label: "4AD"
     Released: "1998"
-    Thumbnail: "outoftune.jpg"
+    Thumbnail: "outoftune.webp"
     Format: "CD"
 -
     Artist: "Mojave 3"
     Title: "Ask Me Tomorrow"
     Label: "4AD"
     Released: "1995"
-    Thumbnail: "askme.jpg"
+    Thumbnail: "askme.webp"
     Format: "CD"
 -
     Artist: "Mojave 3"
     Title: "Excuses For Travellers"
     Label: "4AD"
     Released: "2000"
-    Thumbnail: "excuses.jpg"
+    Thumbnail: "excuses.webp"
     Format: "CD"
 -
     Artist: "Momus"
     Title: "The Little Red Songbook"
     Label: "Le Grand Magistery"
     Released: "1998"
-    Thumbnail: "momus.jpg"
+    Thumbnail: "momus.webp"
     Format: "CD"
 -
     Artist: "Morrissey"
     Title: "Your Arsenal"
     Label: "Sire"
     Released: "1992"
-    Thumbnail: "arsenal.jpg"
+    Thumbnail: "arsenal.webp"
     Format: "CD"
 -
     Artist: "Morrissey"
     Title: "Vauxhall And I"
     Label: "Sire"
     Released: "1994"
-    Thumbnail: "vauxhall.jpg"
+    Thumbnail: "vauxhall.webp"
     Format: "CD"
 -
     Artist: "Morrissey"
     Title: "You Are The Quarry"
     Label: "Attack"
     Released: "2004"
-    Thumbnail: "quarry.jpg"
+    Thumbnail: "quarry.webp"
     Format: "CD"
 -
     Artist: "My Bloody Valentine"
     Title: "Loveless"
     Label: "Creation"
     Released: "1991"
-    Thumbnail: "loveless.jpg"
+    Thumbnail: "loveless.webp"
     Format: "CD"
 -
     Artist: "National, The"
     Title: "Alligator"
     Label: "Beggars Banquet"
     Released: "2005"
-    Thumbnail: "alligator.jpg"
+    Thumbnail: "alligator.webp"
     Format: "CD"
 -
     Artist: "National, The"
     Title: "Boxer"
     Label: "Beggars Banquet"
     Released: "2007"
-    Thumbnail: "boxer.jpg"
+    Thumbnail: "boxer.webp"
     Format: "CD"
 -
     Artist: "Neil Young"
     Title: "Live at Massey Hall 1971"
     Label: "Reprise"
     Released: "2008"
-    Thumbnail: "massey.jpg"
+    Thumbnail: "massey.webp"
     Format: "CD"
 -
     Artist: "Neil Young and Crazy Horse"
     Title: "Ragged Glory"
     Label: "Reprise"
     Released: "1990"
-    Thumbnail: "ragged.jpg"
+    Thumbnail: "ragged.webp"
     Format: "CD"
 -
     Artist: "Neil Young and Crazy Horse"
     Title: "Sleep With Angels"
     Label: "Reprise"
     Released: "1994"
-    Thumbnail: "sleep.jpg"
+    Thumbnail: "sleep.webp"
     Format: "CD"
 -
     Artist: "Neko Case"
     Title: "Middle Cyclone"
     Label: "Anti"
     Released: "2009"
-    Thumbnail: "neko.jpg"
+    Thumbnail: "neko.webp"
     Format: "CD"
 -
     Artist: "New Order"
     Title: "Power, Corruption and Lies"
     Label: "Factory"
     Released: "1983"
-    Thumbnail: "power.jpg"
+    Thumbnail: "power.webp"
     Format: "CD"
 -
     Artist: "New Order"
     Title: "Retro"
     Label: "London"
     Released: "2002"
-    Thumbnail: "retro.jpg"
+    Thumbnail: "retro.webp"
     Format: "CD"
 -
     Artist: "New Order"
     Title: "Technique"
     Label: "Qwest"
     Released: "1989"
-    Thumbnail: "technique.png"
+    Thumbnail: "technique.webp"
     Format: "CD"
 -
     Artist: "New Order"
     Title: "Republic"
     Label: "London"
     Released: "1993"
-    Thumbnail: "republic.jpg"
+    Thumbnail: "republic.webp"
     Format: "CD"
 -
     Artist: "New Order"
     Title: "Get Ready"
     Label: "Reprise"
     Released: "2001"
-    Thumbnail: "nogetready.jpg"
+    Thumbnail: "nogetready.webp"
     Format: "CD"
 -
     Artist: "New Pornographers, The"
     Title: "Twin Cinema"
     Label: "Matador"
     Released: "2005"
-    Thumbnail: "twin.jpg"
+    Thumbnail: "twin.webp"
     Format: "CD"
 -
     Artist: "New Pornographers, The"
     Title: "Together"
     Label: "Matador"
     Released: "2010"
-    Thumbnail: "together.jpg"
+    Thumbnail: "together.webp"
     Format: "CD"
 -
     Artist: "New Pornographers, The"
     Title: "Mass Romantic"
     Label: "Matador"
     Released: "2003"
-    Thumbnail: "massromantic.jpg"
+    Thumbnail: "massromantic.webp"
     Format: "CD"
 -
     Artist: "New Pornographers, The"
     Title: "Challengers"
     Label: "Matador"
     Released: "2007"
-    Thumbnail: "challengers.jpg"
+    Thumbnail: "challengers.webp"
     Format: "CD"
 -
     Artist: "Norah Jones"
     Title: "Come Away With Me"
     Label: "Blue Note"
     Released: "2002"
-    Thumbnail: "norah.jpg"
+    Thumbnail: "norah.webp"
     Format: "CD"
 -
     Artist: "Nosoträsh"
@@ -2115,427 +2115,427 @@ main:
     Title: "(What's The Story) Morning Glory"
     Label: "Creation"
     Released: "1995"
-    Thumbnail: "glory.jpg"
+    Thumbnail: "glory.webp"
     Format: "CD"
 -
     Artist: "Oasis"
     Title: "Definitely Maybe"
     Label: "Creation"
     Released: "1994"
-    Thumbnail: "maybe.jpg"
+    Thumbnail: "maybe.webp"
     Format: "CD"
 -
     Artist: "Oasis"
     Title: "Don't Look Back In Anger"
     Label: "Creation"
     Released: "1995"
-    Thumbnail: "anger.jpg"
+    Thumbnail: "anger.webp"
     Format: "CD"
 -
     Artist: "Oasis"
     Title: "Whatever"
     Label: "Creation"
     Released: "1994"
-    Thumbnail: "whatever.jpg"
+    Thumbnail: "whatever.webp"
     Format: "CD"
 -
     Artist: "Ocean Colour Scene"
     Title: "Moseley Shoals"
     Label: "MCA"
     Released: "1996"
-    Thumbnail: "moseley.jpg"
+    Thumbnail: "moseley.webp"
     Format: "CD"
 -
     Artist: "Orange Juice"
     Title: "The Glasgow School"
     Label: "Domino"
     Released: "2005"
-    Thumbnail: "glasgow.jpg"
+    Thumbnail: "glasgow.webp"
     Format: "CD"
 -
     Artist: "Os Mutantes"
     Title: "Everything Is Possible"
     Label: "Luaka Bop"
     Released: "1999"
-    Thumbnail: "mutantespossible.jpg"
+    Thumbnail: "mutantespossible.webp"
     Format: "CD"
 -
     Artist: "Otis Redding"
     Title: "Otis Blue"
     Label: "ATCO"
     Released: "1965"
-    Thumbnail: "otisblue.jpg"
+    Thumbnail: "otisblue.webp"
     Format: "CD"
 -
     Artist: "Papas Fritas"
     Title: "Papas Fritas"
     Label: "Minty Fresh"
     Released: "1995"
-    Thumbnail: "papas.jpg"
+    Thumbnail: "papas.webp"
     Format: "CD"
 -
     Artist: "Paperhouse"
     Title: "Adiós"
     Label: "Acuarela"
     Released: "1995"
-    Thumbnail: "adios.jpg"
+    Thumbnail: "adios.webp"
     Format: "CD"
 -
     Artist: "Parson Red Heads, The"
     Title: "Blurred Harmony"
     Label: "Fluff & Groovy"
     Released: "2017"
-    Thumbnail: "blurred.jpg"
+    Thumbnail: "blurred.webp"
     Format: "CD"
 -
     Artist: "Patrullero Mancuso"
     Title: "Mi Vida Va Bien"
     Label: "Elefant"
     Released: "1999"
-    Thumbnail: "patrullero.jpg"
+    Thumbnail: "patrullero.webp"
     Format: "CD"
 -
     Artist: "Patti Smith"
     Title: "Land (1975-2002)"
     Label: "Arista"
     Released: "2002"
-    Thumbnail: "land.jpg"
+    Thumbnail: "land.webp"
     Format: "CD"
 -
     Artist: "Paul McCartney"
     Title: "Off The Ground"
     Label: "Parlophone"
     Released: "1993"
-    Thumbnail: "offground.jpg"
+    Thumbnail: "offground.webp"
     Format: "CD"
 -
     Artist: "Paul McCartney"
     Title: "Tripping The Live Fantastic"
     Label: "Capitol"
     Released: "1990"
-    Thumbnail: "tripping.jpg"
+    Thumbnail: "tripping.webp"
     Format: "CD"
 -
     Artist: "Paul Weller"
     Title: "Heavy Soul"
     Label: "Island"
     Released: "1997"
-    Thumbnail: "heavysoul.jpg"
+    Thumbnail: "heavysoul.webp"
     Format: "CD"
 -
     Artist: "Pavement"
     Title: "Terror Twilight"
     Label: "Matador"
     Released: "1999"
-    Thumbnail: "terror.jpg"
+    Thumbnail: "terror.webp"
     Format: "CD"
 -
     Artist: "Pernice Brothers, The"
     Title: "Live a Little"
     Label: "Ashmont"
     Released: "2006"
-    Thumbnail: "livelittle.jpg"
+    Thumbnail: "livelittle.webp"
     Format: "CD"
 -
     Artist: "Pet Shop Boys"
     Title: "Discography"
     Label: "EMI"
     Released: "1991"
-    Thumbnail: "discography.jpg"
+    Thumbnail: "discography.webp"
     Format: "CD"
 -
     Artist: "Pet Shop Boys"
     Title: "Introspective"
     Label: "EMI"
     Released: "1988"
-    Thumbnail: "introspective.jpg"
+    Thumbnail: "introspective.webp"
     Format: "CD"
 -
     Artist: "Pete Yorn"
     Title: "Day I Forgot"
     Label: "Columbia"
     Released: "2003"
-    Thumbnail: "yornforgot.jpg"
+    Thumbnail: "yornforgot.webp"
     Format: "CD"
 -
     Artist: "Pete Yorn"
     Title: "Music For The Morning After"
     Label: "Columbia"
     Released: "2001"
-    Thumbnail: "yornmorning.jpg"
+    Thumbnail: "yornmorning.webp"
     Format: "CD"
 -
     Artist: "Peter, Bjorn And John"
     Title: "Writer's Block"
     Label: "Wichita"
     Released: "2006"
-    Thumbnail: "peterbjorn.jpg"
+    Thumbnail: "peterbjorn.webp"
     Format: "CD"
 -
     Artist: "Phil Spector"
     Title: "Back to Mono"
     Label: "ABKCO"
     Released: "1991"
-    Thumbnail: "phil.jpg"
+    Thumbnail: "phil.webp"
     Format: "CD"
 -
     Artist: "Pink Martini"
     Title: "Sympathique"
     Label: "Heinz"
     Released: "1997"
-    Thumbnail: "sympathique.jpg"
+    Thumbnail: "sympathique.webp"
     Format: "CD"
 -
     Artist: "Pixies"
     Title: "Pixies at the BBC"
     Label: "4AD"
     Released: "1998"
-    Thumbnail: "pixiesbbc.jpg"
+    Thumbnail: "pixiesbbc.webp"
     Format: "CD"
 -
     Artist: "PJ Harvey"
     Title: "4-Track Demos"
     Label: "Island"
     Released: "1993"
-    Thumbnail: "4track.jpg"
+    Thumbnail: "4track.webp"
     Format: "CD"
 -
     Artist: "PJ Harvey"
     Title: "C'Mon Billy"
     Label: "Island"
     Released: "1995"
-    Thumbnail: "cmonbilly.jpg"
+    Thumbnail: "cmonbilly.webp"
     Format: "CD"
 -
     Artist: "PJ Harvey"
     Title: "To Bring You My Love"
     Label: "Island"
     Released: "1995"
-    Thumbnail: "pollylove.jpg"
+    Thumbnail: "pollylove.webp"
     Format: "CD"
 -
     Artist: "Planetas, Los"
     Title: "Medusa EP"
     Label: "Elefant"
     Released: "1993"
-    Thumbnail: "medusa.jpg"
+    Thumbnail: "medusa.webp"
     Format: "CD"
 -
     Artist: "Planetas, Los"
     Title: "Pop"
     Label: "RCA"
     Released: "1995"
-    Thumbnail: "pop.jpg"
+    Thumbnail: "pop.webp"
     Format: "CD"
 -
     Artist: "Planetas, Los"
     Title: "Super 8"
     Label: "RCA"
     Released: "1994"
-    Thumbnail: "super8.jpg"
+    Thumbnail: "super8.webp"
     Format: "CD"
 -
     Artist: "Planetas, Los"
     Title: "Unidad de Desplazamiento"
     Label: "RCA"
     Released: "2000"
-    Thumbnail: "planetasunidad.jpg"
+    Thumbnail: "planetasunidad.webp"
     Format: "CD"
 -
     Artist: "Polar"
     Title: "A Letter For The Stars"
     Label: "Jabalina"
     Released: "2002"
-    Thumbnail: "polarletter.jpg"
+    Thumbnail: "polarletter.webp"
     Format: "CD"
 -
     Artist: "Polar"
     Title: "New Day"
     Label: "Jabalina"
     Released: "2001"
-    Thumbnail: "polarday.jpg"
+    Thumbnail: "polarday.webp"
     Format: "CD"
 -
     Artist: "Polar"
     Title: "Slide EP"
     Label: "Elefant"
     Released: "1999"
-    Thumbnail: "polarslide.jpg"
+    Thumbnail: "polarslide.webp"
     Format: "CD"
 -
     Artist: "Polar"
     Title: "Snow Song"
     Label: "Jabalina"
     Released: "2002"
-    Thumbnail: "polarsnow.jpg"
+    Thumbnail: "polarsnow.webp"
     Format: "CD"
 -
     Artist: "Portishead"
     Title: "Portishead"
     Label: "Go! Beat"
     Released: "1997"
-    Thumbnail: "portishead.jpg"
+    Thumbnail: "portishead.webp"
     Format: "CD"
 -
     Artist: "Postal Service, The"
     Title: "Give Up"
     Label: "Sub Pop"
     Released: "2003"
-    Thumbnail: "giveup.jpg"
+    Thumbnail: "giveup.webp"
     Format: "CD"
 -
     Artist: "Primal Scream"
     Title: "Screamadelica"
     Label: "Creation"
     Released: "1991"
-    Thumbnail: "screamadelica.jpg"
+    Thumbnail: "screamadelica.webp"
     Format: "CD"
 -
     Artist: "Primal Scream"
     Title: "Some Velvet Morning"
     Label: "Columbia"
     Released: "2003"
-    Thumbnail: "primalvelvet.jpg"
+    Thumbnail: "primalvelvet.webp"
     Format: "CD"
 -
     Artist: "Primal Scream"
     Title: "Give Out But Don't Give Up"
     Label: "Sire"
     Released: "1994"
-    Thumbnail: "primalgive.jpg"
+    Thumbnail: "primalgive.webp"
     Format: "CD"
 -
     Artist: "Primal Scream"
     Title: "Xtrmntr"
     Label: "Astralwerks"
     Released: "2000"
-    Thumbnail: "xtr.jpg"
+    Thumbnail: "xtr.webp"
     Format: "CD"
 -
     Artist: "Prodigy"
     Title: "The Fat Of The Land"
     Label: "XL"
     Released: "1996"
-    Thumbnail: "fat.jpg"
+    Thumbnail: "fat.webp"
     Format: "CD"
 -
     Artist: "Propellerheads"
     Title: "Decksandrumsandrockandroll"
     Label: "Dreamworks"
     Released: "1998"
-    Thumbnail: "proper.jpg"
+    Thumbnail: "proper.webp"
     Format: "CD"
 -
     Artist: "Pulp"
     Title: "Disco 2000"
     Label: "Island"
     Released: "1995"
-    Thumbnail: "disco2000.jpg"
+    Thumbnail: "disco2000.webp"
     Format: "CD"
 -
     Artist: "Pulp"
     Title: "His 'N' Hers"
     Label: "Island"
     Released: "1994"
-    Thumbnail: "pulphis.png"
+    Thumbnail: "pulphis.webp"
     Format: "CD"
 -
     Artist: "Pulp"
     Title: "Different Class"
     Label: "Island"
     Released: "1996"
-    Thumbnail: "pulpclass.jpg"
+    Thumbnail: "pulpclass.webp"
     Format: "CD"
 -
     Artist: "R.E.M."
     Title: "At My Most Beautiful"
     Label: "Warner"
     Released: "1998"
-    Thumbnail: "remmost.jpg"
+    Thumbnail: "remmost.webp"
     Format: "CD"
 -
     Artist: "R.E.M."
     Title: "Dead Letter Office"
     Label: "IRS"
     Released: "1987"
-    Thumbnail: "remdead.jpg"
+    Thumbnail: "remdead.webp"
     Format: "CD"
 -
     Artist: "R.E.M."
     Title: "Document"
     Label: "IRS"
     Released: "1987"
-    Thumbnail: "remdoc.jpg"
+    Thumbnail: "remdoc.webp"
     Format: "CD"
 -
     Artist: "R.E.M."
     Title: "In Time 1988-2003"
     Label: "Warner"
     Released: "2003"
-    Thumbnail: "remtime.jpg"
+    Thumbnail: "remtime.webp"
     Format: "CD"
 -
     Artist: "R.E.M."
     Title: "Man On The Moon"
     Label: "Warner"
     Released: "1999"
-    Thumbnail: "cd.jpg"
+    Thumbnail: "cd.webp"
     Format: "CD"
 -
     Artist: "R.E.M."
     Title: "Monster"
     Label: "Warner"
     Released: "1994"
-    Thumbnail: "monster.jpg"
+    Thumbnail: "monster.webp"
     Format: "CD"
 -
     Artist: "R.E.M."
     Title: "New Adventures in Hi-Fi"
     Label: "Warner"
     Released: "1996"
-    Thumbnail: "remhifi.jpg"
+    Thumbnail: "remhifi.webp"
     Format: "CD"
 -
     Artist: "R.E.M."
     Title: "Rare Traxx"
     Label: "Shinola"
     Released: "1995"
-    Thumbnail: "remrare.jpg"
+    Thumbnail: "remrare.webp"
     Format: "CD"
 -
     Artist: "R.E.M."
     Title: "Revolution"
     Label: ""
     Released: "1995"
-    Thumbnail: "cd.jpg"
+    Thumbnail: "cd.webp"
     Format: "CD"
 -
     Artist: "R.E.M."
     Title: "Singles Collected"
     Label: "IRS"
     Released: "1994"
-    Thumbnail: "remsingles.jpg"
+    Thumbnail: "remsingles.webp"
     Format: "CD"
 -
     Artist: "R.E.M."
     Title: "Vol 1"
     Label: "PR-Records"
     Released: "1993"
-    Thumbnail: "cd.jpg"
+    Thumbnail: "cd.webp"
     Format: "CD"
 -
     Artist: "R.E.M."
     Title: "Reveal"
     Label: "Warner"
     Released: "2001"
-    Thumbnail: "reveal.jpg"
+    Thumbnail: "reveal.webp"
     Format: "CD"
 -
     Artist: "Richard Hawley"
     Title: "Coles Corner"
     Label: "Mute"
     Released: "2005"
-    Thumbnail: "colescorner.jpg"
+    Thumbnail: "colescorner.webp"
     Format: "CD"
 -
     Artist: "Richmond Fontaine"
@@ -2549,378 +2549,378 @@ main:
     Title: "The Complete Recordings"
     Label: "CBS"
     Released: "1990"
-    Thumbnail: "robert.jpg"
+    Thumbnail: "robert.webp"
     Format: "CD"
 -
     Artist: "Robyn Hitchcock and The Egyptians"
     Title: "Respect"
     Label: "A&M"
     Released: "1993"
-    Thumbnail: "respect.jpg"
+    Thumbnail: "respect.webp"
     Format: "CD"
 -
     Artist: "Ron Sexsmith"
     Title: "Ron Sexsmith"
     Label: "Interscope"
     Released: "1995"
-    Thumbnail: "ron.jpg"
+    Thumbnail: "ron.webp"
     Format: "CD"
 -
     Artist: "Ron Sexsmith"
     Title: "Whereabouts"
     Label: "Interscope"
     Released: "1999"
-    Thumbnail: "whereabouts.jpg"
+    Thumbnail: "whereabouts.webp"
     Format: "CD"
 -
     Artist: "Roxy Music"
     Title: "Avalon"
     Label: "Reprise"
     Released: "1982"
-    Thumbnail: "avalon.jpg"
+    Thumbnail: "avalon.webp"
     Format: "CD"
 -
     Artist: "Royal Trux"
     Title: "Veterans Of Disorder"
     Label: "Domino"
     Released: "1999"
-    Thumbnail: "disorder.jpg"
+    Thumbnail: "disorder.webp"
     Format: "CD"
 -
     Artist: "Rubin"
     Title: "Esperando El Fin Del Mundo"
     Label: "Hook"
     Released: "2006"
-    Thumbnail: "rubin.jpg"
+    Thumbnail: "rubin.webp"
     Format: "CD"
 -
     Artist: "Rufus Wainwright"
     Title: "Want One"
     Label: "Dreamworks"
     Released: "2003"
-    Thumbnail: "rufus1.jpg"
+    Thumbnail: "rufus1.webp"
     Format: "CD"
 -
     Artist: "Rufus Wainwright"
     Title: "Want Two"
     Label: "Dreamworks"
     Released: "2004"
-    Thumbnail: "rufus2.jpg"
+    Thumbnail: "rufus2.webp"
     Format: "CD"
 -
     Artist: "Ryan Adams"
     Title: "Gold"
     Label: "Lost Highway"
     Released: "2001"
-    Thumbnail: "gold.jpg"
+    Thumbnail: "gold.webp"
     Format: "CD"
 -
     Artist: "Ryan Adams"
     Title: "Heartbreaker"
     Label: "Bloodshot"
     Released: "2000"
-    Thumbnail: "heartbreaker.jpg"
+    Thumbnail: "heartbreaker.webp"
     Format: "CD"
 -
     Artist: "Scud Mountain Boys"
     Title: "Massachusetts"
     Label: "Sub Pop"
     Released: "1996"
-    Thumbnail: "scud.jpg"
+    Thumbnail: "scud.webp"
     Format: "CD"
 -
     Artist: "Señor Coconut y Su Conjunto"
     Title: "El Baile Alemán"
     Label: "Del Haze"
     Released: "1999"
-    Thumbnail: "coconut.jpg"
+    Thumbnail: "coconut.webp"
     Format: "CD"
 -
     Artist: "Shangri-las, The"
     Title: "Leader of The Pack"
     Label: "Red Bird"
     Released: "1965"
-    Thumbnail: "leaderpack.jpg"
+    Thumbnail: "leaderpack.webp"
     Format: "CD"
 -
     Artist: "She & Him"
     Title: "Volume One"
     Label: "Merge"
     Released: "2008"
-    Thumbnail: "shehim1.jpg"
+    Thumbnail: "shehim1.webp"
     Format: "CD"
 -
     Artist: "She & Him"
     Title: "Volume Two"
     Label: "Merge"
     Released: "2010"
-    Thumbnail: "shehim2.jpg"
+    Thumbnail: "shehim2.webp"
     Format: "CD"
 -
     Artist: "Shins, The"
     Title: "Wincing The Night Away"
     Label: "Merge"
     Released: "2007"
-    Thumbnail: "shinswinc.jpg"
+    Thumbnail: "shinswinc.webp"
     Format: "CD"
 -
     Artist: "Shins, The"
     Title: "Oh, Inverted World"
     Label: "Sub Pop"
     Released: "2001"
-    Thumbnail: "shinsinv.jpg"
+    Thumbnail: "shinsinv.webp"
     Format: "CD"
 -
     Artist: "Simone White"
     Title: "Yakimo"
     Label: "Honest Jon's"
     Released: "2009"
-    Thumbnail: "yakimo.jpg"
+    Thumbnail: "yakimo.webp"
     Format: "CD"
 -
     Artist: "Sleater-Kinney"
     Title: "One Beat"
     Label: "Kill Rock Stars"
     Released: "2002"
-    Thumbnail: "onebeat.jpg"
+    Thumbnail: "onebeat.webp"
     Format: "CD"
 -
     Artist: "Smashing Pumpkins"
     Title: "Siamese Dream"
     Label: "Virgin"
     Released: "1993"
-    Thumbnail: "siamese.jpg"
+    Thumbnail: "siamese.webp"
     Format: "CD"
 -
     Artist: "Smithereens, The"
     Title: "Blow Up"
     Label: "Capitol"
     Released: "1991"
-    Thumbnail: "blowup.jpg"
+    Thumbnail: "blowup.webp"
     Format: "CD"
 -
     Artist: "Smiths, The"
     Title: "The Queen Is Dead"
     Label: "Warner"
     Released: "1986"
-    Thumbnail: "queen.jpg"
+    Thumbnail: "queen.webp"
     Format: "CD"
 -
     Artist: "Sonic Youth"
     Title: "Goodbye 20th Century"
     Label: "SYR"
     Released: "1999"
-    Thumbnail: "goodbye.jpg"
+    Thumbnail: "goodbye.webp"
     Format: "CD"
 -
     Artist: "Sonic Youth"
     Title: "Washing Machine"
     Label: "Geffen"
     Released: "1995"
-    Thumbnail: "washing.jpg"
+    Thumbnail: "washing.webp"
     Format: "CD"
 -
     Artist: "Spain"
     Title: "The Blue Moods of Spain"
     Label: "Restless"
     Released: "1995"
-    Thumbnail: "spain.jpg"
+    Thumbnail: "spain.webp"
     Format: "CD"
 -
     Artist: "Spiritualized"
     Title: "Electricity Two"
     Label: "Dedicated"
     Released: "1997"
-    Thumbnail: "electricity.jpg"
+    Thumbnail: "electricity.webp"
     Format: "CD"
 -
     Artist: "Spiritualized"
     Title: "I Think I'm in Love"
     Label: "Dedicated"
     Released: "1998"
-    Thumbnail: "spiritlove.jpg"
+    Thumbnail: "spiritlove.webp"
     Format: "CD"
 -
     Artist: "Spiritualized"
     Title: "Pure Phase"
     Label: "Dedicated"
     Released: "1995"
-    Thumbnail: "purephase.jpg"
+    Thumbnail: "purephase.webp"
     Format: "CD"
 -
     Artist: "Spiritualized"
     Title: "Royal Albert Hall, Oct 10 1997"
     Label: "Dedicated"
     Released: "1998"
-    Thumbnail: "royalalbert.jpg"
+    Thumbnail: "royalalbert.webp"
     Format: "CD"
 -
     Artist: "Spiritualized"
     Title: "Sweet Heart Sweet Light"
     Label: "Fat Possum"
     Released: "2012"
-    Thumbnail: "huh.jpg"
+    Thumbnail: "huh.webp"
     Format: "CD"
 -
     Artist: "Spiritualized"
     Title: "Let it come down"
     Label: "Arista"
     Released: "2001"
-    Thumbnail: "letitcome.jpg"
+    Thumbnail: "letitcome.webp"
     Format: "CD"
 -
     Artist: "Splitsville"
     Title: "Repeater"
     Label: "Big Deal"
     Released: "1998"
-    Thumbnail: "repeater.jpg"
+    Thumbnail: "repeater.webp"
     Format: "CD"
 -
     Artist: "Spring vs Indurain"
     Title: "Be My Star"
     Label: "Elefant"
     Released: "1994"
-    Thumbnail: "indurain.jpg"
+    Thumbnail: "indurain.webp"
     Format: "CD"
 -
     Artist: "Stan Getz & Joao Gilberto"
     Title: "Getz/Gilberto"
     Label: "Verve"
     Released: "1964"
-    Thumbnail: "getz.jpg"
+    Thumbnail: "getz.webp"
     Format: "CD"
 -
     Artist: "Stephin Merritt"
     Title: "Eban & Charley"
     Label: "Merge"
     Released: "2000"
-    Thumbnail: "eban.jpg"
+    Thumbnail: "eban.webp"
     Format: "CD"
 -
     Artist: "Stereolab"
     Title: "Aluminum Tunes"
     Label: "Warp"
     Released: "1998"
-    Thumbnail: "aluminum.png"
+    Thumbnail: "aluminum.webp"
     Format: "CD"
 -
     Artist: "Strokes, The"
     Title: "Is This It"
     Label: "BMG"
     Released: "2001"
-    Thumbnail: "strokes.jpg"
+    Thumbnail: "strokes.webp"
     Format: "CD"
 -
     Artist: "Suede"
     Title: "Coming Up"
     Label: "Nude"
     Released: "1997"
-    Thumbnail: "comingup.jpg"
+    Thumbnail: "comingup.webp"
     Format: "CD"
 -
     Artist: "Suede"
     Title: "Dog Man Star"
     Label: "Nude"
     Released: "1994"
-    Thumbnail: "dogman.jpg"
+    Thumbnail: "dogman.webp"
     Format: "CD"
 -
     Artist: "Suede"
     Title: "Suede"
     Label: "Legacy"
     Released: "1993"
-    Thumbnail: "suede.jpg"
+    Thumbnail: "suede.webp"
     Format: "CD"
 -
     Artist: "Sugar"
     Title: "Copper Blue"
     Label: "Ryko"
     Released: "1992"
-    Thumbnail: "sugar.jpg"
+    Thumbnail: "sugar.webp"
     Format: "CD"
 -
     Artist: "Sugarcubes, The"
     Title: "Life's Too Good"
     Label: "Elektra"
     Released: "1988"
-    Thumbnail: "sugarcubes.jpg"
+    Thumbnail: "sugarcubes.webp"
     Format: "CD"
 -
     Artist: "Super Furry Animals"
     Title: "Phantom Power"
     Label: "XL"
     Released: "2003"
-    Thumbnail: "furry.jpg"
+    Thumbnail: "furry.webp"
     Format: "CD"
 -
     Artist: "Supergrass"
     Title: "I Should Coco"
     Label: "Capitol"
     Released: "1995"
-    Thumbnail: "coco.jpg"
+    Thumbnail: "coco.webp"
     Format: "CD"
 -
     Artist: "Talking Heads"
     Title: "Little Creatures"
     Label: "Sire"
     Released: "1985"
-    Thumbnail: "talkinglittle.png"
+    Thumbnail: "talkinglittle.webp"
     Format: "CD"
 -
     Artist: "Talking Heads"
     Title: "Remain In Light"
     Label: "Sire"
     Released: "1980"
-    Thumbnail: "remain.jpg"
+    Thumbnail: "remain.webp"
     Format: "CD"
 -
     Artist: "Teenage Fanclub"
     Title: "Ain't That Enough"
     Label: "Creation"
     Released: "1997"
-    Thumbnail: "enough.jpg"
+    Thumbnail: "enough.webp"
     Format: "CD"
 -
     Artist: "Teenage Fanclub"
     Title: "Bandwagonesque"
     Label: "Creation"
     Released: "1992"
-    Thumbnail: "band.jpg"
+    Thumbnail: "band.webp"
     Format: "CD"
 -
     Artist: "Teenage Fanclub"
     Title: "Grand Prix"
     Label: "Creation"
     Released: "1995"
-    Thumbnail: "gp.jpg"
+    Thumbnail: "gp.webp"
     Format: "CD"
 -
     Artist: "Telefilme"
     Title: "Catastrophe Baby EP"
     Label: "Elefant"
     Released: "1997"
-    Thumbnail: "tf.jpg"
+    Thumbnail: "tf.webp"
     Format: "CD"
 -
     Artist: "Television"
     Title: "Adventure"
     Label: "Elektra"
     Released: "1978"
-    Thumbnail: "tv.jpg"
+    Thumbnail: "tv.webp"
     Format: "CD"
 -
     Artist: "Thom Yorke"
     Title: "The Eraser"
     Label: "XL"
     Released: "2006"
-    Thumbnail: "eraser.jpg"
+    Thumbnail: "eraser.webp"
     Format: "CD"
 -
     Artist: "Thrills, The"
     Title: "Let's Bottle Bohemia"
     Label: "Virgin"
     Released: "2004"
-    Thumbnail: "bohemia.jpg"
+    Thumbnail: "bohemia.webp"
     Format: "CD"
 -
     Artist: "Thrills, The"
@@ -2934,21 +2934,21 @@ main:
     Title: "Curtains"
     Label: "This Way Up"
     Released: "1997"
-    Thumbnail: "curtains.jpg"
+    Thumbnail: "curtains.webp"
     Format: "CD"
 -
     Artist: "Tindersticks"
     Title: "Simple Pleasure"
     Label: "Island"
     Released: "1999"
-    Thumbnail: "pleasure.jpg"
+    Thumbnail: "pleasure.webp"
     Format: "CD"
 -
     Artist: "Ting Tings, The"
     Title: "We Started Nothing"
     Label: "Columbia"
     Released: "2008"
-    Thumbnail: "ting.jpg"
+    Thumbnail: "ting.webp"
     Format: "CD"
 -
     Artist: "Tom Petty"
@@ -2962,21 +2962,21 @@ main:
     Title: "Wildflowers"
     Label: "Warner"
     Released: "1994"
-    Thumbnail: "wildflowers.jpg"
+    Thumbnail: "wildflowers.webp"
     Format: "CD"
 -
     Artist: "Tom Waits"
     Title: "Blood Money"
     Label: "Anti"
     Released: "2002"
-    Thumbnail: "blood.png"
+    Thumbnail: "blood.webp"
     Format: "CD"
 -
     Artist: "Tom Waits"
     Title: "Real Gone"
     Label: "Anti"
     Released: "2004"
-    Thumbnail: "realgone.png"
+    Thumbnail: "realgone.webp"
     Format: "CD"
 -
     Artist: "Tortoise"
@@ -2990,77 +2990,77 @@ main:
     Title: "Standards"
     Label: "Thrill Jockey"
     Released: "2001"
-    Thumbnail: "standards.jpg"
+    Thumbnail: "standards.webp"
     Format: "CD"
 -
     Artist: "Tortoise"
     Title: "Millions Now Living Will Never Die"
     Label: "Thrill Jockey"
     Released: "1995"
-    Thumbnail: "millions.jpg"
+    Thumbnail: "millions.webp"
     Format: "CD"
 -
     Artist: "Tricky"
     Title: "The Hell EP"
     Label: "Island"
     Released: "1995"
-    Thumbnail: "hellep.jpg"
+    Thumbnail: "hellep.webp"
     Format: "CD"
 -
     Artist: "Tricky"
     Title: "Maxinquaye"
     Label: "Island"
     Released: "1995"
-    Thumbnail: "maxinquaye.jpg"
+    Thumbnail: "maxinquaye.webp"
     Format: "CD"
 -
     Artist: "Troggs, The"
     Title: "Golden Hits"
     Label: "Masters"
     Released: "1996"
-    Thumbnail: "troggs.jpg"
+    Thumbnail: "troggs.webp"
     Format: "CD"
 -
     Artist: "U2"
     Title: "Achtung Baby"
     Label: "Island"
     Released: "1991"
-    Thumbnail: "u2.png"
+    Thumbnail: "u2.webp"
     Format: "CD"
 -
     Artist: "Uncle Tupelo"
     Title: "No Depression"
     Label: "Columbia"
     Released: "1990"
-    Thumbnail: "uncle.jpg"
+    Thumbnail: "uncle.webp"
     Format: "CD"
 -
     Artist: "Vainica Doble"
     Title: "Miss-Labores"
     Label: "Elefant"
     Released: "1999"
-    Thumbnail: "labores.jpg"
+    Thumbnail: "labores.webp"
     Format: "CD"
 -
     Artist: "Vampire Weekend"
     Title: "Modern Vampires of the City"
     Label: "XL Recordings"
     Released: "2013"
-    Thumbnail: "modernvampires.jpg"
+    Thumbnail: "modernvampires.webp"
     Format: "CD"
 -
     Artist: "Vampire Weekend"
     Title: "Vampire Weekend"
     Label: "XL Recordings"
     Released: "2008"
-    Thumbnail: "vw.jpg"
+    Thumbnail: "vw.webp"
     Format: "CD"
 -
     Artist: "Van Morrison"
     Title: "Astral Weeks"
     Label: "Warner"
     Released: "1968"
-    Thumbnail: "astral.jpg"
+    Thumbnail: "astral.webp"
     Format: "CD"
 -
     Artist: "Various Artists"
@@ -3074,245 +3074,245 @@ main:
     Title: "Hitsville USA"
     Label: "Motown"
     Released: "1992"
-    Thumbnail: "hitsville.jpg"
+    Thumbnail: "hitsville.webp"
     Format: "CD"
 -
     Artist: "Various Artists"
     Title: "Homenaje a Family"
     Label: "Sinedin"
     Released: "2003"
-    Thumbnail: "family2.jpg"
+    Thumbnail: "family2.webp"
     Format: "CD"
 -
     Artist: "Various Artists"
     Title: "The Royal Tenenbaums"
     Label: "Hollywood"
     Released: "2007"
-    Thumbnail: "royal.jpg"
+    Thumbnail: "royal.webp"
     Format: "CD"
 -
     Artist: "Various Artists"
     Title: "The Sopranos: Peppers and Eggs"
     Label: "Columbia"
     Released: "2001"
-    Thumbnail: "sopranos.jpg"
+    Thumbnail: "sopranos.webp"
     Format: "CD"
 -
     Artist: "Various Artists"
     Title: "Trainspotting #2"
     Label: "Capitol"
     Released: "1997"
-    Thumbnail: "train.jpg"
+    Thumbnail: "train.webp"
     Format: "CD"
 -
     Artist: "Velvet Underground, The"
     Title: "The Velvet Underground & Nico"
     Label: "A&M"
     Released: "1967"
-    Thumbnail: "banana.png"
+    Thumbnail: "banana.webp"
     Format: "CD"
 -
     Artist: "Velvet Underground, The"
     Title: "White Light White Heat"
     Label: "Verve"
     Released: "1968"
-    Thumbnail: "wlwh.jpg"
+    Thumbnail: "wlwh.webp"
     Format: "CD"
 -
     Artist: "Veruca Salt"
     Title: "American Thighs"
     Label: "Geffen"
     Released: "1994"
-    Thumbnail: "veruca.jpg"
+    Thumbnail: "veruca.webp"
     Format: "CD"
 -
     Artist: "Vic Chesnutt"
     Title: "Little"
     Label: "Texas Hotel"
     Released: "1990"
-    Thumbnail: "little.jpg"
+    Thumbnail: "little.webp"
     Format: "CD"
 -
     Artist: "Victoria Williams"
     Title: "This Moment In Toronto"
     Label: "VW"
     Released: "1995"
-    Thumbnail: "victoria.jpg"
+    Thumbnail: "victoria.webp"
     Format: "CD"
 -
     Artist: "Victoria Williams"
     Title: "Water To Drink"
     Label: "Atlantic"
     Released: "2000"
-    Thumbnail: "water.jpg"
+    Thumbnail: "water.webp"
     Format: "CD"
 -
     Artist: "Walkabouts, The"
     Title: "Shimmers"
     Label: "Glitterhouse"
     Released: "2003"
-    Thumbnail: "shimmers.jpg"
+    Thumbnail: "shimmers.webp"
     Format: "CD"
 -
     Artist: "Walkabouts, The"
     Title: "Trail Of Stars"
     Label: "Glitterhouse"
     Released: "1999"
-    Thumbnail: "trail.jpg"
+    Thumbnail: "trail.webp"
     Format: "CD"
 -
     Artist: "Walkmen, The"
     Title: "You & Me"
     Label: "Fat Possum"
     Released: "2008"
-    Thumbnail: "youme.jpg"
+    Thumbnail: "youme.webp"
     Format: "CD"
 -
     Artist: "Walkmen, The"
     Title: "Bows & Arrows"
     Label: "Record Collection"
     Released: "2004"
-    Thumbnail: "bows.jpg"
+    Thumbnail: "bows.webp"
     Format: "CD"
 -
     Artist: "Whiskeytown"
     Title: "Pneumonia"
     Label: "Lost Highway"
     Released: "2001"
-    Thumbnail: "whiskey.jpg"
+    Thumbnail: "whiskey.webp"
     Format: "CD"
 -
     Artist: "Who, The"
     Title: "Who's Next"
     Label: "MCA"
     Released: "1971"
-    Thumbnail: "whosnext.jpg"
+    Thumbnail: "whosnext.webp"
     Format: "CD"
 -
     Artist: "Wilco"
     Title: "The Whole Love"
     Label: "dBpm/ANTI"
     Released: "2011"
-    Thumbnail: "wholelove.jpg"
+    Thumbnail: "wholelove.webp"
     Format: "CD"
 -
     Artist: "Wilco"
     Title: "Kicking Television"
     Label: "Nonesuch"
     Released: "2005"
-    Thumbnail: "kicking.jpg"
+    Thumbnail: "kicking.webp"
     Format: "CD"
 -
     Artist: "Wilco"
     Title: "Being There"
     Label: "Reprise"
     Released: "1996"
-    Thumbnail: "beingthere.jpg"
+    Thumbnail: "beingthere.webp"
     Format: "CD"
 -
     Artist: "Wilco"
     Title: "A.M."
     Label: "Reprise"
     Released: "1995"
-    Thumbnail: "am.jpg"
+    Thumbnail: "am.webp"
     Format: "CD"
 -
     Artist: "Willy Vlautlin & Paul Brainard"
     Title: "Northline"
     Label: "Northline Music"
     Released: "2007"
-    Thumbnail: "northline.jpg"
+    Thumbnail: "northline.webp"
     Format: "CD"
 -
     Artist: "Yo La Tengo"
     Title: "Electr-O-Pura"
     Label: "Matador Records"
     Released: "1995"
-    Thumbnail: "electro.jpg"
+    Thumbnail: "electro.webp"
     Format: "CD"
 -
     Artist: "Yo La Tengo"
     Title: "Summer Sun"
     Label: "Matador"
     Released: "2003"
-    Thumbnail: "summer.jpg"
+    Thumbnail: "summer.webp"
     Format: "CD"
 -
     Artist: "Yo La Tengo"
     Title: "I Am Not Afraid Of You And I Will Beat Your Ass"
     Label: "Matador"
     Released: "2006"
-    Thumbnail: "iamnot.jpg"
+    Thumbnail: "iamnot.webp"
     Format: "CD"
 -
     Artist: "Yo La Tengo"
     Title: "Nuclear War"
     Label: "Matador"
     Released: "2002"
-    Thumbnail: "nuclearwar.jpg"
+    Thumbnail: "nuclearwar.webp"
     Format: "CD"
 -
     Artist: "Yo La Tengo"
     Title: "Genius + Love"
     Label: "Matador"
     Released: "1996"
-    Thumbnail: "genius.jpg"
+    Thumbnail: "genius.webp"
     Format: "CD"
 -
     Artist: "Young Marble Giants"
     Title: "Colossal Youth"
     Label: "Domino"
     Released: "2007"
-    Thumbnail: "ymg.jpg"
+    Thumbnail: "ymg.webp"
     Format: "CD"
 -
     Artist: "Youssou N'Dour"
     Title: "Immigrés"
     Label: "Earthworks"
     Released: "1984"
-    Thumbnail: "immi.jpg"
+    Thumbnail: "immi.webp"
     Format: "CD"
 -
     Artist: "Zephyrs, The"
     Title: "When The Sky Comes Down It Comes Down On Your Herd"
     Label: "Southpaw"
     Released: "2001"
-    Thumbnail: "zephyrs.jpg"
+    Thumbnail: "zephyrs.webp"
     Format: "CD"
 -
     Artist: Nick Lowe
     Title: Labour of Lust
     Label: Columbia
     Released: 1978
-    Thumbnail: lowelust.jpg
+    Thumbnail: lowelust.webp
     Format: Vinyl
 -
     Artist: Pretenders
     Title: Pretenders
     Label: Sire
     Released: 1979
-    Thumbnail: pretenders.jpg
+    Thumbnail: pretenders.webp
     Format: Vinyl
 -
     Artist: Tom Verlaine
     Title: Words From The Front
     Label: Warner
     Released: 1982
-    Thumbnail: verlaine.jpg
+    Thumbnail: verlaine.webp
     Format: Vinyl
 -
     Artist: Big Star
     Title: Live On WLIR
     Label: Ardent
     Released: 2019
-    Thumbnail: bigstarwlir.jpg
+    Thumbnail: bigstarwlir.webp
     Format: Vinyl
 -
     Artist: Ladybug Transistor, The
     Title: The Albemarle Sound
     Label: Merge
     Released: 1999
-    Thumbnail: albemarle.gif
+    Thumbnail: albemarle.webp
     Format:
       - Vinyl
       - CD
@@ -3321,14 +3321,14 @@ main:
     Title: A Charlie Brown Christmas
     Label: Fantasy
     Released: 1965
-    Thumbnail: christmas_charlie.jpg
+    Thumbnail: christmas_charlie.webp
     Format: Vinyl
 -
     Artist: Phil Spector
     Title: A Christmas Gift For You
     Label: Philies
     Released: 1963
-    Thumbnail: christmas_phil.jpg
+    Thumbnail: christmas_phil.webp
     Format:
       - Vinyl
       - CD
@@ -3337,56 +3337,56 @@ main:
     Title: Beethoven Was Deaf
     Label: HMV
     Released: 1993
-    Thumbnail: beethovendeaf.jpg
+    Thumbnail: beethovendeaf.webp
     Format: Vinyl
 -
     Artist: Cowboy Junkies
     Title: The Trinity Session
     Label: RCA
     Released: 1988
-    Thumbnail: trinity.jpg
+    Thumbnail: trinity.webp
     Format: Vinyl
 -
     Artist: Buck Owens
     Title: I've Got A Tiger By The Tail
     Label: Capitol
     Released: 1965
-    Thumbnail: bucktail.jpg
+    Thumbnail: bucktail.webp
     Format: Vinyl
 -
     Artist: Roxy Music
     Title: Siren
     Label: ATCO
     Released: 1975
-    Thumbnail: roxysiren.jpg
+    Thumbnail: roxysiren.webp
     Format: Vinyl
 -
     Artist: Teenage Fanclub
     Title: Endless Arcade
     Label: Merge
     Released: 2021
-    Thumbnail: endlessarcade.jpg
+    Thumbnail: endlessarcade.webp
     Format: Vinyl
 -
     Artist: De La Soul
     Title: Three Feet High and Rising
     Label: Tommy Boy
     Released: 1979
-    Thumbnail: 3feet.jpg
+    Thumbnail: 3feet.webp
     Format: Vinyl
 -
     Artist: Paul McCartney
     Title: Band On The Run
     Label: Apple
     Released: 1973
-    Thumbnail: bandrun.jpg
+    Thumbnail: bandrun.webp
     Format: Vinyl
 -
     Artist: Lucinda Williams
     Title: Car Wheels On A Gravel Road
     Label: Mercury
     Released: 1997
-    Thumbnail: carwheels.jpg
+    Thumbnail: carwheels.webp
     Format:
       - Vinyl
       - CD
@@ -3395,35 +3395,35 @@ main:
     Title: Here's Little Richard
     Label: Craft
     Released: 1957
-    Thumbnail: hereslittle.jpg
+    Thumbnail: hereslittle.webp
     Format: Vinyl
 -
     Artist: Dr. John
     Title: Things Happen That Way
     Label: Rounder
     Released: 2022
-    Thumbnail: drjohnthings.jpg
+    Thumbnail: drjohnthings.webp
     Format: Vinyl
 -
     Artist: Lemon Twigs
     Title: Everything Harmony
     Label: Captured Tracks
     Released: 2023
-    Thumbnail: twigsharmony.jpg
+    Thumbnail: twigsharmony.webp
     Format: Vinyl
 -
     Artist: Sleater-Kinney
     Title: The Hot Rock
     Label: Sub Pop
     Released: 1999
-    Thumbnail: hotrock.jpg
+    Thumbnail: hotrock.webp
     Format: Vinyl
 -
     Artist: Bon Iver
     Title: Bon Iver
     Label: Jagjaguwar
     Released: 2011
-    Thumbnail: boniver.jpg
+    Thumbnail: boniver.webp
     Format:
       - Vinyl
       - CD
@@ -3432,7 +3432,7 @@ main:
     Title: Blue
     Label: Reprise
     Released: 1971
-    Thumbnail: joniblue.jpg
+    Thumbnail: joniblue.webp
     Format:
       - Vinyl
       - CD
@@ -3441,105 +3441,105 @@ main:
     Title: Nilsson Schmilsson
     Label: RCA
     Released: 1971
-    Thumbnail: nilssonschmilsson.jpg
+    Thumbnail: nilssonschmilsson.webp
     Format: Vinyl
 -
     Artist: Caetano Veloso
     Title: Caetano Veloso
     Label: Philipos
     Released: 1968
-    Thumbnail: caetano.jpg
+    Thumbnail: caetano.webp
     Format: Vinyl
 -
     Artist: Junior Wells
     Title: It's My Life, Baby
     Label: Vanguard
     Released: 1966
-    Thumbnail: juniorwells.jpg
+    Thumbnail: juniorwells.webp
     Format: Vinyl
 -
     Artist: Aretha Franklin
     Title: Aretha Now
     Label: Atlantic
     Released: 1968
-    Thumbnail: arethanow.jpg
+    Thumbnail: arethanow.webp
     Format: Vinyl
 -
     Artist: Gal Costa
     Title: India
     Label: Philips
     Released: 1973
-    Thumbnail: gal.jpg
+    Thumbnail: gal.webp
     Format: Vinyl
 -
     Artist: Os Mutantes
     Title: Os Mutantes
     Label: Polydor
     Released: 1968
-    Thumbnail: mutantes.jpg
+    Thumbnail: mutantes.webp
     Format: Vinyl
 -
     Artist: Alice Coltrane
     Title: Transfiguration
     Label: Warner
     Released: 1978
-    Thumbnail: alicetrans.jpg
+    Thumbnail: alicetrans.webp
     Format: Vinyl
 -
     Artist: Alice Coltrane
     Title: Eternity
     Label: Warner
     Released: 1975
-    Thumbnail: aliceeter.jpg
+    Thumbnail: aliceeter.webp
     Format: Vinyl
 -
     Artist: Police, The
     Title: Synchronicity
     Label: A&M
     Released: 1983
-    Thumbnail: police.jpg
+    Thumbnail: police.webp
     Format: Vinyl
 -
     Artist: Various Artists
     Title: Nuggets Vol.2
     Label: Rhino
     Released: 2024
-    Thumbnail: nuggets2.jpg
+    Thumbnail: nuggets2.webp
     Format: Vinyl
 -
     Artist: Bravos, Los
     Title: Black Is Black
     Label: Press
     Released: 1966
-    Thumbnail: bravos.jpg
+    Thumbnail: bravos.webp
     Format: Vinyl
 -
     Artist: Curtis Mayfield
     Title: Curtis
     Label: Warner
     Released: 1970
-    Thumbnail: curtis.jpg
+    Thumbnail: curtis.webp
     Format: Vinyl
 -
     Artist: Stereolab
     Title: Dots and Loops
     Label: Duophonic
     Released: 1997
-    Thumbnail: dotsloops.jpg
+    Thumbnail: dotsloops.webp
     Format: Vinyl
 -
     Artist: T-Rex
     Title: T-Rex
     Label: Reprixe
     Released: 1970
-    Thumbnail: trex.jpg
+    Thumbnail: trex.webp
     Format: Vinyl
 -
     Artist: Weezer
     Title: Weezer
     Label: Geffen
     Released: 1994
-    Thumbnail: weezerblue.jpg
+    Thumbnail: weezerblue.webp
     Format:
       - Vinyl
       - CD
@@ -3548,7 +3548,7 @@ main:
     Title: Parklife
     Label: Food
     Released: 1994
-    Thumbnail: parklife.jpg
+    Thumbnail: parklife.webp
     Format:
       - Vinyl
       - CD
@@ -3557,28 +3557,28 @@ main:
     Title: Singing in the Bathtub
     Label: Blue Goose
     Released: 1978
-    Thumbnail: rcrumb.jpg
+    Thumbnail: rcrumb.webp
     Format: Vinyl
 -
     Artist: Replacements, The
     Title: Not Ready for Prime Time Live At The Cabaret Metro
     Label: Rhino
     Released: 2024
-    Thumbnail: replacementsnotready.jpg
+    Thumbnail: replacementsnotready.webp
     Format: Vinyl
 -
     Artist: Dr. John
     Title: Gris-Gris Gumbo Ya-Ya Singles 1968
     Label: Omnivore
     Released: 2024
-    Thumbnail: gumbo.jpg
+    Thumbnail: gumbo.webp
     Format: Vinyl
 -
     Artist: Buena Vista Social Club
     Title: Buena Vista Social Club
     Label: EGREM
     Released: 1997
-    Thumbnail: bvsc.jpg
+    Thumbnail: bvsc.webp
     Format:
       - Vinyl
       - CD
@@ -3587,91 +3587,91 @@ main:
     Title: L'Avventura
     Label: Jet Set
     Released: 2003
-    Thumbnail: deanavventura.jpg
+    Thumbnail: deanavventura.webp
     Format: Vinyl
 -
     Artist: Gram Parsons
     Title: Grievous Angel
     Label: Reprise
     Released: 1974
-    Thumbnail: grievous.jpg
+    Thumbnail: grievous.webp
     Format: Vinyl
 -
     Artist: Gil Scott-Heron
     Title: Winter in America
     Label: Strata-East
     Released: 1974
-    Thumbnail: gilwinter.jpg
+    Thumbnail: gilwinter.webp
     Format: Vinyl
 -
     Artist: Todd Rundgren
     Title: Liars
     Label: Sanctuary
     Released: 2004
-    Thumbnail: toddliars.jpg
+    Thumbnail: toddliars.webp
     Format: Vinyl
 -
     Artist: Todd Rundgren
     Title: Todd
     Label: Bearsville
     Released: 1974
-    Thumbnail: todd.jpg
+    Thumbnail: todd.webp
     Format: Vinyl
 -
     Artist: Todd Rundgren
     Title: Hermit of Mink Hollow
     Label: Bearsville
     Released: 1978
-    Thumbnail: toddhermit.jpg
+    Thumbnail: toddhermit.webp
     Format: Vinyl
 -
     Artist: Zombies, The
     Title: Oddities and Extras
     Label: Craft
     Released: 2021
-    Thumbnail: zombiesextras.jpg
+    Thumbnail: zombiesextras.webp
     Format: Vinyl
 -
     Artist: Nancy Sinatra and Lee Hazlewood
     Title: Nancy and Lee
     Label: Reprise
     Released: 1968
-    Thumbnail: nancylee.jpg
+    Thumbnail: nancylee.webp
     Format: Vinyl
 -
     Artist: Nancy Sinatra
     Title: How Does That Grab You?
     Label: Reprise
     Released: 1966
-    Thumbnail: nancy.jpg
+    Thumbnail: nancy.webp
     Format: Vinyl
 -
     Artist: Ovidi Montllor
     Title: A Alcoi
     Label: Edigsa
     Released: 1974
-    Thumbnail: ovidi.jpg
+    Thumbnail: ovidi.webp
     Format: Vinyl
 -
     Artist: Fangoria
     Title: La Mano En El Fuego
     Label: Gasa
     Released: 2004
-    Thumbnail: fangoria.jpg
+    Thumbnail: fangoria.webp
     Format: Vinyl
 -
     Artist: Nina Simone
     Title: Silk And Soul
     Label: RCA
     Released: 1967
-    Thumbnail: silksoul.jpg
+    Thumbnail: silksoul.webp
     Format: Vinyl
 -
     Artist: Mazzy Star
     Title: So Tonight That I Might See
     Label: Capitol
     Released: 1993
-    Thumbnail: mazzy.jpg
+    Thumbnail: mazzy.webp
     Format:
       - Vinyl
       - CD
@@ -3680,21 +3680,21 @@ main:
     Title: Kill The Wolf
     Label: Acid Jazz
     Released: 2013
-    Thumbnail: killwolf.jpg
+    Thumbnail: killwolf.webp
     Format: Vinyl
 -
     Artist: New Order
     Title: Substance
     Label: Factory
     Released: 1987
-    Thumbnail: newordersubstance.jpg
+    Thumbnail: newordersubstance.webp
     Format: Vinyl
 -
     Artist: M. Ward
     Title: Transfiguration of Vincent
     Label: Merge
     Released: 2003
-    Thumbnail: transfiguration.jpg
+    Thumbnail: transfiguration.webp
     Format:
       - Vinyl
       - CD
@@ -3703,77 +3703,77 @@ main:
     Title: Hootenanny
     Label: Twin Tone
     Released: 1983
-    Thumbnail: hootenanny.jpg
+    Thumbnail: hootenanny.webp
     Format: Vinyl
 -
     Artist: Nina Simone
     Title: Nina Simone Sings the Blues
     Label: RCA
     Released: 1967
-    Thumbnail: ninablues.jpg
+    Thumbnail: ninablues.webp
     Format: Vinyl
 -
     Artist: Simon and Garfunkel
     Title: Bridge Over Troubled Water
     Label: Columbia
     Released: 1970
-    Thumbnail: troubledwater.jpg
+    Thumbnail: troubledwater.webp
     Format: Vinyl
 -
     Artist: Mitski
     Title: The Land Is Inhospitable and So Are We
     Label: Dead Oceans
     Released: 2023
-    Thumbnail: landinhospitable.jpg
+    Thumbnail: landinhospitable.webp
     Format: Vinyl
 -
     Artist: Minnie Riperton
     Title: The Best of Minnie Riperton
     Label: EMI
     Released:
-    Thumbnail: minnie.jpg
+    Thumbnail: minnie.webp
     Format: Vinyl
 -
     Artist: Thelonius Monk
     Title: Blue Monk
     Label: Jazz Masterworks
     Released:
-    Thumbnail: bluemonk.jpg
+    Thumbnail: bluemonk.webp
     Format: Vinyl
 -
     Artist: Mitchell-Ruff Trio
     Title: The Catbird Seat
     Label: Atlantic
     Released:
-    Thumbnail: catbird.jpg
+    Thumbnail: catbird.webp
     Format: Vinyl
 -
     Artist: Harry Nilsson
     Title: A little touch of Schmilsson in the night
     Label: RCA
     Released: 1973
-    Thumbnail: schmilssonnight.jpg
+    Thumbnail: schmilssonnight.webp
     Format: Vinyl
 -
     Artist: Cocteau Twins
     Title: Stars and Topsoil - A Collection
     Label: 4AD
     Released: 2000
-    Thumbnail: starstopsoil.jpg
+    Thumbnail: starstopsoil.webp
     Format: Vinyl
 -
     Artist: La Lupe
     Title: Queen Of Latin Soul
     Label: Tico
     Released: 1968
-    Thumbnail: lalupe.jpg
+    Thumbnail: lalupe.webp
     Format: Vinyl
 -
     Artist: R.E.M.
     Title: Up
     Label: Warner
     Released: 1998
-    Thumbnail: remup.jpg
+    Thumbnail: remup.webp
     Format:
       - Vinyl
       - CD
@@ -3782,259 +3782,259 @@ main:
     Title: No Dice
     Label: Apple
     Released: 1970
-    Thumbnail: nodice.jpg
+    Thumbnail: nodice.webp
     Format: Vinyl
 -
     Artist: Todd Rundgren
     Title: Something Anything
     Label: Bearsville
     Released: 1972
-    Thumbnail: something.jpg
+    Thumbnail: something.webp
     Format: Vinyl
 -
     Artist: Shangri-las, The
     Title: The Best of The Red Bird and Mercury Recordings
     Label: Red Gone Music
     Released: 2021
-    Thumbnail: shangrilas.jpg
+    Thumbnail: shangrilas.webp
     Format: Vinyl
 -
     Artist: Stephen Stills
     Title: Down The Road
     Label: Atlantic
     Released: 1973
-    Thumbnail: downroad.jpg
+    Thumbnail: downroad.webp
     Format: Vinyl
 -
     Artist: Walkabouts, The
     Title: Rag And Bone
     Label: Sub Pop
     Released: 1989
-    Thumbnail: walkabouts.jpg
+    Thumbnail: walkabouts.webp
     Format: Vinyl
 -
     Artist: Melenas
     Title: Ahora
     Label: Trouble In Mind
     Released: 2023
-    Thumbnail: melenas.jpg
+    Thumbnail: melenas.webp
     Format: Vinyl
 -
     Artist: Paul McCartney
     Title: McCartney II
     Label: MPL
     Released: 1980
-    Thumbnail: mccartney2.jpg
+    Thumbnail: mccartney2.webp
     Format: Vinyl
 -
     Artist: Sigur Rós
     Title: Ágætis Byrjun
     Label: Krunk
     Released: 1999
-    Thumbnail: agaetis.jpg
+    Thumbnail: agaetis.webp
     Format: Vinyl
 -
     Artist: Sly and The Family Stone
     Title: There's a Riot Goin' On
     Label: Epic
     Released: 1971
-    Thumbnail: slyriot.jpg
+    Thumbnail: slyriot.webp
     Format: Vinyl
 -
     Artist: Santigold
     Title: Santigold
     Label: Downtown
     Released: 2008
-    Thumbnail: santigold.jpg
+    Thumbnail: santigold.webp
     Format: Vinyl
 -
     Artist: Darkside
     Title: Psychic
     Label: Matador
     Released: 2013
-    Thumbnail: darkside.jpg
+    Thumbnail: darkside.webp
     Format: Vinyl
 -
     Artist: Destroyer
     Title: Labyrinthitis
     Label: Merge
     Released: 2022
-    Thumbnail: labyrinthitis.jpg
+    Thumbnail: labyrinthitis.webp
     Format: Vinyl
 -
     Artist: Aretha Franklin
     Title: Spirit In The Dark
     Label: Atlantic
     Released: 1970
-    Thumbnail: spiritdark.jpg
+    Thumbnail: spiritdark.webp
     Format: Vinyl
 -
     Artist: Aretha Franklin
     Title: I Never Loved A Man The Way I Love You
     Label: Atlantic
     Released: 1967
-    Thumbnail: arethaneverloved.jpg
+    Thumbnail: arethaneverloved.webp
     Format: Vinyl
 -
     Artist: Bob Dylan
     Title: Blonde On Blonde
     Label: Columbia
     Released: 1966
-    Thumbnail: blondeonblonde.jpg
+    Thumbnail: blondeonblonde.webp
     Format: Vinyl
 -
     Artist: Andrew Bird
     Title: HARK!
     Label: Loma Vista
     Released: 2020
-    Thumbnail: hark.jpg
+    Thumbnail: hark.webp
     Format: Vinyl
 -
     Artist: Jackson Browne
     Title: Jackson Browne
     Label: Asylum
     Released: 1972
-    Thumbnail: jacksonbrowne.jpg
+    Thumbnail: jacksonbrowne.webp
     Format: Vinyl
 -
     Artist: Blues Brothers
     Title: Briefcase Full of Blues
     Label: Atlantic
     Released: 1978
-    Thumbnail: bluesbrothers.jpg
+    Thumbnail: bluesbrothers.webp
     Format: Vinyl
 -
     Artist: Hollies, The
     Title: Bus Stop
     Label: Imperial
     Released: 1966
-    Thumbnail: busstop.jpg
+    Thumbnail: busstop.webp
     Format: Vinyl
 -
     Artist: Jefferson Airplane
     Title: Surrealistic Pillow
     Label: RCA
     Released: 1967
-    Thumbnail: surrealistic.jpg
+    Thumbnail: surrealistic.webp
     Format: Vinyl
 -
     Artist: George Harrison
     Title: Living In The Material World
     Label: Apple
     Released: 1973
-    Thumbnail: materialworld.jpg
+    Thumbnail: materialworld.webp
     Format: Vinyl
 -
     Artist: Beatles, The
     Title: Yellow Submarine
     Label: Apple
     Released: 1969
-    Thumbnail: yellowsubmarine.jpg
+    Thumbnail: yellowsubmarine.webp
     Format: Vinyl
 -
     Artist: Cat Stevens
     Title: Teaser and the Firecat
     Label: Island
     Released: 1971
-    Thumbnail: teaser.jpg
+    Thumbnail: teaser.webp
     Format: Vinyl
 -
     Artist: Paul McCartney
     Title: RAM
     Label: Capitol
     Released: 1971
-    Thumbnail: ram.jpg
+    Thumbnail: ram.webp
     Format: Vinyl
 -
     Artist: Simon and Garfunkel
     Title: Parsley, Sage, Rosemary and Thyme
     Label: Columbia
     Released: 1966
-    Thumbnail: parsley.jpg
+    Thumbnail: parsley.webp
     Format: Vinyl
 -
     Artist: Simon and Garfunkel
     Title: Bookends
     Label: Columbia
     Released: 1968
-    Thumbnail: bookends.jpg
+    Thumbnail: bookends.webp
     Format: Vinyl
 -
     Artist: Neil Young
     Title: Decade
     Label: Warner
     Released: 1973
-    Thumbnail: decade.jpg
+    Thumbnail: decade.webp
     Format: Vinyl
 -
     Artist: Stephen Stills
     Title: Manassas
     Label: Atlantic
     Released: 1972
-    Thumbnail: manassas.jpg
+    Thumbnail: manassas.webp
     Format: Vinyl
 -
     Artist: Crosby, Still & Nash
     Title: Crosby, Still & Nash
     Label: Atlantic
     Released: 1969
-    Thumbnail: csn.jpg
+    Thumbnail: csn.webp
     Format: Vinyl
 -
     Artist: George Harrison
     Title: All Things Must Pass
     Label: Apple
     Released: 1970
-    Thumbnail: allthings.jpg
+    Thumbnail: allthings.webp
     Format: Vinyl
 -
     Artist: Songs Ohia
     Title: Magnolia Electric Co.
     Label: Secretly Canadian
     Released: 2003
-    Thumbnail: magnoliaco.jpg
+    Thumbnail: magnoliaco.webp
     Format: Vinyl
 -
     Artist: Sufjan Stevens
     Title: Javelin
     Label: Asthmatic Kitty
     Released: 2023
-    Thumbnail: javelin.png
+    Thumbnail: javelin.webp
     Format: Vinyl
 -
     Artist: Clean, The
     Title: Mister Pop
     Label: Merge
     Released: 2009
-    Thumbnail: theclean.jpg
+    Thumbnail: theclean.webp
     Format: Vinyl
 -
     Artist: Felt
     Title: Forever Breathes The Lonely Word
     Label: Creation
     Released: 1986
-    Thumbnail: felt.jpg
+    Thumbnail: felt.webp
     Format: Vinyl
 -
     Artist: Paul McCartney
     Title: McCartney
     Label: Apple
     Released: 1970
-    Thumbnail: mccartney.jpg
+    Thumbnail: mccartney.webp
     Format: Vinyl
 -
     Artist: Bob Dylan
     Title: Pat Garrett and Billy The Kid
     Label: CBS
     Released: 1973
-    Thumbnail: patgarret.jpg
+    Thumbnail: patgarret.webp
     Format: Vinyl
 -
     Artist: Weather Station, The
     Title: How Is It That I Should Look At The Stars
     Label: Fat Possum
     Released: 2022
-    Thumbnail: weather.jpg
+    Thumbnail: weather.webp
     Format: Vinyl
 -
     Artist: Gladys Knight and the Pips
@@ -4048,133 +4048,133 @@ main:
     Title: I Am Not There Anymore
     Label: Merge
     Released: 2023
-    Thumbnail: iamnotthere.jpg
+    Thumbnail: iamnotthere.webp
     Format: Vinyl
 -
     Artist: Clientele, The
     Title: God Save The Clientele
     Label: Merge
     Released: 2007
-    Thumbnail: godsave.jpg
+    Thumbnail: godsave.webp
     Format: Vinyl
 -
     Artist: Clientele, The
     Title: Strange Geometry
     Label: Merge
     Released: 2005
-    Thumbnail: strangegeometry.jpg
+    Thumbnail: strangegeometry.webp
     Format: Vinyl
 -
     Artist: Al Green
     Title: 'Let''s Stay Together'
     Label: Hi
     Released: 1972
-    Thumbnail: staytogether.jpg
+    Thumbnail: staytogether.webp
     Format: Vinyl
 -
     Artist: Alex Chilton
     Title: Live in Anvers
     Label: Bar/None
     Released: 2023
-    Thumbnail: chiltonanvers.jpg
+    Thumbnail: chiltonanvers.webp
     Format: Vinyl
 -
     Artist: Andrew Bird
     Title: Mysterious Production Of Eggs
     Label: Righteous Babe
     Released: 2005
-    Thumbnail: birdeggs.jpg
+    Thumbnail: birdeggs.webp
     Format: Vinyl
 -
     Artist: Avalanches, The
     Title: Since I Left You
     Label: XL
     Released: 2000
-    Thumbnail: avalanchessince.jpg
+    Thumbnail: avalanchessince.webp
     Format: Vinyl
 -
     Artist: Band of Horses
     Title: Everything All The Time
     Label: Sub Pop
     Released: 2006
-    Thumbnail: bandofhorses.jpg
+    Thumbnail: bandofhorses.webp
     Format: Vinyl
 -
     Artist: Band, The
     Title: The Band
     Label: Capitol
     Released: 1966
-    Thumbnail: theband.jpg
+    Thumbnail: theband.webp
     Format: Vinyl
 -
     Artist: Band, The
     Title: Music From Big Pink
     Label: Capitol
     Released: 1968
-    Thumbnail: bandbigpink.jpg
+    Thumbnail: bandbigpink.webp
     Format: Vinyl
 -
     Artist: Barracudas
     Title: Drop Out With The Barracudas
     Label: Parlophone
     Released: 1981
-    Thumbnail: barracudas.jpg
+    Thumbnail: barracudas.webp
     Format: Vinyl
 -
     Artist: Beach Boys, The
     Title: 'Beach Boys'' Party!'
     Label: Capitol
     Released: 1965
-    Thumbnail: beachboysparty.jpg
+    Thumbnail: beachboysparty.webp
     Format: Vinyl
 -
     Artist: Beach Boys, The
     Title: The Smile Sessions
     Label: Capitol / EMI
     Released: 2011
-    Thumbnail: smile.jpg
+    Thumbnail: smile.webp
     Format: Vinyl
 -
     Artist: Beach House
     Title: Bloom
     Label: Sub Pop
     Released: 2012
-    Thumbnail: bloom.jpg
+    Thumbnail: bloom.webp
     Format: Vinyl
 -
     Artist: Beachwood Sparks
     Title: Beachwood Sparks
     Label: Bomp
     Released: 2000
-    Thumbnail: beachwood.jpg
+    Thumbnail: beachwood.webp
     Format: Vinyl
 -
     Artist: Beatles, The
     Title: The Beatles, 1967-1970
     Label: Apple
     Released: 1973
-    Thumbnail: beatlesblue.jpg
+    Thumbnail: beatlesblue.webp
     Format: Vinyl
 -
     Artist: Beatles, The
     Title: 'A Hard Day''s Night'
     Label: Apple
     Released: 1964
-    Thumbnail: aharddays.jpg
+    Thumbnail: aharddays.webp
     Format: Vinyl
 -
     Artist: Beatles, The
     Title: Revolver
     Label: Apple
     Released: 1966
-    Thumbnail: revolver.jpg
+    Thumbnail: revolver.webp
     Format: Vinyl
 -
     Artist: Beatles, The
     Title: 'Sgt. Pepper''s Lonely Hearts Club Band'
     Label: Apple
     Released: 1967
-    Thumbnail: sgtpeppers.jpg
+    Thumbnail: sgtpeppers.webp
     Format:
       - Vinyl
       - CD
@@ -4183,105 +4183,105 @@ main:
     Title: Abbey Road
     Label: Apple
     Released: 1969
-    Thumbnail: abbeyroad.jpg
+    Thumbnail: abbeyroad.webp
     Format: Vinyl
 -
     Artist: Beatles, The
     Title: Rubber Soul
     Label: EMI
     Released: 1965
-    Thumbnail: rubbersoul.jpg
+    Thumbnail: rubbersoul.webp
     Format: Vinyl
 -
     Artist: Beau Brummels, The
     Title: Introducing The Beau Brummels
     Label: Autumn
     Released: 1965
-    Thumbnail: beau.jpg
+    Thumbnail: beau.webp
     Format: Vinyl
 -
     Artist: Belle and Sebastian
     Title: 'If You''re Feeling Sinister'
     Label: Jeepster
     Released: 1996
-    Thumbnail: bssinister.jpg
+    Thumbnail: bssinister.webp
     Format: Vinyl
 -
     Artist: Beths, The
     Title: Future Me Hates Me
     Label: Carpark
     Released: 2018
-    Thumbnail: beths.jpg
+    Thumbnail: beths.webp
     Format: Vinyl
 -
     Artist: Big Star
     Title: 3rd
     Label: 4 Men With Beards
     Released: 1978
-    Thumbnail: bigstar3.jpg
+    Thumbnail: bigstar3.webp
     Format: Vinyl
 -
     Artist: Big Star
     Title: Number 1 Record
     Label: Ardent
     Released: 1972
-    Thumbnail: bigstar.jpg
+    Thumbnail: bigstar.webp
     Format: Vinyl
 -
     Artist: Big Star
     Title: Radio City
     Label: Ardent
     Released: 1974
-    Thumbnail: radiocity.jpg
+    Thumbnail: radiocity.webp
     Format: Vinyl
 -
     Artist: Big Star
     Title: Columbia (Live At Missouri University 4/25/93)
     Label: BMG
     Released: 1993
-    Thumbnail: columbia.jpg
+    Thumbnail: columbia.webp
     Format: Vinyl
 -
     Artist: Big Thief
     Title: Capacity
     Label: Saddle Creek
     Released: 2017
-    Thumbnail: capacity.jpg
+    Thumbnail: capacity.webp
     Format: Vinyl
 -
     Artist: Bill Callahan
     Title: Gold Record
     Label: Drag City
     Released: 2020
-    Thumbnail: goldrecord.jpg
+    Thumbnail: goldrecord.webp
     Format: Vinyl
 -
     Artist: Blonde Redhead
     Title: 23
     Label: 4AD
     Released: 2007
-    Thumbnail: br23.jpg
+    Thumbnail: br23.webp
     Format: Vinyl
 -
     Artist: Blondie
     Title: Parallel Lines
     Label: Chrysalis
     Released: 1978
-    Thumbnail: blondie.jpg
+    Thumbnail: blondie.webp
     Format: Vinyl
 -
     Artist: Bob Dylan
     Title: Infidels
     Label: Columbia
     Released: 1983
-    Thumbnail: infidels.jpg
+    Thumbnail: infidels.webp
     Format: Vinyl
 -
     Artist: Bob Dylan
     Title: Bringing It All Back Home
     Label: Columbia
     Released: 1965
-    Thumbnail: bringingit.jpg
+    Thumbnail: bringingit.webp
     Format:
       - Vinyl
       - CD
@@ -4290,301 +4290,301 @@ main:
     Title: Slow Train Coming
     Label: Columbia
     Released: 1979
-    Thumbnail: slowtrain.jpg
+    Thumbnail: slowtrain.webp
     Format: Vinyl
 -
     Artist: Bob Dylan
     Title: Street Legal
     Label: Columbia
     Released: 1978
-    Thumbnail: streetlegal.jpg
+    Thumbnail: streetlegal.webp
     Format: Vinyl
 -
     Artist: 'Bonnie ''Prince'' Billy'
     Title: Ease Down The Road
     Label: Palace
     Released: 2001
-    Thumbnail: bonnie.jpg
+    Thumbnail: bonnie.webp
     Format: Vinyl
 -
     Artist: Brian Wilson
     Title: Brian Wilson
     Label: Sire / Reprise
     Released: 1988
-    Thumbnail: brianwilson.jpg
+    Thumbnail: brianwilson.webp
     Format: Vinyl
 -
     Artist: Broadcast
     Title: The Noise Made By People
     Label: Warp
     Released: 2000
-    Thumbnail: broadcastnoise.jpg
+    Thumbnail: broadcastnoise.webp
     Format: Vinyl
 -
     Artist: Bruce Springsteen
     Title: Nebraska
     Label: Columbia
     Released: 1982
-    Thumbnail: nebraska.jpg
+    Thumbnail: nebraska.webp
     Format: Vinyl
 -
     Artist: Bruce Springsteen
     Title: Born in the U.S.A.
     Label: Columbia
     Released: 1984
-    Thumbnail: bornusa.jpg
+    Thumbnail: bornusa.webp
     Format: Vinyl
 -
     Artist: Buck Owens and his Buckaroos
     Title: Bridge Over Troubled Water
     Label: Capitol
     Released: 1971
-    Thumbnail: buckowensbridge.jpg
+    Thumbnail: buckowensbridge.webp
     Format: Vinyl
 -
     Artist: Burt Bacharach
     Title: Music From Butch Cassidy and The Sundance Kid
     Label: A&M
     Released: 1969
-    Thumbnail: bacharach.jpg
+    Thumbnail: bacharach.webp
     Format: Vinyl
 -
     Artist: Burt Bacharach
     Title: Reach Out
     Label: A&M
     Released: 1967
-    Thumbnail: reachout.jpg
+    Thumbnail: reachout.webp
     Format: Vinyl
 -
     Artist: Calexico
     Title: The Black Light
     Label: Quarterstick
     Released: 1998
-    Thumbnail: blacklight.jpg
+    Thumbnail: blacklight.webp
     Format: Vinyl
 -
     Artist: Cánovas, Rodrigo, Adolfo y Guzmán
     Title: Señora Azul
     Label: Hispavox
     Released: 1974
-    Thumbnail: senoraazul.jpg
+    Thumbnail: senoraazul.webp
     Format: Vinyl
 -
     Artist: Carole King
     Title: Tapestry
     Label: Ode
     Released: 1971
-    Thumbnail: tapestry.jpg
+    Thumbnail: tapestry.webp
     Format: Vinyl
 -
     Artist: Carole King
     Title: Rhymes & Reasons
     Label: Ode
     Released: 1972
-    Thumbnail: rhymesreasons.jpg
+    Thumbnail: rhymesreasons.webp
     Format: Vinyl
 -
     Artist: Caroline Rose
     Title: The Art of Forgetting
     Label: New West
     Released: 2023
-    Thumbnail: carolinerose.jpg
+    Thumbnail: carolinerose.webp
     Format: Vinyl
 -
     Artist: Cars, The
     Title: Heartbeat City
     Label: Elektra
     Released: 1984
-    Thumbnail: thecars.jpg
+    Thumbnail: thecars.webp
     Format: Vinyl
 -
     Artist: Cass McCombs
     Title: Mangy love
     Label: Sony
     Released: 1984
-    Thumbnail: cass.jpg
+    Thumbnail: cass.webp
     Format: Vinyl
 -
     Artist: Cat Stevens
     Title: Foreigner
     Label: Island
     Released: 1973
-    Thumbnail: foreigner.jpg
+    Thumbnail: foreigner.webp
     Format: Vinyl
 -
     Artist: Cinerama
     Title: Valentina
     Label: Scopitones
     Released: 2015
-    Thumbnail: valentina.jpg
+    Thumbnail: valentina.webp
     Format: Vinyl
 -
     Artist: Cream
     Title: Disraeli Gears
     Label: ATCO
     Released: 1967
-    Thumbnail: disraeli.jpg
+    Thumbnail: disraeli.webp
     Format: Vinyl
 -
     Artist: Crosby, Stills, Nash and Young
     Title: Deja Vu
     Label: Atlantic
     Released: 1970
-    Thumbnail: dejavu.jpg
+    Thumbnail: dejavu.webp
     Format: Vinyl
 -
     Artist: Crosby, Stills, Nash and Young
     Title: So Far
     Label: Atlantic
     Released: 1974
-    Thumbnail: sofar.jpg
+    Thumbnail: sofar.webp
     Format: Vinyl
 -
     Artist: David Bowie
     Title: Aladdin Sane
     Label: Parlophone
     Released: 1973
-    Thumbnail: bowiealadin.jpg
+    Thumbnail: bowiealadin.webp
     Format: Vinyl
 -
     Artist: David Bowie
     Title: Heroes
     Label: RCA
     Released: 1977
-    Thumbnail: heroes.jpg
+    Thumbnail: heroes.webp
     Format: Vinyl
 -
     Artist: David Bowie
     Title: The Rise and Fall of Ziggy Stardust and the Spiders from Mars
     Label: RCA
     Released: 1972
-    Thumbnail: ziggy.jpg
+    Thumbnail: ziggy.webp
     Format: Vinyl
 -
     Artist: David Bowie
     Title: Young Americans
     Label: RCA
     Released: 1975
-    Thumbnail: youngamericans.jpg
+    Thumbnail: youngamericans.webp
     Format: Vinyl
 -
     Artist: Destroyer
     Title: Five Spanish Songs
     Label: Merge
     Released: 2013
-    Thumbnail: 5songs.jpg
+    Thumbnail: 5songs.webp
     Format: Vinyl
 -
     Artist: Destroyer
     Title: ken
     Label: Merge
     Released: 2017
-    Thumbnail: ken.jpg
+    Thumbnail: ken.webp
     Format: Vinyl
 -
     Artist: Destroyer
     Title: Have We Met
     Label: Merge
     Released: 2020
-    Thumbnail: havewemet.jpg
+    Thumbnail: havewemet.webp
     Format: Vinyl
 -
     Artist: Destroyer
     Title: Kaputt
     Label: Merge
     Released: 2011
-    Thumbnail: kaputt.jpg
+    Thumbnail: kaputt.webp
     Format: Vinyl
 -
     Artist: Dionne Warwick
     Title: Go With Love
     Label: Scepter
     Released: 1970
-    Thumbnail: dionne.jpg
+    Thumbnail: dionne.webp
     Format: Vinyl
 -
     Artist: Divine Comedy, The
     Title: Charmed Life
     Label: Divine Comedy
     Released: 2022
-    Thumbnail: divinecomedy.jpg
+    Thumbnail: divinecomedy.webp
     Format: Vinyl
 -
     Artist: Donovan
     Title: Sunshine Superman
     Label: Epic
     Released: 1966
-    Thumbnail: donovan.jpg
+    Thumbnail: donovan.webp
     Format: Vinyl
 -
     Artist: Dr. John
     Title: Gris-Gris
     Label: ATCO
     Released: 1968
-    Thumbnail: grisgris.jpg
+    Thumbnail: grisgris.webp
     Format: Vinyl
 -
     Artist: Duncan Dhu
     Title: Autobiografia
     Label: Gasa
     Released: 1989
-    Thumbnail: duncandhu.jpg
+    Thumbnail: duncandhu.webp
     Format: Vinyl
 -
     Artist: Dusty Springfield
     Title: Dusty in Memphis
     Label: Atlantic
     Released: 1969
-    Thumbnail: dustymemphis.jpg
+    Thumbnail: dustymemphis.webp
     Format: Vinyl
 -
     Artist: Elliott Smith
     Title: XO
     Label: DreamWorks
     Released: 1998
-    Thumbnail: elliottxo.jpg
+    Thumbnail: elliottxo.webp
     Format: Vinyl
 -
     Artist: Elton John
     Title: Tumbleweed Connection
     Label: Uni
     Released: 1970
-    Thumbnail: tumbleweed.jpg
+    Thumbnail: tumbleweed.webp
     Format: Vinyl
 -
     Artist: Elton John
     Title: Greatest Hits
     Label: MCA
     Released: 1974
-    Thumbnail: elton.jpg
+    Thumbnail: elton.webp
     Format: Vinyl
 -
     Artist: Elvis Costello and the Attractions
     Title: Armed Forces
     Label: Columbia
     Released: 1978
-    Thumbnail: armedforces.jpg
+    Thumbnail: armedforces.webp
     Format: Vinyl
 -
     Artist: Elvis Costello and the Attractions
     Title: 'This Year''s Model'
     Label: Columbia
     Released: 1978
-    Thumbnail: thisyearsmodel.jpg
+    Thumbnail: thisyearsmodel.webp
     Format: Vinyl
 -
     Artist: Elvis Costello and the Attractions
     Title: Get Happy
     Label: Sony
     Released: 1980
-    Thumbnail: gethappy.jpg
+    Thumbnail: gethappy.webp
     Format: Vinyl
 -
     Artist: Family
     Title: Un soplo en el corazón
     Label: Elefant
     Released: 1993
-    Thumbnail: family.jpg
+    Thumbnail: family.webp
     Format:
       - Vinyl
       - CD
@@ -4593,28 +4593,28 @@ main:
     Title: The Good Earth
     Label: Domino
     Released: 1986
-    Thumbnail: feeliesearth.jpg
+    Thumbnail: feeliesearth.webp
     Format: Vinyl
 -
     Artist: Feelies, The
     Title: Crazy Rhythms
     Label: Domino
     Released: 1980
-    Thumbnail: feelies.jpg
+    Thumbnail: feelies.webp
     Format: Vinyl
 -
     Artist: 'Flamin'' Groovies'
     Title: Shake Some Action
     Label: Sire
     Released: 1976
-    Thumbnail: shakesome.jpg
+    Thumbnail: shakesome.webp
     Format: Vinyl
 -
     Artist: Flaming Lips, The
     Title: The Soft Bulletin
     Label: Warner
     Released: 1999
-    Thumbnail: softbulletin.jpg
+    Thumbnail: softbulletin.webp
     Format:
       - Vinyl
       - CD
@@ -4623,91 +4623,91 @@ main:
     Title: Fleet Foxes
     Label: Sub Pop
     Released: 2008
-    Thumbnail: fleetfoxes.jpg
+    Thumbnail: fleetfoxes.webp
     Format: Vinyl
 -
     Artist: Fleetwood Mac
     Title: Fleetwood Mac
     Label: Reprise
     Released: 1968
-    Thumbnail: fleetwood.jpg
+    Thumbnail: fleetwood.webp
     Format: Vinyl
 -
     Artist: Fleetwood Mac
     Title: Rumours
     Label: Warner
     Released: 1977
-    Thumbnail: fleetwoodrumours.jpg
+    Thumbnail: fleetwoodrumours.webp
     Format: Vinyl
 -
     Artist: Foxygen
     Title: We Are the 21st Century Ambassadors of Peace & Magic
     Label: Jagjaguwar
     Released: 2013
-    Thumbnail: foxygen.jpg
+    Thumbnail: foxygen.webp
     Format: Vinyl
 -
     Artist: Gigi
     Title: Hundredth Time
     Label: K Records
     Released: 2010
-    Thumbnail: gigi.jpg
+    Thumbnail: gigi.webp
     Format: Vinyl
 -
     Artist: Grand Archives
     Title: Keep In Mind Frankenstein
     Label: Sub Pop
     Released: 2009
-    Thumbnail: grandarchives.jpg
+    Thumbnail: grandarchives.webp
     Format: Vinyl
 -
     Artist: Grand Funk Railroad
     Title: 'We Are An American Band'
     Label: Capitol
     Released: 1973
-    Thumbnail: grandfunk.jpg
+    Thumbnail: grandfunk.webp
     Format: Vinyl
 -
     Artist: Grandaddy
     Title: The Sophtware Slump
     Label: V2
     Released: 2000
-    Thumbnail: grandaddy.jpg
+    Thumbnail: grandaddy.webp
     Format: Vinyl
 -
     Artist: Grian Chatten
     Title: Chaos For The Fly
     Label: Partisan
     Released: 2023
-    Thumbnail: chaosfor.jpg
+    Thumbnail: chaosfor.webp
     Format: Vinyl
 -
     Artist: Heavenly
     Title: Space Manatee
     Label: Elefant
     Released: 1996
-    Thumbnail: heavenly.jpg
+    Thumbnail: heavenly.webp
     Format: Vinyl
 -
     Artist: Ibon Errazkin
     Title: Ibon Errazkin
     Label: Elefant
     Released: 2004
-    Thumbnail: ibon.jpg
+    Thumbnail: ibon.webp
     Format: Vinyl
 -
     Artist: Inspiral Carpets
     Title: This Is How It Feels
     Label: Wea
     Released: 1991
-    Thumbnail: inspiralcarpetsthis.jpg
+    Thumbnail: inspiralcarpetsthis.webp
     Format: Vinyl
 -
     Artist: Iron and Wine
     Title: Ghost On Ghost
     Label: Nonesuch
     Released: 2013
-    Thumbnail: ghostonghost.jpg
+    Thumbnail: ghostonghost.webp
     Format:
       - Vinyl
       - CD
@@ -4716,56 +4716,56 @@ main:
     Title: Our Endless Numbered Days
     Label: Sub Pop
     Released: 2004
-    Thumbnail: ourendless.jpg
+    Thumbnail: ourendless.webp
     Format: Vinyl
 -
     Artist: Ivy
     Title: Apartment Life Demos
     Label: Bar/None
     Released: 2023
-    Thumbnail: ivyapartment.jpg
+    Thumbnail: ivyapartment.webp
     Format: Vinyl
 -
     Artist: Jackie De Shannon
     Title: Jackie De Shannon
     Label: Liberty
     Released: 1963
-    Thumbnail: jackie.jpg
+    Thumbnail: jackie.webp
     Format: Vinyl
 -
     Artist: Jackson Browne
     Title: The Pretender
     Label: Asylum
     Released: 1976
-    Thumbnail: jacksonpretender.jpg
+    Thumbnail: jacksonpretender.webp
     Format: Vinyl
 -
     Artist: Jeff Buckley
     Title: Grace
     Label: Columbia
     Released: 1994
-    Thumbnail: grace.jpg
+    Thumbnail: grace.webp
     Format: Vinyl
 -
     Artist: Jefferson Airplane
     Title: Volunteers
     Label: RCA
     Released: 1969
-    Thumbnail: volunteers.jpg
+    Thumbnail: volunteers.webp
     Format: Vinyl
 -
     Artist: Jens Lekman
     Title: Night Falls Over Kortedala
     Label: Secretly Canadian
     Released: 2007
-    Thumbnail: jenslekman.jpg
+    Thumbnail: jenslekman.webp
     Format: Vinyl
 -
     Artist: Jesus and Mary Chain, The
     Title: Psychocandy
     Label: Reprise
     Released: 1985
-    Thumbnail: psychocandy.jpg
+    Thumbnail: psychocandy.webp
     Format:
       - Vinyl
       - CD
@@ -4774,189 +4774,189 @@ main:
     Title: Darklands
     Label: Warner
     Released: 1987
-    Thumbnail: darklands.jpg
+    Thumbnail: darklands.webp
     Format: Vinyl
 -
     Artist: Jimi Hendrix
     Title: The Essential Jimi Hendrix
     Label: Reprise
     Released: 1978
-    Thumbnail: hendrix.jpg
+    Thumbnail: hendrix.webp
     Format: Vinyl
 -
     Artist: Joe Cocker
     Title: Mad Dogs & Englishmen
     Label: A&M
     Released: 1970
-    Thumbnail: joecocker.jpg
+    Thumbnail: joecocker.webp
     Format: Vinyl
 -
     Artist: John Coltrane
     Title: A Love Supreme
     Label: Impulse
     Released: 1965
-    Thumbnail: lovesupreme.jpg
+    Thumbnail: lovesupreme.webp
     Format: Vinyl
 -
     Artist: John Lennon
     Title: Walls and Bridges
     Label: Apple
     Released: 1974
-    Thumbnail: wallsandbridges.jpg
+    Thumbnail: wallsandbridges.webp
     Format: Vinyl
 -
     Artist: Johnny Cash
     Title: Johnny Cash At San Quentin
     Label: Columbia
     Released: 1969
-    Thumbnail: cashquentin.jpg
+    Thumbnail: cashquentin.webp
     Format: Vinyl
 -
     Artist: Jonathan Richman
     Title: Jonathan Goes Country
     Label: Rounder
     Released: 1990
-    Thumbnail: jonathancountry.jpg
+    Thumbnail: jonathancountry.webp
     Format: Vinyl
 -
     Artist: Jonathan Richman & The Modern Lovers
     Title: Jonathan Richman & The Modern Lovers
     Label: Omnivore
     Released: 1976
-    Thumbnail: jonathan.jpg
+    Thumbnail: jonathan.webp
     Format: Vinyl
 -
     Artist: Jonathan Richman & The Modern Lovers
     Title: 'Rock ''n'' Roll With The Modern Lovers'
     Label: Omnivore
     Released: 1977
-    Thumbnail: rockmodern.jpg
+    Thumbnail: rockmodern.webp
     Format: Vinyl
 -
     Artist: Joy Division
     Title: Substance
     Label: Factory
     Released: 1988
-    Thumbnail: joydivisionsubstance.jpg
+    Thumbnail: joydivisionsubstance.webp
     Format: Vinyl
 -
     Artist: Kinks, The
     Title: You Really Got Me
     Label: Reprise
     Released: 1964
-    Thumbnail: youreallygotme.jpg
+    Thumbnail: youreallygotme.webp
     Format: Vinyl
 -
     Artist: Kinks, The
     Title: Something Else
     Label: BMG
     Released: 1967
-    Thumbnail: somethingelse.jpg
+    Thumbnail: somethingelse.webp
     Format: Vinyl
 -
     Artist: Kinks, The
     Title: Misfits
     Label: Arista
     Released: 1978
-    Thumbnail: misfits.jpg
+    Thumbnail: misfits.webp
     Format: Vinyl
 -
     Artist: Kinks, The
     Title: Low Budget
     Label: Arista
     Released: 1979
-    Thumbnail: kinkslow.jpg
+    Thumbnail: kinkslow.webp
     Format: Vinyl
 -
     Artist: Kinks, The
     Title: Village Green Preservation Society
     Label: ABKCO
     Released: 1968
-    Thumbnail: kinksvillage.jpg
+    Thumbnail: kinksvillage.webp
     Format: Vinyl
 -
     Artist: Kinks, The
     Title: Part 1. Lola Versus Powerman And The Moneygoround
     Label: ABKCO
     Released: 1970
-    Thumbnail: lola.jpg
+    Thumbnail: lola.webp
     Format: Vinyl
 -
     Artist: Kinks, The
     Title: Face to Face
     Label: Reprise
     Released: 1966
-    Thumbnail: facetoface.jpg
+    Thumbnail: facetoface.webp
     Format: Vinyl
 -
     Artist: Knack, The
     Title: Get The Knack
     Label: Capitol
     Released: 1979
-    Thumbnail: gettheknack.jpg
+    Thumbnail: gettheknack.webp
     Format: Vinyl
 -
     Artist: Kraftwerk
     Title: The Man Machine
     Label: Kling Klang
     Released: 1978
-    Thumbnail: manmachine.jpg
+    Thumbnail: manmachine.webp
     Format: Vinyl
 -
     Artist: Lambchop
     Title: What Another Man Spills
     Label: Merge
     Released: 1998
-    Thumbnail: lambchopman.jpg
+    Thumbnail: lambchopman.webp
     Format: Vinyl
 -
     Artist: Le Mans
     Title: Saudade
     Label: Elefant
     Released: 1996
-    Thumbnail: saudade.jpg
+    Thumbnail: saudade.webp
     Format: Vinyl
 -
     Artist: Lloyd Cole and the Commotions
     Title: Rattlesnakes
     Label: Geffen
     Released: 1984
-    Thumbnail: rattlesnakes.jpg
+    Thumbnail: rattlesnakes.webp
     Format: Vinyl
 -
     Artist: Lou Reed
     Title: Transformer
     Label: RCA
     Released: 1972
-    Thumbnail: transformer.jpg
+    Thumbnail: transformer.webp
     Format: Vinyl
 -
     Artist: Lou Reed
     Title: Berlin
     Label: RCA
     Released: 1973
-    Thumbnail: berlin.jpg
+    Thumbnail: berlin.webp
     Format: Vinyl
 -
     Artist: Love
     Title: Forever Changes
     Label: Elektra
     Released: 1967
-    Thumbnail: foreverchanges.jpg
+    Thumbnail: foreverchanges.webp
     Format: Vinyl
 -
     Artist: 'Lovin'' Spoonful'
     Title: Do You Believe In Magic
     Label: Kama Sutra
     Released: 1965
-    Thumbnail: lovinspoonful.jpg
+    Thumbnail: lovinspoonful.webp
     Format: Vinyl
 -
     Artist: Luna
     Title: Bewitched
     Label: Elektra
     Released: 1994
-    Thumbnail: bewitched.jpg
+    Thumbnail: bewitched.webp
     Format:
       - Vinyl
       - CD
@@ -4965,28 +4965,28 @@ main:
     Title: More Rain
     Label: Merge
     Released: 2016
-    Thumbnail: morerain.jpg
+    Thumbnail: morerain.webp
     Format: Vinyl
 -
     Artist: M. Ward
     Title: Post-War
     Label: Merge
     Released: 2006
-    Thumbnail: postwar.jpg
+    Thumbnail: postwar.webp
     Format: Vinyl
 -
     Artist: Magnetic Fields, The
     Title: Get Lost
     Label: Merge
     Released: 1995
-    Thumbnail: mfgetlost.jpg
+    Thumbnail: mfgetlost.webp
     Format: Vinyl
 -
     Artist: Magnetic Fields, The
     Title: 69 Love Songs
     Label: Merge
     Released: 1999
-    Thumbnail: mf69.jpg
+    Thumbnail: mf69.webp
     Format:
       - Vinyl
       - CD
@@ -4995,133 +4995,133 @@ main:
     Title: Josephine
     Label: Secretly Canadian
     Released: 2009
-    Thumbnail: josephine.jpg
+    Thumbnail: josephine.webp
     Format: Vinyl
 -
     Artist: Manta Ray
     Title: Estratexa
     Label: Acuarela
     Released: 2003
-    Thumbnail: estratexa.jpg
+    Thumbnail: estratexa.webp
     Format: Vinyl
 -
     Artist: Marianne Faithfull
     Title: Broken English
     Label: Island
     Released: 1979
-    Thumbnail: brokenenglish.jpg
+    Thumbnail: brokenenglish.webp
     Format: Vinyl
 -
     Artist: Marvin Gaye
     Title: 'What''s Going On'
     Label: Motown
     Released: 1971
-    Thumbnail: marvin.jpg
+    Thumbnail: marvin.webp
     Format: Vinyl
 -
     Artist: Massive Attack
     Title: Massive Attack
     Label: Wild Bunch
     Released: 1991
-    Thumbnail: massiveattack.jpg
+    Thumbnail: massiveattack.webp
     Format: Vinyl
 -
     Artist: Michael Kiwanuka
     Title: Kiwanuka
     Label: Interscope
     Released: 2019
-    Thumbnail: kiwanuka.jpg
+    Thumbnail: kiwanuka.webp
     Format: Vinyl
 -
     Artist: Micheal Kiwanuka
     Title: Love And Hate
     Label: Interscope
     Released: 2016
-    Thumbnail: lovehate.jpg
+    Thumbnail: lovehate.webp
     Format: Vinyl
 -
     Artist: Miles Davis
     Title: Kind of Blue
     Label: Columbia
     Released: 1959
-    Thumbnail: milesblue.jpg
+    Thumbnail: milesblue.webp
     Format: Vinyl
 -
     Artist: Mitch Ryder
     Title: Breakout
     Label: Sundazed
     Released: 1966
-    Thumbnail: breakout.jpg
+    Thumbnail: breakout.webp
     Format: Vinyl
 -
     Artist: Modern Lovers, The
     Title: The Modern Lovers
     Label: Castle Us
     Released: 1976
-    Thumbnail: modernlovers.jpg
+    Thumbnail: modernlovers.webp
     Format: Vinyl
 -
     Artist: Morrissey
     Title: Viva Hate
     Label: Sire
     Released: 1988
-    Thumbnail: vivahate.jpg
+    Thumbnail: vivahate.webp
     Format: Vinyl
 -
     Artist: My Morning Jacket
     Title: Z
     Label: Ato
     Released: 2005
-    Thumbnail: z.jpg
+    Thumbnail: z.webp
     Format: Vinyl
 -
     Artist: National, The
     Title: High Violet
     Label: 4AD
     Released: 2010
-    Thumbnail: highviolet.jpg
+    Thumbnail: highviolet.webp
     Format: Vinyl
 -
     Artist: Neil Young
     Title: Harvest
     Label: Reprise
     Released: 1972
-    Thumbnail: harvest.jpg
+    Thumbnail: harvest.webp
     Format: Vinyl
 -
     Artist: Neil Young
     Title: Everybody Knows This Is Nowhere
     Label: Reprise
     Released: 1969
-    Thumbnail: nyeverybody.jpg
+    Thumbnail: nyeverybody.webp
     Format: Vinyl
 -
     Artist: Neutral Milk Hotel
     Title: In The Aeroplane Over The Sea
     Label: Merge
     Released: 1998
-    Thumbnail: neutralmilk.jpg
+    Thumbnail: neutralmilk.webp
     Format: Vinyl
 -
     Artist: New Order
     Title: Low-Life
     Label: Warner
     Released: 1985
-    Thumbnail: neworderlow.jpg
+    Thumbnail: neworderlow.webp
     Format: Vinyl
 -
     Artist: New Order
     Title: World in Motion
     Label: Factory
     Released: 1990
-    Thumbnail: neworderworld.jpg
+    Thumbnail: neworderworld.webp
     Format: Vinyl
 -
     Artist: New Pornographers, The
     Title: Electric Version
     Label: Matador
     Released: 2003
-    Thumbnail: electricversion.jpg
+    Thumbnail: electricversion.webp
     Format:
       - Vinyl
       - CD
@@ -5130,98 +5130,98 @@ main:
     Title: Murder Ballads
     Label: Mute
     Released: 1995
-    Thumbnail: murderballads.jpg
+    Thumbnail: murderballads.webp
     Format: Vinyl
 -
     Artist: Nick Cave and the Bad Seeds
     Title: The Good Son
     Label: BMG
     Released: 1990
-    Thumbnail: thegoodson.jpg
+    Thumbnail: thegoodson.webp
     Format: Vinyl
 -
     Artist: Nick Cave and the Bad Seeds
     Title: 'The Boatman''s Call'
     Label: Mute
     Released: 1997
-    Thumbnail: boatmanscall.jpg
+    Thumbnail: boatmanscall.webp
     Format: Vinyl
 -
     Artist: Nick Drake
     Title: Pink Moon
     Label: Island
     Released: 1972
-    Thumbnail: pinkmoon.jpg
+    Thumbnail: pinkmoon.webp
     Format: Vinyl
 -
     Artist: Nick Lowe
     Title: Jesus of Cool
     Label: Yep Roc
     Released: 1978
-    Thumbnail: jesusofcool.jpg
+    Thumbnail: jesusofcool.webp
     Format: Vinyl
 -
     Artist: Nosoträsh
     Title: Mi vida en un fin de semana
     Label: Elefant
     Released: 2004
-    Thumbnail: nosotrashvida.jpg
+    Thumbnail: nosotrashvida.webp
     Format: Vinyl
 -
     Artist: Ocean Colour Scene
     Title: Hundred Mile High City
     Label: MCA
     Released: 1997
-    Thumbnail: ocs.jpg
+    Thumbnail: ocs.webp
     Format: Vinyl
 -
     Artist: Otis Redding
     Title: The Dock of the Bay
     Label: Sundazed
     Released: 1968
-    Thumbnail: otis.jpg
+    Thumbnail: otis.webp
     Format: Vinyl
 -
     Artist: Patrullero Mancuso
     Title: Tortilla Estatal
     Label: Elefant
     Released: 1997
-    Thumbnail: tortilla.jpg
+    Thumbnail: tortilla.webp
     Format: Vinyl
 -
     Artist: Patrullero Mancuso
     Title: Bodegon Musical
     Label: Elefant
     Released: 1999
-    Thumbnail: bodegon.jpg
+    Thumbnail: bodegon.webp
     Format: Vinyl
 -
     Artist: Patti Smith
     Title: Horses
     Label: Arista
     Released: 1975
-    Thumbnail: horses.jpg
+    Thumbnail: horses.webp
     Format: Vinyl
 -
     Artist: Pavement
     Title: Slanted & Enchanted
     Label: Matador
     Released: 1992
-    Thumbnail: slanted.jpg
+    Thumbnail: slanted.webp
     Format: Vinyl
 -
     Artist: Pavement
     Title: Brighten the Corners
     Label: Matador
     Released: 1997
-    Thumbnail: pavementbrighten.jpg
+    Thumbnail: pavementbrighten.webp
     Format: Vinyl
 -
     Artist: Pernice Brothers, The
     Title: Yours, Mine & Ours
     Label: Ashmont
     Released: 2003
-    Thumbnail: perniceyours.jpg
+    Thumbnail: perniceyours.webp
     Format:
       - Vinyl
       - CD
@@ -5230,7 +5230,7 @@ main:
     Title: Overcome By Happiness
     Label: New West
     Released: 2023
-    Thumbnail: perniceovercome.jpg
+    Thumbnail: perniceovercome.webp
     Format:
       - Vinyl
       - CD
@@ -5239,70 +5239,70 @@ main:
     Title: Muchacho
     Label: DEAD OCEANS
     Released: 2013
-    Thumbnail: muchacho.jpg
+    Thumbnail: muchacho.webp
     Format: Vinyl
 -
     Artist: Pixies
     Title: Doolittle
     Label: 4AD
     Released: 1989
-    Thumbnail: doolittle.jpg
+    Thumbnail: doolittle.webp
     Format: Vinyl
 -
     Artist: PJ Harvey
     Title: Rid Of Me
     Label: Island
     Released: 1992
-    Thumbnail: ridofme.jpg
+    Thumbnail: ridofme.webp
     Format: Vinyl
 -
     Artist: Plushgun
     Title: Pins & Panzers
     Label: Tommy Boy
     Released: 2009
-    Thumbnail: plushgun.jpg
+    Thumbnail: plushgun.webp
     Format: Vinyl
 -
     Artist: Portishead
     Title: Dummy
     Label: Go! Beat
     Released: 1994
-    Thumbnail: portisheaddummy.jpg
+    Thumbnail: portisheaddummy.webp
     Format: Vinyl
 -
     Artist: Prefab Sprout
     Title: Steve McQueen
     Label: Sub Pop
     Released: 2012
-    Thumbnail: steve.jpg
+    Thumbnail: steve.webp
     Format: Vinyl
 -
     Artist: Prefab Sprout
     Title: Steve McQueen Acoustic
     Label: Kitchenware
     Released: 2023
-    Thumbnail: steveacoustic.jpg
+    Thumbnail: steveacoustic.webp
     Format: Vinyl
 -
     Artist: Prince & the Revolution
     Title: Purple Rain
     Label: Warner
     Released: 1984
-    Thumbnail: purplerain.jpg
+    Thumbnail: purplerain.webp
     Format: Vinyl
 -
     Artist: R.E.M.
     Title: Out of Time
     Label: Warner
     Released: 1991
-    Thumbnail: outoftime.jpg
+    Thumbnail: outoftime.webp
     Format: Vinyl
 -
     Artist: R.E.M.
     Title: Automatic For The People
     Label: Warner
     Released: 1992
-    Thumbnail: remautomatic.jpg
+    Thumbnail: remautomatic.webp
     Format:
       - Vinyl
       - CD
@@ -5311,217 +5311,217 @@ main:
     Title: Murmur
     Label: IRS
     Released: 1983
-    Thumbnail: murmur.jpg
+    Thumbnail: murmur.webp
     Format: Vinyl
 -
     Artist: Raincoats, The
     Title: The Raincoats
     Label: Rough Trade
     Released: 1979
-    Thumbnail: raincoats.jpg
+    Thumbnail: raincoats.webp
     Format: Vinyl
 -
     Artist: Ramones
     Title: Ramones
     Label: Sire
     Released: 1976
-    Thumbnail: ramones.jpg
+    Thumbnail: ramones.webp
     Format: Vinyl
 -
     Artist: Randy Newman
     Title: Sail Away
     Label: Reprise
     Released: 1972
-    Thumbnail: sailaway.jpg
+    Thumbnail: sailaway.webp
     Format: Vinyl
 -
     Artist: Rare Earth
     Title: Get Ready
     Label: Motown
     Released: 1969
-    Thumbnail: getready.jpg
+    Thumbnail: getready.webp
     Format: Vinyl
 -
     Artist: Replacements, The
     Title: Pleased to Meet Me
     Label: Sire
     Released: 1990
-    Thumbnail: pleasedto.jpg
+    Thumbnail: pleasedto.webp
     Format: Vinyl
 -
     Artist: Replacements, The
     Title: Let It Be
     Label: Twin/Tone
     Released: 1984
-    Thumbnail: replacementslet.jpg
+    Thumbnail: replacementslet.webp
     Format: Vinyl
 -
     Artist: Richmond Fontaine
     Title: The Fitzgerald
     Label: El Cortez
     Released: 2005
-    Thumbnail: fitzgerald.jpg
+    Thumbnail: fitzgerald.webp
     Format: Vinyl
 -
     Artist: Rickie Lee Jones
     Title: Rickie Lee Jones
     Label: Warner
     Released: 1979
-    Thumbnail: rljones.jpg
+    Thumbnail: rljones.webp
     Format: Vinyl
 -
     Artist: Rockpile
     Title: Seconds of Pleasure
     Label: Yep Roc
     Released: 1980
-    Thumbnail: rockpile.jpg
+    Thumbnail: rockpile.webp
     Format: Vinyl
 -
     Artist: Rodriguez
     Title: Cold Fact
     Label: Light In The Attic
     Released: 1970
-    Thumbnail: rodriguez.jpg
+    Thumbnail: rodriguez.webp
     Format: Vinyl
 -
     Artist: Rolling Stones
     Title: Some Girls
     Label: Rolling Stones Rec
     Released: 1978
-    Thumbnail: somegirls.jpg
+    Thumbnail: somegirls.webp
     Format: Vinyl
 -
     Artist: Rolling Stones
     Title: Beggars Banquet
     Label: ABKCO
     Released: 1968
-    Thumbnail: beggars.jpg
+    Thumbnail: beggars.webp
     Format: Vinyl
 -
     Artist: Rolling Stones
     Title: Sticky Fingers
     Label: ABKCO
     Released: 1971
-    Thumbnail: sticky.jpg
+    Thumbnail: sticky.webp
     Format: Vinyl
 -
     Artist: Serge Gainsbourg
     Title: Histoire de Melody Nelson
     Label: Philips
     Released: 1971
-    Thumbnail: melodynelson.jpg
+    Thumbnail: melodynelson.webp
     Format: Vinyl
 -
     Artist: Shins, The
     Title: Chutes Too Narrow
     Label: Sub Pop
     Released: 2003
-    Thumbnail: chutes.jpg
+    Thumbnail: chutes.webp
     Format: Vinyl
 -
     Artist: Shirelles, The
     Title: 'Baby It''s You'
     Label: Sundazed
     Released: 1962
-    Thumbnail: shirelles.jpg
+    Thumbnail: shirelles.webp
     Format: Vinyl
 -
     Artist: Smithereens, The
     Title: Green Thoughts
     Label: Capitol
     Released: 1988
-    Thumbnail: greenthoughts.jpg
+    Thumbnail: greenthoughts.webp
     Format: Vinyl
 -
     Artist: Smog
     Title: Knock Knock
     Label: Drag City
     Released: 2008
-    Thumbnail: knockknock.jpg
+    Thumbnail: knockknock.webp
     Format: Vinyl
 -
     Artist: Sonic Youth
     Title: Evol
     Label: SST
     Released: 1986
-    Thumbnail: evol.jpg
+    Thumbnail: evol.webp
     Format: Vinyl
 -
     Artist: Spiritualized
     Title: Ladies and gentlemen we are floating in space
     Label: Dedicated
     Released: 1997
-    Thumbnail: spiritualized.jpg
+    Thumbnail: spiritualized.webp
     Format: Vinyl
 -
     Artist: Spring
     Title: Last Goodbye
     Label: Elefant
     Released: 2000
-    Thumbnail: springlast.jpg
+    Thumbnail: springlast.webp
     Format: Vinyl
 -
     Artist: Sr. Chinarro
     Title: El mundo según
     Label: Mushroom Pillow
     Released: 2006
-    Thumbnail: chinarro.jpg
+    Thumbnail: chinarro.webp
     Format: Vinyl
 -
     Artist: Stephen Stills
     Title: Stephen Stills 2
     Label: Atlantic
     Released: 1971
-    Thumbnail: stills2.jpg
+    Thumbnail: stills2.webp
     Format: Vinyl
 -
     Artist: Stephen Stills
     Title: Stephen Stills
     Label: Atlantic
     Released: 1970
-    Thumbnail: stills.jpg
+    Thumbnail: stills.webp
     Format: Vinyl
 -
     Artist: Stereolab
     Title: Emperor Tomato Ketchup
     Label: Duophonic
     Released: 1996
-    Thumbnail: stereolab.jpg
+    Thumbnail: stereolab.webp
     Format: Vinyl
 -
     Artist: Stevie Nicks & Lindsey Buckingham
     Title: Buckingham Nicks
     Label: Polydor
     Released: 1973
-    Thumbnail: buckingham.jpg
+    Thumbnail: buckingham.webp
     Format: Vinyl
 -
     Artist: Stevie Wonder
     Title: Innervisions
     Label: Motown
     Released: 1973
-    Thumbnail: innervisions.jpg
+    Thumbnail: innervisions.webp
     Format: Vinyl
 -
     Artist: Stone Roses, The
     Title: Stone Roses, The
     Label: Silvertone
     Released: 1989
-    Thumbnail: stoneroses.jpg
+    Thumbnail: stoneroses.webp
     Format: Vinyl
 -
     Artist: Sufjan Stevens
     Title: Illinoise
     Label: Ahthmatic Kitty
     Released: 2005
-    Thumbnail: illinoise.jpg
+    Thumbnail: illinoise.webp
     Format: Vinyl
 -
     Artist: Suicide
     Title: Suicide
     Label: Red Star
     Released: 1973
-    Thumbnail: suicide.jpg
+    Thumbnail: suicide.webp
     Format:
       - Vinyl
       - CD
@@ -5530,112 +5530,112 @@ main:
     Title: 77
     Label: Sire
     Released: 1977
-    Thumbnail: talkingheads77.jpg
+    Thumbnail: talkingheads77.webp
     Format: Vinyl
 -
     Artist: Talking Heads
     Title: True Stories
     Label: Sire
     Released: 1986
-    Thumbnail: thtrue.jpg
+    Thumbnail: thtrue.webp
     Format: Vinyl
 -
     Artist: Teenage Fanclub
     Title: Songs From Northern Britain
     Label: Creation
     Released: 1997
-    Thumbnail: teenagenorthern.jpg
+    Thumbnail: teenagenorthern.webp
     Format: Vinyl
 -
     Artist: Television
     Title: Marquee Moon
     Label: Elektra
     Released: 1977
-    Thumbnail: marqueemoon.jpg
+    Thumbnail: marqueemoon.webp
     Format: Vinyl
 -
     Artist: Tindersticks
     Title: First Album
     Label: This Way Up
     Released: 1993
-    Thumbnail: tindersticks1.jpg
+    Thumbnail: tindersticks1.webp
     Format: Vinyl
 -
     Artist: Tom Tom Club
     Title: Tom Tom Club
     Label: Sire
     Released: 1981
-    Thumbnail: tomtomclub.jpg
+    Thumbnail: tomtomclub.webp
     Format: Vinyl
 -
     Artist: Tom Waits
     Title: The Heart of Saturday Night
     Label: Asylum
     Released: 1974
-    Thumbnail: waitssaturday.jpg
+    Thumbnail: waitssaturday.webp
     Format: Vinyl
 -
     Artist: Turtles, The
     Title: Happy Together Again!
     Label: Sire
     Released: 1979
-    Thumbnail: turtles.jpg
+    Thumbnail: turtles.webp
     Format: Vinyl
 -
     Artist: Urusei Yatsura
     Title: Plastic Ashtray
     Label: Che
     Released: 1995
-    Thumbnail: yatsura.jpg
+    Thumbnail: yatsura.webp
     Format: Vinyl
 -
     Artist: Vainica Doble
     Title: En Familia
     Label: Elefant
     Released: 2000
-    Thumbnail: vainica.jpg
+    Thumbnail: vainica.webp
     Format: Vinyl
 -
     Artist: Van Morrison
     Title: Moondance
     Label: Warner
     Released: 1970
-    Thumbnail: moondance.jpg
+    Thumbnail: moondance.webp
     Format: Vinyl
 -
     Artist: Van Morrison
     Title: 'Saint Dominic''s Preview'
     Label: Warner
     Released: 1972
-    Thumbnail: saintdominics.jpg
+    Thumbnail: saintdominics.webp
     Format: Vinyl
 -
     Artist: Van Morrison
     Title: Tupelo Honey
     Label: Warner
     Released: 1971
-    Thumbnail: tupelo.jpg
+    Thumbnail: tupelo.webp
     Format: Vinyl
 -
     Artist: Various Artists
     Title: Nuggets - Original Artyfacts From The First Psychedelic Era
     Label: Elektra
     Released: 1972
-    Thumbnail: nuggets.jpg
+    Thumbnail: nuggets.webp
     Format: Vinyl
 -
     Artist: Velvet Underground, The
     Title: Loaded
     Label: Cotillion
     Released: 1970
-    Thumbnail: loaded.jpg
+    Thumbnail: loaded.webp
     Format: Vinyl
 -
     Artist: Violent Femmes
     Title: Violent Femmes
     Label: Slash
     Released: 1983
-    Thumbnail: violentfemmes.jpg
+    Thumbnail: violentfemmes.webp
     Format:
       - Vinyl
       - CD
@@ -5644,21 +5644,21 @@ main:
     Title: The Wind
     Label: Artemis
     Released: 2003
-    Thumbnail: zevonwind.jpg
+    Thumbnail: zevonwind.webp
     Format: Vinyl
 -
     Artist: Wedding Present, The
     Title: Take Fountain
     Label: Scopitones
     Released: 2005
-    Thumbnail: takefountain.jpg
+    Thumbnail: takefountain.webp
     Format: Vinyl
 -
     Artist: Wilco
     Title: Summerteeth
     Label: Reprise
     Released: 1999
-    Thumbnail: summerteeth.jpg
+    Thumbnail: summerteeth.webp
     Format:
       - Vinyl
       - CD
@@ -5667,7 +5667,7 @@ main:
     Title: Yankee Hotel Foxtrot
     Label: Nonesuch
     Released: 2002
-    Thumbnail: yankee.jpg
+    Thumbnail: yankee.webp
     Format:
       - Vinyl
       - CD
@@ -5676,7 +5676,7 @@ main:
     Title: A Ghost Is Born
     Label: Nonesuch
     Released: 2004
-    Thumbnail: aghost.jpg
+    Thumbnail: aghost.webp
     Format:
       - Vinyl
       - CD
@@ -5685,21 +5685,21 @@ main:
     Title: Schmilco
     Label: dBpm
     Released: 2016
-    Thumbnail: schmilco.jpg
+    Thumbnail: schmilco.webp
     Format: Vinyl
 -
     Artist: Wilco
     Title: Crosseyed Strangers - An Alternate Yankee Hotel Foxtrot
     Label: Nonesuch
     Released: 2023
-    Thumbnail: wilcocrosseyed.jpg
+    Thumbnail: wilcocrosseyed.webp
     Format: Vinyl
 -
     Artist: Willie Nelson
     Title: Stardust
     Label: Columbia
     Released: 1978
-    Thumbnail: stardust.jpg
+    Thumbnail: stardust.webp
     Format:
       - Vinyl
       - CD
@@ -5708,21 +5708,21 @@ main:
     Title: Willie Nile
     Label: Arista
     Released: 1980
-    Thumbnail: willienile.jpg
+    Thumbnail: willienile.webp
     Format: Vinyl
 -
     Artist: XTC
     Title: English Settlement
     Label: Columbia
     Released: 1982
-    Thumbnail: xtc.jpg
+    Thumbnail: xtc.webp
     Format: Vinyl
 -
     Artist: Yo La Tengo
     Title: Fade
     Label: Matador
     Released: 2013
-    Thumbnail: fade.jpg
+    Thumbnail: fade.webp
     Format:
       - Vinyl
       - CD
@@ -5731,14 +5731,14 @@ main:
     Title: Fakebook
     Label: Bar/None
     Released: 1990
-    Thumbnail: fakebook.jpg
+    Thumbnail: fakebook.webp
     Format: Vinyl
 -
     Artist: Yo La Tengo
     Title: I Can Hear The Heart Beating As One
     Label: Matador
     Released: 1997
-    Thumbnail: icanheartheheart.jpg
+    Thumbnail: icanheartheheart.webp
     Format:
       - Vinyl
       - CD
@@ -5747,7 +5747,7 @@ main:
     Title: And Then Nothing Turned Itself Inside-Out
     Label: Matador
     Released: 2000
-    Thumbnail: andthennothing.jpg
+    Thumbnail: andthennothing.webp
     Format:
       - Vinyl
       - CD
@@ -5756,12 +5756,12 @@ main:
     Title: This Stupid World
     Label: Matador
     Released: 2022
-    Thumbnail: thisstupidworld.jpg
+    Thumbnail: thisstupidworld.webp
     Format: Vinyl
 -
     Artist: Zombies, The
     Title: Odessey & Oracle
     Label: Marquis Ltd
     Released: 1968
-    Thumbnail: zombies.jpg
+    Thumbnail: zombies.webp
     Format: Vinyl
