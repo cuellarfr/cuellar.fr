@@ -1,5 +1,12 @@
 main:
 -
+    Artist: Amy Winehouse
+    Title: Back to Black
+    Label: Island
+    Released: 2006
+    Thumbnail: amy.webp
+    Format: Vinyl
+-
     Artist: "Pulp"
     Title: "This Is Hardcore"
     Label: "Island"
