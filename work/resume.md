@@ -1,32 +1,30 @@
 ---
 layout: basic-w
 title: "Carlos Cuéllar"
-description: "Senior User Experience Designer in Portland, OR"
+description: "Senior Product Designer in Portland, OR"
 sitemap: false
 ---
 
 ## PROFESSIONAL SUMMARY
-**Senior User Experience (UX) Designer with 12+ years of experience crafting software solutions across diverse industries.** Highly collaborative with stakeholders to transform
+**Senior Product Designer with 12+ years of experience crafting software solutions across diverse industries.** Highly collaborative with stakeholders to transform
 business goals into compelling, technically feasible experiences that meet user needs.
 Extensive experience building teams, mentoring designers, and driving impactful design
 solutions in agile environments. Fluent in English and Spanish.
 
 ## SKILLS
 ### Technical Skills
-- *Design Tools:* Figma, Sketch, Axure RP, Photoshop, Illustrator, Omnigraffle
-- *User Research:* Dovetail, Maze, Miro
+- *Design Tools:* Figma, Sketch, Axure RP, Framer, Photoshop, Illustrator, Miro, Maze
+- *Design Skills:* User Research, Persona Development, Wireframing, Prototyping, Usability Testing, Heuristic Evaluation, Design Systems, Responsive Design
 - *Front-end Technologies:* HTML, CSS, Sass, JavaScript, Git
-- *Design Methodologies:* Prototype Design, Interaction Design, User Research
 
 ### Soft Skills
-- Team Leadership
-- Stakeholder Collaboration
-- Agile Design Processes
-- Cross-functional Communication
+- *Leadership and Strategic Skills:* Cross-functional Collaboration, Design Thinking Facilitation, Stakeholder Collaboration, Mentorship Coaching, Roadmap Planning
+- *Collaboration Skills:*  Storytelling, Visual Communication, Translating Concepts for Non-Design Audiences
+- *Advanced Considerations:* Experience with Agile and Design Sprint Methodologies, Metrics-driven Design Approach, Complex Problem-Solving
 
 ## PROFESSIONAL EXPERIENCE
 
-### Senior UX Designer | Trimble
+### Senior Product Designer | Trimble
 *October 2021 - Present*
 - Led an international design team to create a modern suite of SaaS tools focused on
 accounting and finance solutions for the construction industry
@@ -42,7 +40,7 @@ improving user flows and information architecture
 for responsive design layouts and components to ensure consistency, accessibility
 and scalability across products
 
-### Senior UX Designer | Goldstar Events
+### Senior User Experience Designer | Goldstar Events
 *May 2015 - September 2021*
 - Led the design of B2B solutions for ticket suppliers, enabling eﬃcient management
 and promotion of inventory within the system
@@ -86,7 +84,7 @@ Degree in Technical Engineering in Industrial Design *(2001 - 2005)*
 
 - *Email:* [carlos@cuellar.fr](mailto:carlos@cuellar.fr)
 - *Phone:* [(661) 379-7273](tel:+16613797273)
-- *Address:* 711 NE 112th Ave, Vancouver WA 98684
+- *Address:* 711 NE 112th Ave D53, Vancouver WA 98684
 - *Portfolio:* [cuellar.fr/work](https://cuellar.fr/work)
 - *LinkedIn:* [linkedin.com/in/cuellarfr](https://www.linkedin.com/in/cuellarfr)
 
