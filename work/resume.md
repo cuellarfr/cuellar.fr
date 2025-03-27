@@ -85,7 +85,7 @@ Degree in Technical Engineering in Industrial Design *(2001 - 2005)*
 ## CONTACT
 
 - *Email:* [carlos@cuellar.fr](mailto:carlos@cuellar.fr)
-- *Phone:* [+1 (661) 717-8201](tel:+16617178201)
+- *Phone:* [(661) 379-7273](tel:+16613797273)
 - *Address:* 711 NE 112th Ave, Vancouver WA 98684
 - *Portfolio:* [cuellar.fr/work](https://cuellar.fr/work)
 - *LinkedIn:* [linkedin.com/in/cuellarfr](https://www.linkedin.com/in/cuellarfr)
