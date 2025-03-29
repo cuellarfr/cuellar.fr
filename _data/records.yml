@@ -1,5 +1,33 @@
 main:
 -
+    Artist: Mitski
+    Title: Laurel Hell
+    Label: Dead Oceans
+    Released: 2022
+    Thumbnail: laurel.jpg
+    Format: Vinyl
+-
+    Artist: Beach House
+    Title: Teen Dream
+    Label: Sub Pop
+    Released: 2010
+    Thumbnail: teendream.jpg
+    Format: Vinyl
+-
+    Artist: Otis Redding
+    Title: Otis Blue
+    Label: Volt
+    Released: 1965
+    Thumbnail: otisblue.jpg
+    Format: Vinyl
+-
+    Artist: Leonard Cohen
+    Title: Greatest Hits
+    Label: Columbia
+    Released: 1975
+    Thumbnail: cohengreatest.jpg
+    Format: Vinyl
+-
     Artist: Amy Winehouse
     Title: Back to Black
     Label: Island
