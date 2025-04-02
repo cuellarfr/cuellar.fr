@@ -1,12 +1,12 @@
 ---
 layout: basic-w
 title: "Carlos Cuéllar"
-description: "Senior Product Designer in Portland, OR"
+description: "Senior UX Designer in Portland, OR"
 sitemap: false
 ---
 
 ## PROFESSIONAL SUMMARY
-**Senior Product Designer with 12+ years of experience crafting software solutions across diverse industries.** Highly collaborative with stakeholders to transform
+**Senior UX Designer with 12+ years of experience crafting software solutions across diverse industries.** Highly collaborative with stakeholders to transform
 business goals into compelling, technically feasible experiences that meet user needs.
 Extensive experience building teams, mentoring designers, and driving impactful design
 solutions in agile environments. Fluent in English and Spanish.
@@ -24,7 +24,7 @@ solutions in agile environments. Fluent in English and Spanish.
 
 ## PROFESSIONAL EXPERIENCE
 
-### Senior Product Designer | Trimble
+### Senior UX Designer | Trimble
 *October 2021 - Present*
 - Led an international design team to create a modern suite of SaaS tools focused on
 accounting and finance solutions for the construction industry
