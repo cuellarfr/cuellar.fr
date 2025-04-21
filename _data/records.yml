@@ -1,5 +1,40 @@
 main:
 -
+    Artist: Jayhawks, The
+    Title: Blue Earth
+    Label: Twin/Tone
+    Released: 1989
+    Thumbnail: blue_earth.webp
+    Format: Vinyl
+-
+    Artist: Hindu Love Gods
+    Title: Hindu Love Gods
+    Label: Giant
+    Released: 1990
+    Thumbnail: hindu.webp
+    Format: Vinyl
+-
+    Artist: Alex Chilton
+    Title: Set
+    Label: Bar/None
+    Released: 1999
+    Thumbnail: chiltonset.webp
+    Format: Vinyl
+-
+    Artist: Camper Van Beethoven
+    Title: Telephone Free Landslide Victory
+    Label: Cooking Vinyl
+    Released: 1985
+    Thumbnail: camper.webp
+    Format: Vinyl
+-
+    Artist: Françoise Hardy
+    Title: En Vogue
+    Label: Omnivore
+    Released: 2024
+    Thumbnail: francoise.webp
+    Format: Vinyl
+-
     Artist: Mitski
     Title: Laurel Hell
     Label: Dead Oceans
