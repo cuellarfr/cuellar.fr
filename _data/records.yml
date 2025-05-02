@@ -1,5 +1,19 @@
 main:
 -
+    Artist: dB's, The
+    Title: Stands for Decibels
+    Label: Albion
+    Released: 1981
+    Thumbnail: dbs.webp
+    Format: Vinyl
+-
+    Artist: Kraftwerk
+    Title: Autobahn
+    Label: Philips
+    Released: 1974
+    Thumbnail: autobahn.webp
+    Format: Vinyl
+-
     Artist: Jayhawks, The
     Title: Blue Earth
     Label: Twin/Tone
