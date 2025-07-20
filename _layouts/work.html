@@ -8,8 +8,10 @@
     {% include meta.html %}
 
     <!-- Webfonts -->
-    <link rel="preconnect" href="https://fonts.bunny.net">
-    <link href="https://fonts.bunny.net/css?family=dm-sans:400,400i,700|dm-serif-display:400&display=swap" rel="stylesheet" />
+    <link rel="preload" href="/assets/fonts/dm-sans-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/assets/fonts/dm-sans-latin-400-italic.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/assets/fonts/dm-sans-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/assets/fonts/dm-serif-display-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
 
     <!-- Styles -->
     <link href="/assets/css/style.css" rel="stylesheet">
@@ -24,9 +26,6 @@
     <!-- RSS -->
     <link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Blog Feed" />
     <link type="application/atom+xml" rel="alternate" href="/podcast.xml" title="Podcast Feed" />
-
-    <!-- Mastodon -->
-    <link name="mastodon" href="https://social.vivaldi.net/@cuellarfr" rel="me">
 
 	<!-- Clicky -->
 	<script async data-id="101466015" src="//static.getclicky.com/js"></script>
