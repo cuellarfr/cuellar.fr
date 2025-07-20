@@ -2,7 +2,7 @@
 layout: case
 title: AMP Overview
 description: A new dashboard page for an event organizer's marketing platform.
-tags: [research, wireframing, prototyping, usability]
+tags: [user research, wireframing, prototyping, usability testing]
 duration: 5 Months, March 2018
 year: 2018
 sponsor: Goldstar Events
