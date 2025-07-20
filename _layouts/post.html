@@ -36,11 +36,6 @@ layout: default
       <div class="prose prose-stone dark:prose-invert">
         {{ content }}
         <hr>
-            {% if page.bluesky %}
-                <script src="/assets/js/bluesky.js"></script>
-                <bsky-comments post="at://did:plc:rgd6k5o56sfaena5qntdnn22/app.bsky.feed.post/{{ page.bluesky }}"></bsky-comments>
-            <hr>
-            {% endif %}
         <nav class="flex items-center justify-between py-6 print:invisible">
           {% if page.previous.url %}
             <a class="text-stone-800 dark:text-stone-200 px-5 text-sm no-underline justify-center bg-white/60 dark:bg-stone-800/90 ring-1 ring-stone-900/5 dark:ring-white/10 hover:ring-stone-900/20 dark:hover:ring-white/20 p-2 rounded-full transition duration-300 ease-in-out hover:text-orange-600 dark:hover:text-orange-400" rel="prev" href="{{page.previous.url}}">&laquo;&nbsp;{{ page.previous.title | truncate:18 }}</a>
