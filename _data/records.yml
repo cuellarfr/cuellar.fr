@@ -1,5 +1,19 @@
 main:
 -
+    Artist: Hoodoo Gurus
+    Title: Stoneage Romeos
+    Label: A&M
+    Released: 1984
+    Thumbnail: stoneage.webp
+    Format: Vinyl
+-
+    Artist: Hoodoo Gurus
+    Title: Blow Your Cool
+    Label: Big Time
+    Released: 1987
+    Thumbnail: hoodoo.webp
+    Format: Vinyl
+-
     Artist: dB's, The
     Title: Stands for Decibels
     Label: Albion
@@ -68,7 +82,9 @@ main:
     Label: Volt
     Released: 1965
     Thumbnail: otisblue.jpg
-    Format: Vinyl
+    Format:
+      - Vinyl
+      - CD
 -
     Artist: Leonard Cohen
     Title: Greatest Hits
@@ -2242,13 +2258,6 @@ main:
     Label: "Luaka Bop"
     Released: "1999"
     Thumbnail: "mutantespossible.webp"
-    Format: "CD"
--
-    Artist: "Otis Redding"
-    Title: "Otis Blue"
-    Label: "ATCO"
-    Released: "1965"
-    Thumbnail: "otisblue.webp"
     Format: "CD"
 -
     Artist: "Papas Fritas"
