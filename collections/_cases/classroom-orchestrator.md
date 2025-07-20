@@ -2,7 +2,7 @@
 layout: case
 title: Classroom Orchestrator
 description: A software used by teachers to monitor students’ computer screens in real time.
-tags: research, prototyping, front-end
+tags: [user research, prototyping, front-end development]
 duration: 3 Months, February 2015
 year: 2015
 sponsor: Lightspeed Systems

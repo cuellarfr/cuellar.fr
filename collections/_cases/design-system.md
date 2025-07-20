@@ -2,7 +2,7 @@
 layout: case
 title: Goldstar's Design System
 description: A design system that brings consistency and structure across multiple platforms.
-tags: research, visual
+tags: [user research, visual design]
 duration: 3 Months, April 2018
 year: 2018
 sponsor: Goldstar Events

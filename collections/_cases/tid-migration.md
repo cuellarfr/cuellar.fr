@@ -2,7 +2,7 @@
 layout: case
 title: Trimble ID Migration
 description: A user migration to a new authentication system.
-tags: flows, wireframing, prototyping, usability
+tags: [design, resources, usability testing]
 year: 2022
 sponsor: Trimble
 image: /assets/images/tid-header.webp

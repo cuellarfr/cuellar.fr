@@ -2,7 +2,7 @@
 layout: case
 title: Pick Your Seat
 description: A new mobile-first interactive seating chart UI for a ticketing company.
-tags: research, prototyping, usability
+tags: [research, prototyping, usability]
 duration: 6 Months, April 2016
 year: 2016
 sponsor: Goldstar Events
