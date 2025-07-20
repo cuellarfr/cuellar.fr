@@ -3,9 +3,7 @@ layout: post
 title:  "Indeed's Accessibility Library"
 authors: carlos
 link: https://medium.com/indeed-design/building-an-accessibility-library-e134e9012c17
-tags: 
-  - design
-  - accessibility
+tags: [design, accessibility]
 description: An article about how Indeed enhanced accessibility through the development of a Figma toolkit.
 ---
 

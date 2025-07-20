@@ -3,9 +3,7 @@ layout: post
 title:  "UX Vision Before UX Process"
 authors: carlos
 link: https://articles.centercentre.com/put-a-ux-vision-before-your-ux-process/
-tags: 
-  - design
-  - development
+tags: [design, development]
 description: Jared Spool on why UX processes fail if there's not a vision first
 ---
 

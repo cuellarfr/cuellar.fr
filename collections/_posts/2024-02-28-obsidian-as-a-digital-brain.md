@@ -3,9 +3,7 @@ layout: post
 title:  "Obsidian as a digital brain"
 authors: carlos
 link: https://mattstein.com/thoughts/how-i-use-obsidian/
-tags:
-  - productivity
-  - tools
+tags: [productivity, tools]
 description: Matt Stein on how he uses Obsidian
 ---
 

@@ -3,9 +3,7 @@ layout: post
 title:  "Building Responsive Layouts: Behind the Scenes of Our Design System"
 authors: carlos
 description: A deep dive into the process of creating responsive layout rules for our design system at Trimble.
-tags:
-  - design systems
-  - design
+tags: [design systems, design]
 bluesky:
 ---
 

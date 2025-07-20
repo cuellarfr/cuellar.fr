@@ -3,9 +3,7 @@ layout: post
 title:  "Figma File Organization"
 authors: carlos
 image: /assets/images/figma_header.webp
-tags: 
-  - tools
-  - design
+tags: [tools, design]
 description: How we deal with Figma files at work
 bluesky: 3lbtjlukr4k2f
 ---

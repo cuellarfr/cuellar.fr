@@ -3,10 +3,7 @@ layout: post
 authors: carlos
 title: Agile anti-patterns that can harm UX
 link: https://www.uxforthemasses.com/agile-anti-patterns-part-1/
-tags:
-  - design
-  - development
-  - research
+tags: [design, development, research]
 ---
 > Agile was created by developers, for developers.
 

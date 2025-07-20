@@ -3,9 +3,7 @@ layout: post
 title:  "Tri-Track Agile"
 authors: carlos
 link: https://www.uxforthemasses.com/tri-track-agile/
-tags: 
-  - design
-  - development
+tags: [design, development]
 description: UX for the Masses on an evolution of Dual-Track Agile
 ---
 

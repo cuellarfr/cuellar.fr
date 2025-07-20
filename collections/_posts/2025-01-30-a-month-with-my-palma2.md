@@ -2,9 +2,7 @@
 layout: post
 title:  "A Month Using the Boox Palma2"
 authors: carlos
-tags:
-  - tech
-  - gadgets
+tags: [tech, gadgets]
 description: My personal experience with this phone-sized e-reader
 ---
 

@@ -3,9 +3,8 @@ layout: post
 title:  "Dimensions"
 authors: carlos
 image: /assets/images/sphere.webp
-link: 
-tags: 
-- research
+link:
+tags: [research]
 description: Some lessons learned after attending a customer conference in Vegas.
 ---
 

@@ -4,9 +4,7 @@ authors: carlos
 title: New site, who dis
 image: /assets/images/topo3.webp
 description: Announcing the first significant update to this site since forever!
-tags:
-  - me
-  - blogs
+tags: [me, blogs]
 ---
 **November 2014.** That was the last time I redesigned my personal website, and it was also when I migrated all the content [from Textpattern to Jekyll](https://cuellar.fr/blog/2014-11-05-migrating-to-jekyll/). At that time I was doing front-end professionally and I wanted to reflect that in my website. Oh, I was so proud of how clean and semantically correct the code was... And no JavaScript! And since I was using Sass variables, refreshing the look of the site was very easy, I just had to change a few lines of code to replace the fonts and colors.
 

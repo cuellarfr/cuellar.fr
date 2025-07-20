@@ -3,9 +3,7 @@ layout: post
 title:  "That WordPress drama"
 authors: carlos
 link: https://www.theverge.com/2024/9/27/24256361/wordpress-wp-engine-drama-explained-matt-mullenweg
-tags: 
-  - web
-  - tools
+tags: [web, tools, open-source]
 description: The Verge on that messy WordPress drama
 ---
 

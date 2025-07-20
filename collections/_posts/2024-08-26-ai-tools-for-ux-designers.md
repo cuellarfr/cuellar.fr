@@ -3,9 +3,7 @@ layout: post
 title:  "AI Tools for UX Designers"
 authors: carlos
 link: https://www.interaction-design.org/literature/article/ai-tools-for-ux-designers
-tags: 
-  - design
-  - ai
+tags: [design, AI]
 description: A list of AI resources for UX Designers
 ---
 
