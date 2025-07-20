@@ -2,9 +2,7 @@
 layout: case
 title: Goldstar's Design System
 description: A design system that brings consistency and structure across multiple platforms.
-tags: 
-  - design research
-  - visual design
+tags: research, visual
 duration: 3 Months, April 2018
 year: 2018
 sponsor: Goldstar Events
@@ -125,7 +123,7 @@ After releasing the first version of the design system, we saw the following met
 - Impact Metrics:
   - Time saved per project due to reusable components: 40%
   - Increase in design consistency across products (measured via QA audits): 95%
-  
+
 ### Things I learned
 
 This project went beyond creating UI components—it introduced a transformative workflow for our entire team. Despite challenges like Sketch bugs (e.g., resizing constraints in nested symbols), the first library was swiftly adopted. It served as a foundation for additional libraries for the consumer site, newsletters, and wireframes.

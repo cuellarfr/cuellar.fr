@@ -2,11 +2,7 @@
 layout: case
 title: Next Gen ERP
 description: A new accounting and finance software for construction companies.
-tags: 
-  - user research
-  - flows
-  - wireframing
-  - prototyping
+tags: research, flows, wireframing, prototyping
 duration: 18 Months, February 2023
 year: 2023
 sponsor: Trimble

@@ -2,9 +2,7 @@
 layout: post
 title:  "Old School Meets New Cool: My Hybrid Audio Setup Adventure"
 authors: carlos
-tags:
- - tech
- - gadgets
+tags: tech gadgets audio music
 description: Some thoughts about my hybrid audio setup
 bluesky: 3lini43dk5c2y
 ---

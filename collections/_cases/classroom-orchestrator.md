@@ -2,10 +2,7 @@
 layout: case
 title: Classroom Orchestrator
 description: A software used by teachers to monitor students’ computer screens in real time.
-tags: 
-  - design research
-  - prototyping
-  - front-end development
+tags: research, prototyping, front-end
 duration: 3 Months, February 2015
 year: 2015
 sponsor: Lightspeed Systems
@@ -88,11 +85,11 @@ The front-end of the application adhered to patterns and CSS frameworks I had de
 
 The project followed a phased implementation process to support real-world validation:
 
-1. **Pilot Rollout:** 
+1. **Pilot Rollout:**
 The MVP launched in Miami-Dade School District classrooms. This provided real-world feedback from educators who interacted with the software daily.
-2. **Iterative Improvements:** 
+2. **Iterative Improvements:**
 Feedback from the pilot revealed opportunities to fine-tune both the interface and functionality. Key adjustments included streamlining classroom navigation, improving visual feedback for off-task behavior, and ensuring compatibility across various device types.
-3. **Feature Expansion:** 
+3. **Feature Expansion:**
 Post-pilot, features such as group monitoring, customizable alerts, and more detailed reporting tools were integrated, addressing the needs of power users like school administrators.
 
 ### Key Metrics & Results
@@ -106,7 +103,7 @@ Post-pilot, features such as group monitoring, customizable alerts, and more det
 - **Classroom Impact**
   - 88% of educators reported improved classroom behavior when using the software.
   - Reduction in off-task behavior by 20%, as observed during feedback sessions with teachers.
-  
+
 ### Lessons Learned
 
 1. **Collaborate Cross-Functionally:** Technical constraints provided opportunities for innovation, resulting in solutions that optimized performance without sacrificing functionality.

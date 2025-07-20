@@ -2,10 +2,7 @@
 layout: case
 title: Pick Your Seat
 description: A new mobile-first interactive seating chart UI for a ticketing company.
-tags: 
-  - user research
-  - prototyping
-  - usability testing
+tags: research, prototyping, usability
 duration: 6 Months, April 2016
 year: 2016
 sponsor: Goldstar Events
@@ -64,13 +61,13 @@ To benchmark Goldstar against the industry, I analyzed eight competing ticketing
 
 With a foundation of insights, I moved into the design phase:
 
-1. **Low-Fidelity Prototyping:** 
+1. **Low-Fidelity Prototyping:**
 I sketched and wireframed three initial prototypes focused on clarity, ease of navigation, and mobile-friendliness. These prototypes included basic seat selection flows and various visual treatments for seat availability.
 
-2. **Early Usability Testing:** 
+2. **Early Usability Testing:**
 These prototypes were casually tested with coworkers for initial feedback and then tested with a small group of customers. The feedback informed areas of improvement, including the need for better grouping of seats and clearer legends.
 
-3. **Iterative Design Process:** 
+3. **Iterative Design Process:**
 Over the next several months, I iterated through **10 prototypes**, refining features based on multiple rounds of **usability testing** with diverse customer segments. Key adjustments included:
   - Enhancing seat clarity and size for mobile users.
   - Adding hover and tooltip interactions to display additional seat details (e.g., price and view).
@@ -106,13 +103,13 @@ Different teams often had competing priorities, ranging from marketing concerns 
 
 After finalizing the prototype, I worked with developers to implement the solution incrementally:
 
-1. **Limited Release:** 
+1. **Limited Release:**
 The feature launched on a limited number of events, allowing us to monitor usage patterns and collect real-world feedback.
 
-2. **Feedback Integration:** 
+2. **Feedback Integration:**
 Over six months, data gathered from user interactions and surveys helped us refine the design. Notable improvements included better performance optimization for mobile and clearer seating legends.
 
-3. **Full Rollout:** 
+3. **Full Rollout:**
 The fully developed solution was integrated into all applicable premium ticket listings.
 
 ### Key Metrics & Results

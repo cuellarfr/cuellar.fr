@@ -2,12 +2,7 @@
 layout: case
 title: Trimble ID Migration
 description: A user migration to a new authentication system.
-tags: 
-  - flows
-  - wireframing
-  - prototyping
-  - usability testing
-duration: 3 Months, January 2022
+tags: flows, wireframing, prototyping, usability
 year: 2022
 sponsor: Trimble
 image: /assets/images/tid-header.webp
@@ -50,7 +45,7 @@ The UX and Product teams worked closely to identify and map out all possible sce
 
 We created a comprehensive communication plan to prepare users well in advance. This included several touchpoints:
 
-- **Help Pages and Video Tutorials**: The IX department created an introductory landing page, followed by detailed help pages and video tutorials explaining the migration process. 
+- **Help Pages and Video Tutorials**: The IX department created an introductory landing page, followed by detailed help pages and video tutorials explaining the migration process.
 - **Email Campaign**: Emails were sent to 60,000 VPID users, with an open rate of 68% and a conversion rate of 96%. Weekly follow-ups provided detailed next steps and addressed common questions.
 - **Login Page**: Both the Spectrum and Vista login pages featured banners announcing the migration and links to help pages. These banners achieved a 60% engagement rate.
 - **Customer Forum**: Dedicated forum threads shared migration updates and FAQs, attracting over 15,000 views and receiving a 97% positive feedback rate.

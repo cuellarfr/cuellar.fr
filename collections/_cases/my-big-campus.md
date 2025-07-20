@@ -2,12 +2,7 @@
 layout: case
 title: My Big Campus
 description: My Big Campus is a Learning Management System for K-12 schools developed by Lightspeed Systems.
-tags: 
-  - user research
-  - scenarios
-  - prototyping
-  - front-end development
-  - visual design
+tags: research, scenarios, prototyping, front-end, visual
 duration: 3 Years, March 2015
 year: 2015
 sponsor: Lightspeed Systems.
