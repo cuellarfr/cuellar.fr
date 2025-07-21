@@ -119,7 +119,7 @@ The dashboard serves as the command center for small construction businesses, tr
 - Outstanding invoices and payments due
 - Quick access to common tasks
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="1000" src="https://embed.figma.com/proto/2O9JHB62uO7GlWbyIFD6pI/Prism-SMB---Dashboard?page-id=1998%3A13909&node-id=2107-32686&p=f&viewport=292%2C381%2C0.04&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2107%3A32686&embed-host=share" allowfullscreen></iframe>
+<!-- <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="1000" src="https://embed.figma.com/proto/2O9JHB62uO7GlWbyIFD6pI/Prism-SMB---Dashboard?page-id=1998%3A13909&node-id=2107-32686&p=f&viewport=292%2C381%2C0.04&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2107%3A32686&embed-host=share" allowfullscreen></iframe> -->
 
 ### Job Creation Wizard
 
@@ -132,7 +132,7 @@ The “Add a Job” wizard exemplifies our approach to simplifying complex proce
 
 These workflows transform intimidating accounting tasks into manageable, guided experiences.
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="650" src="https://embed.figma.com/proto/KQIfvYz74Ep5e5qQr6DpKL/Prism-SMB---Create-Job?page-id=6221%3A12284&node-id=9730-14968&viewport=686%2C-913%2C0.17&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=9730%3A14968&embed-host=share" allowfullscreen></iframe>
+<!-- <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="650" src="https://embed.figma.com/proto/KQIfvYz74Ep5e5qQr6DpKL/Prism-SMB---Create-Job?page-id=6221%3A12284&node-id=9730-14968&viewport=686%2C-913%2C0.17&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=9730%3A14968&embed-host=share" allowfullscreen></iframe> -->
 
 ---
 
