@@ -41,6 +41,7 @@ The research was synthesized into two **user personas** that captured the needs,
     <img src="/assets/images/prism-persona1.jpg" alt="Marty, the owner operator">
     <img src="/assets/images/prism-persona2.jpg" alt="Alex, the owner operator">
   </div>
+  <figcaption style="margin-top:-1.5em;">Marty and Alex, our user personas.</figcaption>
 </figure>
 
 ---
@@ -56,10 +57,32 @@ Based on the research findings and discussions with the product team and stakeho
 
 We presented a high-level flow map and prototype with our initial ideas, which were validated by C-level executives.
 
-<img src="/assets/images/prism-earlyflow.webp" alt="Early flow">
+<figure>
+    <!-- thumbnail image wrapped in a link -->
+    <a href="#img6">
+        <img src="/assets/images/prism-earlyflow.webp" alt="Early flow">
+    </a>
 
-<img src="/assets/images/prism-earlydemo.webp" alt="Early Demo">
+    <!-- lightbox container hidden with CSS -->
+    <a href="#_" class="lightbox" id="img6">
+      <img src="/assets/images/prism-earlyflow.webp" alt="Early flow">
+    </a>
+    <figcaption style="margin-top:-1.5em;">High-level flow map.</figcaption>
+</figure>
 
+
+<figure>
+    <!-- thumbnail image wrapped in a link -->
+    <a href="#img7">
+        <img src="/assets/images/prism-earlydemo.webp" alt="Early Demo">
+    </a>
+
+    <!-- lightbox container hidden with CSS -->
+    <a href="#_" class="lightbox" id="img7">
+      <img src="/assets/images/prism-earlydemo.webp" alt="Early Demo">
+    </a>
+    <figcaption style="margin-top:-1.5em;">Wireframes from an early demo.</figcaption>
+</figure>
 
 ---
 
@@ -129,7 +152,19 @@ The “Add a Job” wizard exemplifies our approach to simplifying complex proce
 
 These workflows transform intimidating accounting tasks into manageable, guided experiences.
 
-<img src="/assets/images/prism-addjob.webp" alt="Screens of the job creation wizard">
+<figure>
+    <!-- thumbnail image wrapped in a link -->
+    <a href="#img8">
+        <img src="/assets/images/prism-addjob.webp" alt="Screens of the job creation wizard">
+    </a>
+
+    <!-- lightbox container hidden with CSS -->
+    <a href="#_" class="lightbox" id="img8">
+      <img src="/assets/images/prism-addjob.webp" alt="Screens of the job creation wizard">
+    </a>
+    <figcaption style="margin-top:-1.5em;">Screens of the job creation wizard on Figma.</figcaption>
+</figure>
+
 
 ---
 
