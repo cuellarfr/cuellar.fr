@@ -30,18 +30,17 @@ Trimble had no previous experience working with this market. We needed to unders
 
 ### Discovery Process
 
-We partnered with an external agency to conduct discovery research with 35 people through in-depth, 60-minute interviews. The research was segmented by company revenue and explored the digitization journey of small construction businesses - how they form, operate, and expand.
+We partnered with an external agency to conduct discovery research with 35 people through in-depth, **60-minute interviews.** The research was segmented by company revenue and explored the digitization journey of small construction businesses - how they form, operate, and expand.
 
 ### Key Outputs
 
-The research was synthesized into two user personas that captured the needs, behaviors, and pain points of our target users. These personas guided the design process and informed the development of the product. They also helped us identify the most common challenges faced by small construction businesses and the opportunities for improvement.
+The research was synthesized into two **user personas** that captured the needs, behaviors, and pain points of our target users. These personas guided the design process and informed the development of the product. They also helped us identify the most common challenges faced by small construction businesses and the opportunities for improvement.
 
 <figure>
   <div class="carousel" data-flickity='{ "imagesLoaded": true, "percentPosition": false }'>
     <img src="/assets/images/prism-persona1.jpg" alt="Marty, the owner operator">
     <img src="/assets/images/prism-persona2.jpg" alt="Alex, the owner operator">
   </div>
-  <figcaption style="margin-top:-1.5em;">Our user personas.</figcaption>
 </figure>
 
 ---
@@ -57,12 +56,10 @@ Based on the research findings and discussions with the product team and stakeho
 
 We presented a high-level flow map and prototype with our initial ideas, which were validated by C-level executives.
 
-<figure>
-    <img src="/assets/images/prism-earlyflow.webp" alt="Early flow">
-  <figcaption style="margin-top:-1.5em;">High-level flow map.</figcaption>
-</figure>
+<img src="/assets/images/prism-earlyflow.webp" alt="Early flow">
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="1000" src="https://embed.figma.com/proto/vhIwMKuRy6Y0ANWVNYupuG/Prism-SMB---Early-Demo-2024?page-id=0%3A1&node-id=3-558&viewport=672%2C724%2C0.45&scaling=scale-down&content-scaling=fixed&starting-point-node-id=3%3A558&embed-host=share" allowfullscreen></iframe>
+<img src="/assets/images/prism-earlydemo.webp" alt="Early Demo">
+
 
 ---
 
@@ -119,7 +116,7 @@ The dashboard serves as the command center for small construction businesses, tr
 - Outstanding invoices and payments due
 - Quick access to common tasks
 
-<!-- <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="1000" src="https://embed.figma.com/proto/2O9JHB62uO7GlWbyIFD6pI/Prism-SMB---Dashboard?page-id=1998%3A13909&node-id=2107-32686&p=f&viewport=292%2C381%2C0.04&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2107%3A32686&embed-host=share" allowfullscreen></iframe> -->
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="1000" src="https://embed.figma.com/proto/2O9JHB62uO7GlWbyIFD6pI/Prism-SMB---Dashboard?page-id=1998%3A13909&node-id=2107-32686&p=f&viewport=292%2C381%2C0.04&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2107%3A32686&embed-host=share" allowfullscreen></iframe>
 
 ### Job Creation Wizard
 
@@ -132,7 +129,7 @@ The “Add a Job” wizard exemplifies our approach to simplifying complex proce
 
 These workflows transform intimidating accounting tasks into manageable, guided experiences.
 
-<!-- <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="650" src="https://embed.figma.com/proto/KQIfvYz74Ep5e5qQr6DpKL/Prism-SMB---Create-Job?page-id=6221%3A12284&node-id=9730-14968&viewport=686%2C-913%2C0.17&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=9730%3A14968&embed-host=share" allowfullscreen></iframe> -->
+<img src="/assets/images/prism-addjob.webp" alt="Screens of the job creation wizard">
 
 ---
 
