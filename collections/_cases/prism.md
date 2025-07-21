@@ -7,7 +7,7 @@ duration: September 2024 - Present
 year: 2025
 sponsor: Trimble
 image: /assets/images/prism-header.webp
-thumbnail: overview-tb2.png
+thumbnail: overview-tb1.png
 sitemap: false
 published: true
 ---
